@@ -1,0 +1,48 @@
+[
+  {
+    "id": "MALA.ANAVA",
+    "kind": "Mala",
+    "nameIast": "Āṇava Mala",
+    "nameDevanagari": "आणवमल",
+    "description": "The primordial, innate spiritual impurity of self-limitation and perceived existential lack. It is the root illusion through which the limitless Lord feels 'I am tiny, finite, incomplete, and helpless'.",
+    "manifestation": "Existential anxiety, feelings of inadequacy, craving for validation, and the foundational split between the self and the fullness of divine reality.",
+    "dissolutionMethod": "Dissolved through Śāmbhavopāya and direct Śaktipāta, realizing the innate purity and uncontracted sovereignty (Svātantrya) of one's true nature.",
+    "mappedVerses": [
+      "PH.7",
+      "PH.9",
+      "SS.1.2",
+      "SK.1.8"
+    ]
+  },
+  {
+    "id": "MALA.MAYIYA",
+    "kind": "Mala",
+    "nameIast": "Māyīya Mala",
+    "nameDevanagari": "मायीयमल",
+    "description": "The impurity of dualistic perception that fractures seamless consciousness into competing subjects, objects, friends, and enemies.",
+    "manifestation": "Perceiving the external world as separate from and independent of Consciousness; seeing the body and environment as alien matter.",
+    "dissolutionMethod": "Dissolved through Śāktopāya (purified cognitive inquiry) and Pratyabhijñā (recognition that every object is an Ābhāsa/shining of one's own awareness).",
+    "mappedVerses": [
+      "PH.7",
+      "PH.9",
+      "SS.3.3",
+      "SK.1.9"
+    ]
+  },
+  {
+    "id": "MALA.KARMA",
+    "kind": "Mala",
+    "nameIast": "Kārma Mala",
+    "nameDevanagari": "कार्ममल",
+    "description": "The impurity of moralistic entanglement and bound agency that assumes 'I am the individual doer, and I must reap good or bad consequences according to merit and demerit'.",
+    "manifestation": "Guilt, compulsive striving, attachment to fruits of action, and entrapment within cycles of rebirth and psychological anxiety.",
+    "dissolutionMethod": "Dissolved through Āṇavopāya (surrendering actions to the supreme Lord) and recognizing that all action is the divine play of Śakti (Spanda).",
+    "mappedVerses": [
+      "PH.7",
+      "PH.9",
+      "SS.3.35",
+      "SK.1.10",
+      "BS.3"
+    ]
+  }
+]

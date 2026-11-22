@@ -1,0 +1,1794 @@
+[
+  {
+    "id": "DHARANA.001",
+    "kind": "Dharana",
+    "number": 1,
+    "verseId": "VBT.24",
+    "upayaId": "UPAYA.SAMBHAVA",
+    "doorway": "breath",
+    "level": "beginner",
+    "instructionsSummary": "Directing attention to the two spaces where the incoming breath dissolves and where the outgoing breath emerges, by centering awareness in the gap between them, the radiant form of Bhairava is revealed.",
+    "contemplativeFocalPoint": "Focus on breath in VBT.24.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "PH",
+      "targetVerseId": "PH.17",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.002",
+    "kind": "Dharana",
+    "number": 2,
+    "verseId": "VBT.25",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "breath",
+    "level": "beginner",
+    "instructionsSummary": "When the breath moves neither in nor out, resting motionless in the Center, through this effortless stillness, Consciousness blossoms into illumination.",
+    "contemplativeFocalPoint": "Focus on breath in VBT.25.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.003",
+    "kind": "Dharana",
+    "number": 3,
+    "verseId": "VBT.26",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "breath",
+    "level": "beginner",
+    "instructionsSummary": "Verse 26 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on breath in VBT.26.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.004",
+    "kind": "Dharana",
+    "number": 4,
+    "verseId": "VBT.27",
+    "upayaId": "UPAYA.SAMBHAVA",
+    "doorway": "breath",
+    "level": "beginner",
+    "instructionsSummary": "Verse 27 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on breath in VBT.27.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.005",
+    "kind": "Dharana",
+    "number": 5,
+    "verseId": "VBT.28",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 28 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.28.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.006",
+    "kind": "Dharana",
+    "number": 6,
+    "verseId": "VBT.29",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 29 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.29.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.007",
+    "kind": "Dharana",
+    "number": 7,
+    "verseId": "VBT.30",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 30 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.30.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.008",
+    "kind": "Dharana",
+    "number": 8,
+    "verseId": "VBT.31",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "gaze",
+    "level": "intermediate",
+    "instructionsSummary": "Verse 31 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on gaze in VBT.31.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.009",
+    "kind": "Dharana",
+    "number": 9,
+    "verseId": "VBT.32",
+    "upayaId": "UPAYA.SAMBHAVA",
+    "doorway": "gaze",
+    "level": "intermediate",
+    "instructionsSummary": "Severing all mental conceptions, fixing awareness on no object whatsoever, one directly enters the thought-free, unstirred essence of Bhairava.",
+    "contemplativeFocalPoint": "Focus on gaze in VBT.32.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SS",
+      "targetVerseId": "SS.1.5",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.010",
+    "kind": "Dharana",
+    "number": 10,
+    "verseId": "VBT.33",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "gaze",
+    "level": "intermediate",
+    "instructionsSummary": "Verse 33 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on gaze in VBT.33.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.011",
+    "kind": "Dharana",
+    "number": 11,
+    "verseId": "VBT.34",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "gaze",
+    "level": "intermediate",
+    "instructionsSummary": "Verse 34 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on gaze in VBT.34.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.012",
+    "kind": "Dharana",
+    "number": 12,
+    "verseId": "VBT.35",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "gaze",
+    "level": "intermediate",
+    "instructionsSummary": "Verse 35 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on gaze in VBT.35.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.013",
+    "kind": "Dharana",
+    "number": 13,
+    "verseId": "VBT.36",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 36 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.36.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.014",
+    "kind": "Dharana",
+    "number": 14,
+    "verseId": "VBT.37",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 37 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.37.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.015",
+    "kind": "Dharana",
+    "number": 15,
+    "verseId": "VBT.38",
+    "upayaId": "UPAYA.SAKTA",
+    "doorway": "sound",
+    "level": "beginner",
+    "instructionsSummary": "Plunging attention into the unbroken resonance of a musical instrument or continuous humming, when the sound fades into silence, one becomes identical with the supreme space.",
+    "contemplativeFocalPoint": "Focus on sound in VBT.38.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.016",
+    "kind": "Dharana",
+    "number": 16,
+    "verseId": "VBT.39",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "sound",
+    "level": "beginner",
+    "instructionsSummary": "Verse 39 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on sound in VBT.39.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.017",
+    "kind": "Dharana",
+    "number": 17,
+    "verseId": "VBT.40",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "sound",
+    "level": "beginner",
+    "instructionsSummary": "Verse 40 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on sound in VBT.40.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.018",
+    "kind": "Dharana",
+    "number": 18,
+    "verseId": "VBT.41",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "sound",
+    "level": "beginner",
+    "instructionsSummary": "Verse 41 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on sound in VBT.41.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.019",
+    "kind": "Dharana",
+    "number": 19,
+    "verseId": "VBT.42",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "sound",
+    "level": "beginner",
+    "instructionsSummary": "Verse 42 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on sound in VBT.42.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.020",
+    "kind": "Dharana",
+    "number": 20,
+    "verseId": "VBT.43",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "space",
+    "level": "beginner",
+    "instructionsSummary": "Contemplating the entire physical body or the universe as completely hollow, like an empty earthen vessel, with no substance inside, the mind dissolves into the infinite void.",
+    "contemplativeFocalPoint": "Focus on space in VBT.43.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.021",
+    "kind": "Dharana",
+    "number": 21,
+    "verseId": "VBT.44",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "space",
+    "level": "beginner",
+    "instructionsSummary": "Verse 44 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on space in VBT.44.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.022",
+    "kind": "Dharana",
+    "number": 22,
+    "verseId": "VBT.45",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "space",
+    "level": "beginner",
+    "instructionsSummary": "Verse 45 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on space in VBT.45.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.023",
+    "kind": "Dharana",
+    "number": 23,
+    "verseId": "VBT.46",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 46 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.46.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.024",
+    "kind": "Dharana",
+    "number": 24,
+    "verseId": "VBT.47",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 47 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.47.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.025",
+    "kind": "Dharana",
+    "number": 25,
+    "verseId": "VBT.48",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 48 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.48.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.026",
+    "kind": "Dharana",
+    "number": 26,
+    "verseId": "VBT.49",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 49 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.49.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.027",
+    "kind": "Dharana",
+    "number": 27,
+    "verseId": "VBT.50",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 50 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.50.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.028",
+    "kind": "Dharana",
+    "number": 28,
+    "verseId": "VBT.51",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 51 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.51.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.029",
+    "kind": "Dharana",
+    "number": 29,
+    "verseId": "VBT.52",
+    "upayaId": "UPAYA.SAKTA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Visualizing the entire city of one's body being consumed by the blazing fire of Time (Kālāgni), at the end of the burning, immaculate peace dawns.",
+    "contemplativeFocalPoint": "Focus on body in VBT.52.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.030",
+    "kind": "Dharana",
+    "number": 30,
+    "verseId": "VBT.53",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 53 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.53.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.031",
+    "kind": "Dharana",
+    "number": 31,
+    "verseId": "VBT.54",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "breath",
+    "level": "beginner",
+    "instructionsSummary": "Verse 54 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on breath in VBT.54.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.032",
+    "kind": "Dharana",
+    "number": 32,
+    "verseId": "VBT.55",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "breath",
+    "level": "beginner",
+    "instructionsSummary": "Verse 55 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on breath in VBT.55.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.033",
+    "kind": "Dharana",
+    "number": 33,
+    "verseId": "VBT.56",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 56 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.56.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.034",
+    "kind": "Dharana",
+    "number": 34,
+    "verseId": "VBT.57",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 57 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.57.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.035",
+    "kind": "Dharana",
+    "number": 35,
+    "verseId": "VBT.58",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "space",
+    "level": "beginner",
+    "instructionsSummary": "Verse 58 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on space in VBT.58.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.036",
+    "kind": "Dharana",
+    "number": 36,
+    "verseId": "VBT.59",
+    "upayaId": "UPAYA.SAMBHAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 59 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.59.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.037",
+    "kind": "Dharana",
+    "number": 37,
+    "verseId": "VBT.60",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 60 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.60.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.038",
+    "kind": "Dharana",
+    "number": 38,
+    "verseId": "VBT.61",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "gap",
+    "level": "intermediate",
+    "instructionsSummary": "Verse 61 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on gap in VBT.61.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.039",
+    "kind": "Dharana",
+    "number": 39,
+    "verseId": "VBT.62",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "gap",
+    "level": "intermediate",
+    "instructionsSummary": "Verse 62 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on gap in VBT.62.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.040",
+    "kind": "Dharana",
+    "number": 40,
+    "verseId": "VBT.63",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 63 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.63.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.041",
+    "kind": "Dharana",
+    "number": 41,
+    "verseId": "VBT.64",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "breath",
+    "level": "beginner",
+    "instructionsSummary": "Verse 64 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on breath in VBT.64.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.042",
+    "kind": "Dharana",
+    "number": 42,
+    "verseId": "VBT.65",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 65 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.65.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.043",
+    "kind": "Dharana",
+    "number": 43,
+    "verseId": "VBT.66",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 66 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.66.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.044",
+    "kind": "Dharana",
+    "number": 44,
+    "verseId": "VBT.67",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 67 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.67.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.045",
+    "kind": "Dharana",
+    "number": 45,
+    "verseId": "VBT.68",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 68 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.68.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.046",
+    "kind": "Dharana",
+    "number": 46,
+    "verseId": "VBT.69",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 69 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.69.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.047",
+    "kind": "Dharana",
+    "number": 47,
+    "verseId": "VBT.70",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 70 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.70.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.048",
+    "kind": "Dharana",
+    "number": 48,
+    "verseId": "VBT.71",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 71 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.71.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.049",
+    "kind": "Dharana",
+    "number": 49,
+    "verseId": "VBT.72",
+    "upayaId": "UPAYA.SAKTA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 72 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.72.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.050",
+    "kind": "Dharana",
+    "number": 50,
+    "verseId": "VBT.73",
+    "upayaId": "UPAYA.SAKTA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Upon seeing a beloved friend after a long absence, at the sudden flash of overwhelming joy, one should rest attention on that ecstatic delight and become one with it.",
+    "contemplativeFocalPoint": "Focus on body in VBT.73.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.051",
+    "kind": "Dharana",
+    "number": 51,
+    "verseId": "VBT.74",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 74 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.74.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.052",
+    "kind": "Dharana",
+    "number": 52,
+    "verseId": "VBT.75",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "gap",
+    "level": "intermediate",
+    "instructionsSummary": "Verse 75 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on gap in VBT.75.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.053",
+    "kind": "Dharana",
+    "number": 53,
+    "verseId": "VBT.76",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "gaze",
+    "level": "intermediate",
+    "instructionsSummary": "Verse 76 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on gaze in VBT.76.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.054",
+    "kind": "Dharana",
+    "number": 54,
+    "verseId": "VBT.77",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 77 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.77.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.055",
+    "kind": "Dharana",
+    "number": 55,
+    "verseId": "VBT.78",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 78 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.78.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.056",
+    "kind": "Dharana",
+    "number": 56,
+    "verseId": "VBT.79",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 79 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.79.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.057",
+    "kind": "Dharana",
+    "number": 57,
+    "verseId": "VBT.80",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 80 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.80.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.058",
+    "kind": "Dharana",
+    "number": 58,
+    "verseId": "VBT.81",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 81 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.81.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.059",
+    "kind": "Dharana",
+    "number": 59,
+    "verseId": "VBT.82",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 82 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.82.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.060",
+    "kind": "Dharana",
+    "number": 60,
+    "verseId": "VBT.83",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 83 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.83.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.061",
+    "kind": "Dharana",
+    "number": 61,
+    "verseId": "VBT.84",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "space",
+    "level": "beginner",
+    "instructionsSummary": "Verse 84 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on space in VBT.84.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.062",
+    "kind": "Dharana",
+    "number": 62,
+    "verseId": "VBT.85",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "space",
+    "level": "beginner",
+    "instructionsSummary": "Verse 85 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on space in VBT.85.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.063",
+    "kind": "Dharana",
+    "number": 63,
+    "verseId": "VBT.86",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 86 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.86.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.064",
+    "kind": "Dharana",
+    "number": 64,
+    "verseId": "VBT.87",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 87 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.87.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.065",
+    "kind": "Dharana",
+    "number": 65,
+    "verseId": "VBT.88",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 88 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.88.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.066",
+    "kind": "Dharana",
+    "number": 66,
+    "verseId": "VBT.89",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 89 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.89.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.067",
+    "kind": "Dharana",
+    "number": 67,
+    "verseId": "VBT.90",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 90 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.90.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.068",
+    "kind": "Dharana",
+    "number": 68,
+    "verseId": "VBT.91",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 91 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.91.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.069",
+    "kind": "Dharana",
+    "number": 69,
+    "verseId": "VBT.92",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "space",
+    "level": "beginner",
+    "instructionsSummary": "Verse 92 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on space in VBT.92.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.070",
+    "kind": "Dharana",
+    "number": 70,
+    "verseId": "VBT.93",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 93 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.93.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.071",
+    "kind": "Dharana",
+    "number": 71,
+    "verseId": "VBT.94",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 94 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.94.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.072",
+    "kind": "Dharana",
+    "number": 72,
+    "verseId": "VBT.95",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 95 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.95.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.073",
+    "kind": "Dharana",
+    "number": 73,
+    "verseId": "VBT.96",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 96 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.96.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.074",
+    "kind": "Dharana",
+    "number": 74,
+    "verseId": "VBT.97",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 97 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.97.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.075",
+    "kind": "Dharana",
+    "number": 75,
+    "verseId": "VBT.98",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 98 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.98.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.076",
+    "kind": "Dharana",
+    "number": 76,
+    "verseId": "VBT.99",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 99 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.99.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.077",
+    "kind": "Dharana",
+    "number": 77,
+    "verseId": "VBT.100",
+    "upayaId": "UPAYA.SAMBHAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 100 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.100.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.078",
+    "kind": "Dharana",
+    "number": 78,
+    "verseId": "VBT.101",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "emotion",
+    "level": "advanced",
+    "instructionsSummary": "Verse 101 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on emotion in VBT.101.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.079",
+    "kind": "Dharana",
+    "number": 79,
+    "verseId": "VBT.102",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 102 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.102.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.080",
+    "kind": "Dharana",
+    "number": 80,
+    "verseId": "VBT.103",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 103 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.103.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.081",
+    "kind": "Dharana",
+    "number": 81,
+    "verseId": "VBT.104",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 104 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.104.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.082",
+    "kind": "Dharana",
+    "number": 82,
+    "verseId": "VBT.105",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 105 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.105.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.083",
+    "kind": "Dharana",
+    "number": 83,
+    "verseId": "VBT.106",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 106 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.106.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.084",
+    "kind": "Dharana",
+    "number": 84,
+    "verseId": "VBT.107",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 107 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.107.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.085",
+    "kind": "Dharana",
+    "number": 85,
+    "verseId": "VBT.108",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 108 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.108.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.086",
+    "kind": "Dharana",
+    "number": 86,
+    "verseId": "VBT.109",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 109 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.109.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.087",
+    "kind": "Dharana",
+    "number": 87,
+    "verseId": "VBT.110",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 110 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.110.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.088",
+    "kind": "Dharana",
+    "number": 88,
+    "verseId": "VBT.111",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 111 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.111.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.089",
+    "kind": "Dharana",
+    "number": 89,
+    "verseId": "VBT.112",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 112 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.112.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.090",
+    "kind": "Dharana",
+    "number": 90,
+    "verseId": "VBT.113",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 113 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.113.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.091",
+    "kind": "Dharana",
+    "number": 91,
+    "verseId": "VBT.114",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 114 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.114.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.092",
+    "kind": "Dharana",
+    "number": 92,
+    "verseId": "VBT.115",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "emotion",
+    "level": "advanced",
+    "instructionsSummary": "Verse 115 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on emotion in VBT.115.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.093",
+    "kind": "Dharana",
+    "number": 93,
+    "verseId": "VBT.116",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 116 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.116.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.094",
+    "kind": "Dharana",
+    "number": 94,
+    "verseId": "VBT.117",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 117 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.117.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.095",
+    "kind": "Dharana",
+    "number": 95,
+    "verseId": "VBT.118",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "emotion",
+    "level": "advanced",
+    "instructionsSummary": "Verse 118 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on emotion in VBT.118.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.096",
+    "kind": "Dharana",
+    "number": 96,
+    "verseId": "VBT.119",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 119 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.119.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.097",
+    "kind": "Dharana",
+    "number": 97,
+    "verseId": "VBT.120",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 120 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.120.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.098",
+    "kind": "Dharana",
+    "number": 98,
+    "verseId": "VBT.121",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 121 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.121.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.099",
+    "kind": "Dharana",
+    "number": 99,
+    "verseId": "VBT.122",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 122 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.122.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.100",
+    "kind": "Dharana",
+    "number": 100,
+    "verseId": "VBT.123",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 123 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.123.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.101",
+    "kind": "Dharana",
+    "number": 101,
+    "verseId": "VBT.124",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 124 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.124.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.102",
+    "kind": "Dharana",
+    "number": 102,
+    "verseId": "VBT.125",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 125 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.125.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.103",
+    "kind": "Dharana",
+    "number": 103,
+    "verseId": "VBT.126",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 126 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.126.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.104",
+    "kind": "Dharana",
+    "number": 104,
+    "verseId": "VBT.127",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 127 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.127.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.105",
+    "kind": "Dharana",
+    "number": 105,
+    "verseId": "VBT.128",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 128 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.128.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.106",
+    "kind": "Dharana",
+    "number": 106,
+    "verseId": "VBT.129",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 129 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.129.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.107",
+    "kind": "Dharana",
+    "number": 107,
+    "verseId": "VBT.130",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 130 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.130.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.108",
+    "kind": "Dharana",
+    "number": 108,
+    "verseId": "VBT.131",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 131 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.131.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.109",
+    "kind": "Dharana",
+    "number": 109,
+    "verseId": "VBT.132",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 132 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.132.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.110",
+    "kind": "Dharana",
+    "number": 110,
+    "verseId": "VBT.133",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 133 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.133.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.111",
+    "kind": "Dharana",
+    "number": 111,
+    "verseId": "VBT.134",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 134 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.134.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  },
+  {
+    "id": "DHARANA.112",
+    "kind": "Dharana",
+    "number": 112,
+    "verseId": "VBT.135",
+    "upayaId": "UPAYA.ANAVA",
+    "doorway": "body",
+    "level": "advanced",
+    "instructionsSummary": "Verse 135 of the Vijñāna Bhairava Tantra.",
+    "contemplativeFocalPoint": "Focus on body in VBT.135.",
+    "whyItWorksGraphProof": {
+      "targetTextId": "SK",
+      "targetVerseId": "SK.1.1",
+      "rationale": "By pausing between fluctuations, the central channel opens (Madhya-vikāsa), allowing the light of Consciousness to shine without obstruction."
+    }
+  }
+]

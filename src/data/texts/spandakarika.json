@@ -1,0 +1,2143 @@
+{
+  "textInfo": {
+    "id": "SK",
+    "kind": "Text",
+    "titleIast": "Spanda Kārikās",
+    "titleDevanagari": "स्पन्दकारिकाः",
+    "authorIast": "Vasugupta / Bhaṭṭa Kallaṭa",
+    "century": "mid 9th century CE (~850 CE)",
+    "stage": 3,
+    "description": "The definitive exposition of the Spanda (vibrational) principle of Consciousness. 52 verses demonstrating that Reality is neither an inert static void nor changing matter, but the ecstatic throb of divine Awareness.",
+    "verseCount": 53,
+    "provenance": {
+      "source": "GRETIL M.K. Shastri 1925 Edition",
+      "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+      "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+      "verification_status": "verified_canonical"
+    }
+  },
+  "verses": [
+    {
+      "id": "SK.1.1",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 1,
+      "subDivision": "Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse)",
+      "devanagari": "यस्योन्मेषनिमेषाभ्यां जगतः प्रलयोदयौ । तं शक्तिचक्रविभवप्रभवं शङ्करं स्तुमः ॥ 1.1 ॥",
+      "iast": "yasyonmeṣanimeṣābhyāṃ jagataḥ pralayodayau | taṃ śakticakravibhavaprabhavaṃ śaṅkaraṃ stumaḥ || 1.1 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "यस्योन्मेषनिमेषाभ्यां",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "We praise that Śaṅkara, the source of the glory of the wheel of powers, through whose opening and closing of awareness (Unmeṣa and Nimeṣa) the universe undergoes dissolution and emergence.",
+      "practicalContext": "The celebrated opening verse establishing that cosmic creation and dissolution are simply the opening and closing of Consciousness, and that Śaṅkara is the master of all energetic powers.",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA",
+        "CONCEPT.UNMESA",
+        "CONCEPT.NIMESA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.1.2",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 2,
+      "subDivision": "Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse)",
+      "devanagari": "यत्र स्थितमिदं सर्वं कार्यं यस्माच् च निर्गतम् । तस्यानावृतरूपत्वान् न निरोधोऽस्ति कुत्रचित् ॥ 1.2 ॥",
+      "iast": "spandakārikā verse 1.2",
+      "padaccheda": [
+        {
+          "wordDevanagari": "यत्र",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 1.2 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.1.3",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 3,
+      "subDivision": "Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse)",
+      "devanagari": "जाग्रदादिविभेदेऽपि तदभिन्ने प्रसर्पति । निवर्तते निजान् नैव स्वभावादुपलब्धृतः ॥ 1.3 ॥",
+      "iast": "spandakārikā verse 1.3",
+      "padaccheda": [
+        {
+          "wordDevanagari": "जाग्रदादिविभेदेऽपि",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 1.3 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.1.4",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 4,
+      "subDivision": "Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse)",
+      "devanagari": "अहं सुखी च दुःखी च रक्तश्चेत्यादिसंविदः । सुखाद्यवस्थानुस्यूते वर्तन्ते ऽन्यत्र ताः स्फुटम् ॥ 1.4 ॥",
+      "iast": "spandakārikā verse 1.4",
+      "padaccheda": [
+        {
+          "wordDevanagari": "अहं",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 1.4 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.1.5",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 5,
+      "subDivision": "Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse)",
+      "devanagari": "न दुःखं न सुखं यत्र न ग्राह्यं ग्राहकं न च । न चास्ति मूढभावोऽपि तदस्ति परमार्थतः ॥ 1.5 ॥",
+      "iast": "spandakārikā verse 1.5",
+      "padaccheda": [
+        {
+          "wordDevanagari": "न",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 1.5 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.1.6",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 6,
+      "subDivision": "Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse)",
+      "devanagari": "यतः करणवर्गो ऽयं विमूढो ऽमूढवत् स्वयम् । सहान्तरेण चक्रेण प्रवृत्तिस्थितिसंहृतीः ॥ 1.6 ॥",
+      "iast": "spandakārikā verse 1.6",
+      "padaccheda": [
+        {
+          "wordDevanagari": "यतः",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 1.6 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.1.7",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 7,
+      "subDivision": "Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse)",
+      "devanagari": "लभते तत्प्रयत्नेन परीक्ष्यं तत्त्वमादरात् । यतः स्वतन्त्रता तस्य सर्वत्रेयम् अकृत्रिमा ॥ 1.7 ॥",
+      "iast": "spandakārikā verse 1.7",
+      "padaccheda": [
+        {
+          "wordDevanagari": "लभते",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 1.7 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.1.8",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 8,
+      "subDivision": "Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse)",
+      "devanagari": "न हीच्छानोदनस्यायं प्रेरकत्वेन वर्तते । अपि त्व् आत्मबलस्पर्शात् पुरुषस् तत्समो भवेत् ॥ 1.8 ॥",
+      "iast": "spandakārikā verse 1.8",
+      "padaccheda": [
+        {
+          "wordDevanagari": "न",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 1.8 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.1.9",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 9,
+      "subDivision": "Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse)",
+      "devanagari": "निजाशुद्ध्यासमर्थस्य कर्तव्येष्वभिलाषिणः । यदा क्षोभः प्रलीयेत तदा स्यात्परमं पदम् ॥ 1.9 ॥",
+      "iast": "spandakārikā verse 1.9",
+      "padaccheda": [
+        {
+          "wordDevanagari": "निजाशुद्ध्यासमर्थस्य",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 1.9 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.1.10",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 10,
+      "subDivision": "Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse)",
+      "devanagari": "तदास्याकृत्रिमो धर्मो ज्ञत्वकर्तृत्वलक्षणः । यतस् तदेप्सितं सर्वं जानाति च करोति च ॥ 1.10 ॥",
+      "iast": "spandakārikā verse 1.10",
+      "padaccheda": [
+        {
+          "wordDevanagari": "तदास्याकृत्रिमो",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 1.10 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.1.11",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 11,
+      "subDivision": "Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse)",
+      "devanagari": "तमधिष्ठातृभावेन स्वभावमवलोकयन् । स्मयमान इवास्ते यस् तस्येयं कुसृतिः कुतः ॥ 1.11 ॥",
+      "iast": "spandakārikā verse 1.11",
+      "padaccheda": [
+        {
+          "wordDevanagari": "तमधिष्ठातृभावेन",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 1.11 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.1.12",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 12,
+      "subDivision": "Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse)",
+      "devanagari": "नाभावो भाव्यतामेति न च तत्रास्त्य् अमूढता । यतो ऽभियोगसंस्पर्शात् तदासीद् इति निश्चयः ॥ 1.12 ॥",
+      "iast": "spandakārikā verse 1.12",
+      "padaccheda": [
+        {
+          "wordDevanagari": "नाभावो",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 1.12 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.1.13",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 13,
+      "subDivision": "Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse)",
+      "devanagari": "अतस् तत् कृत्रिमं ज्ञेयं सौषुप्तपदवत् सदा । न त्व् एवं स्मर्यमाणत्वं तत् तत्त्वं प्रतिपद्यते ॥ 1.13 ॥",
+      "iast": "spandakārikā verse 1.13",
+      "padaccheda": [
+        {
+          "wordDevanagari": "अतस्",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 1.13 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.1.14",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 14,
+      "subDivision": "Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse)",
+      "devanagari": "अवस्थायुगलं चात्र कार्यकर्तृत्वशब्दितम् । कार्यता क्षयिणी तत्र कर्तृत्वं पुनरक्षयम् ॥ 1.14 ॥",
+      "iast": "spandakārikā verse 1.14",
+      "padaccheda": [
+        {
+          "wordDevanagari": "अवस्थायुगलं",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 1.14 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.1.15",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 15,
+      "subDivision": "Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse)",
+      "devanagari": "कार्योन्मुखः प्रयत्नो यः केवलं सो ऽत्र लुप्यते । तस्मिंल् लुप्ते विलुप्तो ऽस्मीत्यबुधः प्रतिपद्यते ॥ 1.15 ॥",
+      "iast": "spandakārikā verse 1.15",
+      "padaccheda": [
+        {
+          "wordDevanagari": "कार्योन्मुखः",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 1.15 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.1.16",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 16,
+      "subDivision": "Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse)",
+      "devanagari": "न तु यो ऽन्तर्मुखो भावः सर्वज्ञत्वगुणास्पदम् । तस्य लोपः कदाचित्स्याद् अन्यस्यानुपलम्भनात् ॥ 1.16 ॥",
+      "iast": "spandakārikā verse 1.16",
+      "padaccheda": [
+        {
+          "wordDevanagari": "न",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 1.16 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.1.17",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 17,
+      "subDivision": "Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse)",
+      "devanagari": "तस्योपलब्धिः सततं त्रिपदाव्यभिचारिणी । नित्यं स्यात्सुप्रबुद्धस्य तदाद्यन्ते परस्य तु ॥ 1.17 ॥",
+      "iast": "spandakārikā verse 1.17",
+      "padaccheda": [
+        {
+          "wordDevanagari": "तस्योपलब्धिः",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 1.17 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.1.18",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 18,
+      "subDivision": "Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse)",
+      "devanagari": "ज्ञानज्ञेयस्वरूपिण्या शक्त्या परमया युतः । पदद्वये विभुर्भाति तदन्यत्र तु चिन्मयः ॥ 1.18 ॥",
+      "iast": "spandakārikā verse 1.18",
+      "padaccheda": [
+        {
+          "wordDevanagari": "ज्ञानज्ञेयस्वरूपिण्या",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 1.18 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.1.19",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 19,
+      "subDivision": "Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse)",
+      "devanagari": "गुणादिस्पन्दनिःष्यन्दाः सामान्यस्पन्दसंश्रयात् । लब्धात्मलाभाः सततं स्युर् ज्ञस्यापरिपन्थिनः ॥ 1.19 ॥",
+      "iast": "spandakārikā verse 1.19",
+      "padaccheda": [
+        {
+          "wordDevanagari": "गुणादिस्पन्दनिःष्यन्दाः",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 1.19 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.1.20",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 20,
+      "subDivision": "Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse)",
+      "devanagari": "अप्रबुद्धधियस् त्व् एते स्वस्थितिस्थगनोद्यताः । पातयन्ति दुरुत्तारे घोरे संसारवर्त्मनि ॥ 1.20 ॥",
+      "iast": "spandakārikā verse 1.20",
+      "padaccheda": [
+        {
+          "wordDevanagari": "अप्रबुद्धधियस्",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 1.20 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.1.21",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 21,
+      "subDivision": "Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse)",
+      "devanagari": "अतः सततमुद्युक्तः स्पन्दतत्त्वविविक्तये । जाग्रदेव निजं भावम् अचिरेणाधिगच्छति ॥ 1.21 ॥",
+      "iast": "spandakārikā verse 1.21",
+      "padaccheda": [
+        {
+          "wordDevanagari": "अतः",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 1.21 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.1.22",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 22,
+      "subDivision": "Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse)",
+      "devanagari": "अतिक्रुद्धः प्रहृष्टो वा किं करोमीति वा मृशन् । धावन्वा यत्पदं गच्छेत् तत्र स्पन्दः प्रतिष्ठितः ॥ 1.22 ॥",
+      "iast": "spandakārikā verse 1.22",
+      "padaccheda": [
+        {
+          "wordDevanagari": "अतिक्रुद्धः",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 1.22 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.1.23",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 23,
+      "subDivision": "Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse)",
+      "devanagari": "यामवस्थां समालम्ब्य यदयं मम वक्ष्यति । तदवश्यं करिष्ये ऽहमिति सङ्कल्प्य तिष्ठति ॥ 1.23 ॥",
+      "iast": "spandakārikā verse 1.23",
+      "padaccheda": [
+        {
+          "wordDevanagari": "यामवस्थां",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 1.23 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.1.24",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 24,
+      "subDivision": "Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse)",
+      "devanagari": "तामाश्रित्योर्ध्वमार्गेण चन्द्रसूर्याव् उभाव् अपि । सौषुम्नेऽध्वन्य् अस्तमितो हित्वा ब्रह्माण्डगोचरम् ॥ 1.24 ॥",
+      "iast": "spandakārikā verse 1.24",
+      "padaccheda": [
+        {
+          "wordDevanagari": "तामाश्रित्योर्ध्वमार्गेण",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 1.24 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.1.25",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 25,
+      "subDivision": "Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse)",
+      "devanagari": "तदा तस्मिन्महाव्योम्नि प्रलीनशशिभास्करे । सौषुप्तपदवन् मूढः प्रबुद्धः स्याद् अनावृतः ॥ 1.25 ॥",
+      "iast": "spandakārikā verse 1.25",
+      "padaccheda": [
+        {
+          "wordDevanagari": "तदा",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 1.25 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 1: Svarūpa-spanda (Nature of the Divine Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.2.1",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 26,
+      "subDivision": "Niḥsyanda 2: Sahaja-vidyodaya (Dawn of Innate Wisdom)",
+      "devanagari": "तदाक्रम्य बलं मन्त्राः सर्वज्ञबलशालिनः । प्रवर्तन्तेऽधिकाराय करणानीव देहिनाम् ॥ 2.1 ॥",
+      "iast": "spandakārikā verse 2.1",
+      "padaccheda": [
+        {
+          "wordDevanagari": "तदाक्रम्य",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 2.1 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 2: Sahaja-vidyodaya (Dawn of Innate Wisdom).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.2.2",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 27,
+      "subDivision": "Niḥsyanda 2: Sahaja-vidyodaya (Dawn of Innate Wisdom)",
+      "devanagari": "तत्रैव सम्प्रलीयन्ते शान्तरूपा निरञ्जनाः । सहाराधकचित्तेन तेनैते शिवधर्मिणः ॥ 2.2 ॥",
+      "iast": "spandakārikā verse 2.2",
+      "padaccheda": [
+        {
+          "wordDevanagari": "तत्रैव",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 2.2 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 2: Sahaja-vidyodaya (Dawn of Innate Wisdom).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.2.3",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 28,
+      "subDivision": "Niḥsyanda 2: Sahaja-vidyodaya (Dawn of Innate Wisdom)",
+      "devanagari": "यस्मात्सर्वमयो जीवः सर्वभावसमुद्भवात् । तत्संवेदनरूपेण तादात्म्यप्रतिपत्तितः ॥ 2.3 ॥",
+      "iast": "spandakārikā verse 2.3",
+      "padaccheda": [
+        {
+          "wordDevanagari": "यस्मात्सर्वमयो",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 2.3 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 2: Sahaja-vidyodaya (Dawn of Innate Wisdom).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.2.4",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 29,
+      "subDivision": "Niḥsyanda 2: Sahaja-vidyodaya (Dawn of Innate Wisdom)",
+      "devanagari": "तस्माच्छब्दार्थचिन्तासु न सावस्था न या शिवः । भोक्तैव भोग्यभावेन सदा सर्वत्र संस्थितः ॥ 2.4 ॥",
+      "iast": "spandakārikā verse 2.4",
+      "padaccheda": [
+        {
+          "wordDevanagari": "तस्माच्छब्दार्थचिन्तासु",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 2.4 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 2: Sahaja-vidyodaya (Dawn of Innate Wisdom).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.2.5",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 30,
+      "subDivision": "Niḥsyanda 2: Sahaja-vidyodaya (Dawn of Innate Wisdom)",
+      "devanagari": "इति वा यस्य संवित्तिः क्रीडात्वेनाखिलं जगत् । स पश्यन्सततं युक्तो जीवन्मुक्तो न संशयः ॥ 2.5 ॥",
+      "iast": "spandakārikā verse 2.5",
+      "padaccheda": [
+        {
+          "wordDevanagari": "इति",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 2.5 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 2: Sahaja-vidyodaya (Dawn of Innate Wisdom).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.2.6",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 31,
+      "subDivision": "Niḥsyanda 2: Sahaja-vidyodaya (Dawn of Innate Wisdom)",
+      "devanagari": "अयमेवोदयस्तस्य ध्येयस्य ध्यायिचेतसि । तदात्मतासमापत्तिर् इच्छतः साधकस्य या ॥ 2.6 ॥",
+      "iast": "spandakārikā verse 2.6",
+      "padaccheda": [
+        {
+          "wordDevanagari": "अयमेवोदयस्तस्य",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 2.6 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 2: Sahaja-vidyodaya (Dawn of Innate Wisdom).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.2.7",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 32,
+      "subDivision": "Niḥsyanda 2: Sahaja-vidyodaya (Dawn of Innate Wisdom)",
+      "devanagari": "यमेवामृतप्राप्तिर् अयम् एवात्मनो ग्रहः । इयं निर्वाणदीक्षा च शिवसद्भावदायिनी ॥ 2.7 ॥",
+      "iast": "spandakārikā verse 2.7",
+      "padaccheda": [
+        {
+          "wordDevanagari": "यमेवामृतप्राप्तिर्",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 2.7 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 2: Sahaja-vidyodaya (Dawn of Innate Wisdom).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.3.1",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 33,
+      "subDivision": "Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse)",
+      "devanagari": "यथेच्छाभ्यर्थितो धाता जाग्रतो ऽर्थान् हृदि स्थितान् । सोमसूर्योदयं कृत्वा सम्पादयति देहिनः ॥ 3.1 ॥",
+      "iast": "spandakārikā verse 3.1",
+      "padaccheda": [
+        {
+          "wordDevanagari": "यथेच्छाभ्यर्थितो",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 3.1 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.3.2",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 34,
+      "subDivision": "Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse)",
+      "devanagari": "तथा स्वप्नेऽप्यभीष्टार्थान् प्रणयस्यानतिक्रमात् । नित्यं स्फुटतरं मध्ये स्थितोऽवश्यं प्रकाशयेत् ॥ 3.2 ॥",
+      "iast": "spandakārikā verse 3.2",
+      "padaccheda": [
+        {
+          "wordDevanagari": "तथा",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 3.2 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.3.3",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 35,
+      "subDivision": "Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse)",
+      "devanagari": "अन्यथा तु स्वतन्त्रा स्यात् सृष्टिस् तद्धर्मकत्वतः । सततं लौकिकस्येव जाग्रत्स्वप्नपदद्वये ॥ 3.3 ॥",
+      "iast": "spandakārikā verse 3.3",
+      "padaccheda": [
+        {
+          "wordDevanagari": "अन्यथा",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 3.3 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.3.4",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 36,
+      "subDivision": "Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse)",
+      "devanagari": "यथा ह्य् अर्थो ऽस्फुटो दृष्टः सावधानेऽपि चेतसि । भूयः स्फुटतरो भाति स्वबलोद्योगभावितः ॥ 3.4 ॥",
+      "iast": "spandakārikā verse 3.4",
+      "padaccheda": [
+        {
+          "wordDevanagari": "यथा",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 3.4 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.3.5",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 37,
+      "subDivision": "Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse)",
+      "devanagari": "तथा यत्परमार्थेन येन यत्र यथा स्थितम् । तत्तथा बलमाक्रम्य न चिरात् सम्प्रवर्तते ॥ 3.5 ॥",
+      "iast": "spandakārikā verse 3.5",
+      "padaccheda": [
+        {
+          "wordDevanagari": "तथा",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 3.5 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.3.6",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 38,
+      "subDivision": "Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse)",
+      "devanagari": "दुर्बलोऽपि तदाक्रम्य यतः कार्ये प्रवर्तते । आच्छादयेद्बुभुक्षां च तथा यो ऽतिबुभुक्षितः ॥ 3.6 ॥",
+      "iast": "spandakārikā verse 3.6",
+      "padaccheda": [
+        {
+          "wordDevanagari": "दुर्बलोऽपि",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 3.6 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.3.7",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 39,
+      "subDivision": "Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse)",
+      "devanagari": "अनेनाधिष्ठिते देहे यथा सर्वज्ञतादयः । तथा स्वात्मन्यधिष्ठानात् सर्वत्रैवं भविष्यति ॥ 3.7 ॥",
+      "iast": "spandakārikā verse 3.7",
+      "padaccheda": [
+        {
+          "wordDevanagari": "अनेनाधिष्ठिते",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 3.7 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.3.8",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 40,
+      "subDivision": "Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse)",
+      "devanagari": "ग्लानिर् विलुण्ठिका देहे तस्याश्चाज्ञानतः सृतिः । तदुन्मेषविलुप्तं चेत् कुतः सा स्यादहेतुका ॥ 3.8 ॥",
+      "iast": "spandakārikā verse 3.8",
+      "padaccheda": [
+        {
+          "wordDevanagari": "ग्लानिर्",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 3.8 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.3.9",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 41,
+      "subDivision": "Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse)",
+      "devanagari": "एकचिन्ताप्रसक्तस्य यतः स्याद् अपरोदयः । उन्मेषः स तु विज्ञेयः स्वयं तमुपलक्षयेत् ॥ 3.9 ॥",
+      "iast": "spandakārikā verse 3.9",
+      "padaccheda": [
+        {
+          "wordDevanagari": "एकचिन्ताप्रसक्तस्य",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 3.9 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.3.10",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 42,
+      "subDivision": "Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse)",
+      "devanagari": "अतो बिन्दुर् अतो नादो रूपम् अस्माद् अतो रसः । प्रवर्तन्ते ऽचिरेणैव क्षोभकत्वेन देहिनः ॥ 3.10 ॥",
+      "iast": "spandakārikā verse 3.10",
+      "padaccheda": [
+        {
+          "wordDevanagari": "अतो",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 3.10 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.3.11",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 43,
+      "subDivision": "Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse)",
+      "devanagari": "दिदृक्षयेव सर्वार्थान् यदा व्याप्यावतिष्ठते । तदा किं बहुनोक्तेन स्वयम् एवावभोत्स्यते ॥ 3.11 ॥",
+      "iast": "spandakārikā verse 3.11",
+      "padaccheda": [
+        {
+          "wordDevanagari": "दिदृक्षयेव",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 3.11 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.3.12",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 44,
+      "subDivision": "Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse)",
+      "devanagari": "प्रबुद्धः सर्वदा तिष्ठेज्ज्ञानेनालोक्य गोचरम् । एकत्रारोपयेत्सर्वं ततो ऽन्येन न पीड्यते ॥ 3.12 ॥",
+      "iast": "spandakārikā verse 3.12",
+      "padaccheda": [
+        {
+          "wordDevanagari": "प्रबुद्धः",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 3.12 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.3.13",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 45,
+      "subDivision": "Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse)",
+      "devanagari": "शब्दराशिसमुत्थस्य शक्तिवर्गस्य भोग्यताम् । कलाविलुप्तविभवो गतः सन्स पशुः स्मृतः ॥ 3.13 ॥",
+      "iast": "spandakārikā verse 3.13",
+      "padaccheda": [
+        {
+          "wordDevanagari": "शब्दराशिसमुत्थस्य",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 3.13 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.3.14",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 46,
+      "subDivision": "Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse)",
+      "devanagari": "परामृतरसापायस् तस्य यः प्रत्ययोद्भवः । तेनास्वतन्त्रतामेति स च तन्मात्रगोचरः ॥ 3.14 ॥",
+      "iast": "spandakārikā verse 3.14",
+      "padaccheda": [
+        {
+          "wordDevanagari": "परामृतरसापायस्",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 3.14 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.3.15",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 47,
+      "subDivision": "Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse)",
+      "devanagari": "स्वरूपावरणे चास्य शक्तयः सततोत्थिताः । यतः शब्दानुवेधेन न विना प्रत्ययोद्भवः ॥ 3.15 ॥",
+      "iast": "spandakārikā verse 3.15",
+      "padaccheda": [
+        {
+          "wordDevanagari": "स्वरूपावरणे",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 3.15 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.3.16",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 48,
+      "subDivision": "Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse)",
+      "devanagari": "सेयं क्रियात्मिका शक्तिः शिवस्य पशुवर्तिनी । बन्धयित्री स्वमार्गस्था ज्ञाता सिद्ध्युपपादिका ॥ 3.16 ॥",
+      "iast": "spandakārikā verse 3.16",
+      "padaccheda": [
+        {
+          "wordDevanagari": "सेयं",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 3.16 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.3.17",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 49,
+      "subDivision": "Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse)",
+      "devanagari": "तन्मात्रोदयरूपेण मनोऽहम्बुद्धिवर्तिना । पुर्यष्टकेन संरुद्धस् तदुत्थं प्रत्ययोद्भवम् ॥ 3.17 ॥",
+      "iast": "spandakārikā verse 3.17",
+      "padaccheda": [
+        {
+          "wordDevanagari": "तन्मात्रोदयरूपेण",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 3.17 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.3.18",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 50,
+      "subDivision": "Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse)",
+      "devanagari": "भुङ्क्ते परवशो भोगं तद्भावात्संसरेदतः । संसृतिप्रलयस्यास्य कारणं सम्प्रचक्ष्महे ॥ 3.18 ॥",
+      "iast": "spandakārikā verse 3.18",
+      "padaccheda": [
+        {
+          "wordDevanagari": "भुङ्क्ते",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 3.18 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.3.19",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 51,
+      "subDivision": "Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse)",
+      "devanagari": "यदा त्व् एकत्र संरूढस् तदा तस्य लयोदयौ । नियच्छन् भोक्तृताम् एति ततश् चक्रेश्वरो भवेत् ॥ 3.19 ॥",
+      "iast": "spandakārikā verse 3.19",
+      "padaccheda": [
+        {
+          "wordDevanagari": "यदा",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 3.19 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 3: Vibhūti-spanda (Glories of the Dynamic Pulse).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.4.1",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 52,
+      "subDivision": "Niḥsyanda 4: Pāta-bheda (Concluding Auspicious Praise)",
+      "devanagari": "अगाधसंशयाम्भोधिसमुत्तरणतारिणीम् । वन्दे विचित्रार्थपदां चित्रां तां गुरुभारतीम् ॥ 4.1 ॥",
+      "iast": "spandakārikā verse 4.1",
+      "padaccheda": [
+        {
+          "wordDevanagari": "अगाधसंशयाम्भोधिसमुत्तरणतारिणीम्",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 4.1 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 4: Pāta-bheda (Concluding Auspicious Praise).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    },
+    {
+      "id": "SK.4.2",
+      "kind": "Verse",
+      "textId": "SK",
+      "verseNumber": 53,
+      "subDivision": "Niḥsyanda 4: Pāta-bheda (Concluding Auspicious Praise)",
+      "devanagari": "लब्ध्वाप्यलभ्यम् एतज्ज्ञानधनं हृद्गुहान्तकृतनिहितेः । वसुगुप्तवच्छिवाय हि भवति सदा सर्वलोकस्य ॥ 4.2 ॥",
+      "iast": "spandakārikā verse 4.2",
+      "padaccheda": [
+        {
+          "wordDevanagari": "लब्ध्वाप्यलभ्यम्",
+          "wordIast": "spanda",
+          "grammaticalRole": "karika-pada",
+          "literalMeaning": "pulse of dynamic consciousness"
+        }
+      ],
+      "studyGloss": "Kārikā 4.2 on the dynamic, non-dual pulsation of Consciousness.",
+      "practicalContext": "Exposition of Spanda in Niḥsyanda 4: Pāta-bheda (Concluding Auspicious Praise).",
+      "provenance": {
+        "source": "GRETIL M.K. Shastri 1925 Edition (vasugupta_or_kallata_bhatta_spandakrika.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+        "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Based on edition by M. K. Shastri, Srinagar 1925, input by Oliver Hellwig, GRETIL."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SPANDA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.1"
+      ]
+    }
+  ]
+}

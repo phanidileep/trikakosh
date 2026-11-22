@@ -1,0 +1,82 @@
+[
+  {
+    "id": "UPAYA.ANUPAYA",
+    "kind": "Upaya",
+    "nameIast": "Anupāya (Ānandopāya)",
+    "nameDevanagari": "अनुपाय",
+    "level": "Immediate / Transcendental",
+    "facultyEmployed": "Immediate Grace (Śaktipāta) and Unmediated Intuition",
+    "orientation": "No method, no meditation, no effort. The realization that Consciousness is already fully awake, omnipresent, and incapable of ever having been bound.",
+    "practicalApproach": "Spontaneous instant recognition upon hearing the master's word or through divine lightning-flash (Tīvra-Śaktipāta).",
+    "canonicalAnchor": "Tantrāloka 2; Pratyabhijñāhṛdayam Sūtra 19; Spanda Kārikā 4.1-2.",
+    "mappedVerses": [
+      "PH.19",
+      "SK.4.1",
+      "BS.1",
+      "BS.9"
+    ]
+  },
+  {
+    "id": "UPAYA.SAMBHAVA",
+    "kind": "Upaya",
+    "nameIast": "Śāmbhavopāya (Icchopāya)",
+    "nameDevanagari": "शाम्भवोपाय",
+    "level": "Direct / Thought-free (Nirvikalpa)",
+    "facultyEmployed": "Sovereign Will (Icchā) and Bare Unconstructed Attention",
+    "orientation": "Immersion into Consciousness by dissolving thought constructs at the very moment of their emergence, resting in the pure witness without cognitive elaboration.",
+    "practicalApproach": "Catching the gap (Madhya) between two breaths or thoughts; sudden astonishment (Vismaya); seizing the sudden surge of exertion (Udyama).",
+    "canonicalAnchor": "Śiva Sūtras Section 1 (Unmeṣa 1); Vijñāna Bhairava Tantra verses 24, 27, 32, 59, 100.",
+    "mappedVerses": [
+      "SS.1.5",
+      "SS.1.12",
+      "SS.1.22",
+      "SK.1.1",
+      "VBT.24",
+      "VBT.27",
+      "VBT.32"
+    ]
+  },
+  {
+    "id": "UPAYA.SAKTA",
+    "kind": "Upaya",
+    "nameIast": "Śāktopāya (Jñānopāya)",
+    "nameDevanagari": "शाक्तोपाय",
+    "level": "Subtle / Cognitive (Śuddhavikalpa)",
+    "facultyEmployed": "Discerning Knowledge (Jñāna) and Purified Intuitive Contemplation",
+    "orientation": "Transforming contracted, divisive thoughts into pure expansive, non-dual contemplation (Śuddha-vikalpa) through discernment and aesthetic absorption.",
+    "practicalApproach": "Replacing thoughts of weakness with the absolute conviction 'I am the All-Transcending Consciousness'; tracing an emotion or sense experience back to its radiant source.",
+    "canonicalAnchor": "Śiva Sūtras Section 2 (Unmeṣa 2); Pratyabhijñāhṛdayam Sūtras 13, 17, 18; Vijñāna Bhairava Tantra verses 38, 52, 72, 73.",
+    "mappedVerses": [
+      "SS.2.1",
+      "SS.2.3",
+      "PH.13",
+      "PH.17",
+      "SK.1.21",
+      "VBT.38",
+      "VBT.52",
+      "VBT.72"
+    ]
+  },
+  {
+    "id": "UPAYA.ANAVA",
+    "kind": "Upaya",
+    "nameIast": "Āṇavopāya (Kriyopāya)",
+    "nameDevanagari": "आणवोपाय",
+    "level": "Progressive / Physical-Sensory (Vikalpamaya)",
+    "facultyEmployed": "Action (Kriyā), Physical Breath, Sensory Organs, Mantra, and Visualization",
+    "orientation": "Utilizing finite bodily and environmental instruments to still the agitated psycho-physical system and lead it inward toward the silent heart.",
+    "practicalApproach": "Prāṇāyāma (breath regulation), Ucchāra (audible mantra resonance), Karaṇa (yogic body postures), sensory focal meditations, and ritual devotion.",
+    "canonicalAnchor": "Śiva Sūtras Section 3 (Unmeṣa 3); Vijñāna Bhairava Tantra verses 43, 66, 68, 76, 84; Bhairava Stava.",
+    "mappedVerses": [
+      "SS.3.1",
+      "SS.3.20",
+      "SS.3.26",
+      "PH.18",
+      "VBT.43",
+      "VBT.66",
+      "VBT.84",
+      "BS.3",
+      "BS.7"
+    ]
+  }
+]

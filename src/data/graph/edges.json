@@ -1,0 +1,5560 @@
+[
+  {
+    "id": "EDGE.0001",
+    "source": "MASTER.VASUGUPTA",
+    "target": "MASTER.KALLATA",
+    "type": "GURU_OF",
+    "label": "Guru of Kallaṭa"
+  },
+  {
+    "id": "EDGE.0002",
+    "source": "MASTER.SOMANANDA",
+    "target": "MASTER.UTPALADEVA",
+    "type": "GURU_OF",
+    "label": "Guru of Utpaladeva"
+  },
+  {
+    "id": "EDGE.0003",
+    "source": "MASTER.UTPALADEVA",
+    "target": "MASTER.LAKSMANAGUPTA",
+    "type": "GURU_OF",
+    "label": "Guru of Lakṣmaṇagupta"
+  },
+  {
+    "id": "EDGE.0004",
+    "source": "MASTER.LAKSMANAGUPTA",
+    "target": "MASTER.ABHINAVAGUPTA",
+    "type": "GURU_OF",
+    "label": "Guru of Abhinavagupta"
+  },
+  {
+    "id": "EDGE.0005",
+    "source": "MASTER.ABHINAVAGUPTA",
+    "target": "MASTER.KSEMARAJA",
+    "type": "GURU_OF",
+    "label": "Guru of Kṣemarāja"
+  },
+  {
+    "id": "EDGE.0006",
+    "source": "MASTER.VASUGUPTA",
+    "target": "SS",
+    "type": "AUTHORED",
+    "label": "Revealed Śiva Sūtras"
+  },
+  {
+    "id": "EDGE.0007",
+    "source": "MASTER.VASUGUPTA",
+    "target": "SK",
+    "type": "AUTHORED",
+    "label": "Revealed Spanda Kārikās"
+  },
+  {
+    "id": "EDGE.0008",
+    "source": "MASTER.KALLATA",
+    "target": "SK",
+    "type": "COMMENTS_ON",
+    "label": "Composed Spandavṛtti"
+  },
+  {
+    "id": "EDGE.0009",
+    "source": "MASTER.ABHINAVAGUPTA",
+    "target": "BS",
+    "type": "AUTHORED",
+    "label": "Composed Bhairava Stava"
+  },
+  {
+    "id": "EDGE.0010",
+    "source": "MASTER.KSEMARAJA",
+    "target": "PH",
+    "type": "AUTHORED",
+    "label": "Composed Pratyabhijñāhṛdayam"
+  },
+  {
+    "id": "EDGE.0011",
+    "source": "MASTER.KSEMARAJA",
+    "target": "SS",
+    "type": "COMMENTS_ON",
+    "label": "Composed Śivasūtravimarśinī"
+  },
+  {
+    "id": "EDGE.0012",
+    "source": "MASTER.KSEMARAJA",
+    "target": "SK",
+    "type": "COMMENTS_ON",
+    "label": "Composed Spandanirṇaya"
+  },
+  {
+    "id": "EDGE.0013",
+    "source": "MASTER.JAYARATHA",
+    "target": "MASTER.ABHINAVAGUPTA",
+    "type": "COMMENTS_ON",
+    "label": "Commented on Tantrāloka"
+  },
+  {
+    "id": "EDGE.0014",
+    "source": "UPAYA.SAMBHAVA",
+    "target": "MALA.ANAVA",
+    "type": "DISSOLVES_MALA",
+    "label": "Dissolves Primordial Lack"
+  },
+  {
+    "id": "EDGE.0015",
+    "source": "UPAYA.SAKTA",
+    "target": "MALA.MAYIYA",
+    "type": "DISSOLVES_MALA",
+    "label": "Dissolves Duality"
+  },
+  {
+    "id": "EDGE.0016",
+    "source": "UPAYA.ANAVA",
+    "target": "MALA.KARMA",
+    "type": "DISSOLVES_MALA",
+    "label": "Dissolves Bound Karma"
+  },
+  {
+    "id": "EDGE.0017",
+    "source": "UPAYA.ANUPAYA",
+    "target": "MALA.ANAVA",
+    "type": "DISSOLVES_MALA",
+    "label": "Transcends all Malas"
+  },
+  {
+    "id": "EDGE.0018",
+    "source": "PH.1",
+    "target": "CONCEPT.CITI",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0019",
+    "source": "PH.1",
+    "target": "CONCEPT.SVATANTRYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0020",
+    "source": "PH.1",
+    "target": "CONCEPT.PRAKASA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0021",
+    "source": "PH.1",
+    "target": "CONCEPT.VIMARSA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0022",
+    "source": "PH.1",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0023",
+    "source": "PH.1",
+    "target": "TATTVA.02",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0024",
+    "source": "PH.1",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0025",
+    "source": "PH.2",
+    "target": "CONCEPT.ICCHA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0026",
+    "source": "PH.2",
+    "target": "CONCEPT.UNMESA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0027",
+    "source": "PH.2",
+    "target": "CONCEPT.ABHASA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0028",
+    "source": "PH.2",
+    "target": "CONCEPT.SVATANTRYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0029",
+    "source": "PH.2",
+    "target": "TATTVA.02",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0030",
+    "source": "PH.2",
+    "target": "TATTVA.03",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0031",
+    "source": "PH.2",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0032",
+    "source": "PH.3",
+    "target": "CONCEPT.AHAM",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0033",
+    "source": "PH.3",
+    "target": "CONCEPT.IDAM",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0034",
+    "source": "PH.3",
+    "target": "CONCEPT.ABHASA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0035",
+    "source": "PH.3",
+    "target": "TATTVA.03",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0036",
+    "source": "PH.3",
+    "target": "TATTVA.04",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0037",
+    "source": "PH.3",
+    "target": "TATTVA.05",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0038",
+    "source": "PH.3",
+    "target": "UPAYA.SAKTA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0039",
+    "source": "PH.4",
+    "target": "CONCEPT.SANKOCA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0040",
+    "source": "PH.4",
+    "target": "CONCEPT.PASU",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0041",
+    "source": "PH.4",
+    "target": "CONCEPT.KULA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0042",
+    "source": "PH.4",
+    "target": "TATTVA.06",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0043",
+    "source": "PH.4",
+    "target": "TATTVA.12",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0044",
+    "source": "PH.4",
+    "target": "UPAYA.SAKTA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0045",
+    "source": "PH.5",
+    "target": "CONCEPT.CITI",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0046",
+    "source": "PH.5",
+    "target": "CONCEPT.ANTAHKARANA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0047",
+    "source": "PH.5",
+    "target": "CONCEPT.VIKALPA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0048",
+    "source": "PH.5",
+    "target": "TATTVA.14",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0049",
+    "source": "PH.5",
+    "target": "TATTVA.15",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0050",
+    "source": "PH.5",
+    "target": "TATTVA.16",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0051",
+    "source": "PH.5",
+    "target": "UPAYA.SAKTA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0052",
+    "source": "PH.6",
+    "target": "CONCEPT.MAYIYA_MALA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0053",
+    "source": "PH.6",
+    "target": "CONCEPT.PASU",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0054",
+    "source": "PH.6",
+    "target": "TATTVA.06",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0055",
+    "source": "PH.6",
+    "target": "TATTVA.12",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0056",
+    "source": "PH.6",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0057",
+    "source": "PH.7",
+    "target": "CONCEPT.PANCANITYAKRITYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0058",
+    "source": "PH.7",
+    "target": "CONCEPT.ANAVA_MALA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0059",
+    "source": "PH.7",
+    "target": "CONCEPT.MAYIYA_MALA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0060",
+    "source": "PH.7",
+    "target": "CONCEPT.KARMA_MALA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0061",
+    "source": "PH.7",
+    "target": "TATTVA.06",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0062",
+    "source": "PH.7",
+    "target": "TATTVA.12",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0063",
+    "source": "PH.7",
+    "target": "TATTVA.36",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0064",
+    "source": "PH.7",
+    "target": "UPAYA.SAKTA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0065",
+    "source": "PH.8",
+    "target": "CONCEPT.CAMATKARA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0066",
+    "source": "PH.8",
+    "target": "CONCEPT.PRATYABHIJNA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0067",
+    "source": "PH.8",
+    "target": "TATTVA.05",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0068",
+    "source": "PH.8",
+    "target": "TATTVA.14",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0069",
+    "source": "PH.8",
+    "target": "UPAYA.SAKTA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0070",
+    "source": "PH.9",
+    "target": "CONCEPT.KANCUKA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0071",
+    "source": "PH.9",
+    "target": "CONCEPT.ANAVA_MALA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0072",
+    "source": "PH.9",
+    "target": "CONCEPT.PASU",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0073",
+    "source": "PH.9",
+    "target": "TATTVA.07",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0074",
+    "source": "PH.9",
+    "target": "TATTVA.08",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0075",
+    "source": "PH.9",
+    "target": "TATTVA.09",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0076",
+    "source": "PH.9",
+    "target": "TATTVA.10",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0077",
+    "source": "PH.9",
+    "target": "TATTVA.11",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0078",
+    "source": "PH.9",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0079",
+    "source": "PH.10",
+    "target": "CONCEPT.PANCANITYAKRITYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0080",
+    "source": "PH.10",
+    "target": "CONCEPT.SRISTI",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0081",
+    "source": "PH.10",
+    "target": "CONCEPT.STHITI",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0082",
+    "source": "PH.10",
+    "target": "CONCEPT.SAMHARA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0083",
+    "source": "PH.10",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0084",
+    "source": "PH.10",
+    "target": "TATTVA.05",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0085",
+    "source": "PH.10",
+    "target": "UPAYA.SAKTA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0086",
+    "source": "PH.11",
+    "target": "CONCEPT.PANCANITYAKRITYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0087",
+    "source": "PH.11",
+    "target": "CONCEPT.ABHASA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0088",
+    "source": "PH.11",
+    "target": "CONCEPT.KRAMA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0089",
+    "source": "PH.11",
+    "target": "TATTVA.14",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0090",
+    "source": "PH.11",
+    "target": "TATTVA.16",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0091",
+    "source": "PH.11",
+    "target": "UPAYA.SAKTA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0092",
+    "source": "PH.12",
+    "target": "CONCEPT.MATRIKA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0093",
+    "source": "PH.12",
+    "target": "CONCEPT.TIRODHANA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0094",
+    "source": "PH.12",
+    "target": "CONCEPT.PASA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0095",
+    "source": "PH.12",
+    "target": "TATTVA.06",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0096",
+    "source": "PH.12",
+    "target": "TATTVA.12",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0097",
+    "source": "PH.12",
+    "target": "UPAYA.SAKTA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0098",
+    "source": "PH.13",
+    "target": "CONCEPT.PRATYABHIJNA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0099",
+    "source": "PH.13",
+    "target": "CONCEPT.CITI",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0100",
+    "source": "PH.13",
+    "target": "CONCEPT.SAMAVESA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0101",
+    "source": "PH.13",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0102",
+    "source": "PH.13",
+    "target": "TATTVA.16",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0103",
+    "source": "PH.13",
+    "target": "UPAYA.SAKTA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0104",
+    "source": "PH.14",
+    "target": "CONCEPT.SAMHARA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0105",
+    "source": "PH.14",
+    "target": "CONCEPT.UDYAMA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0106",
+    "source": "PH.14",
+    "target": "CONCEPT.CITI",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0107",
+    "source": "PH.14",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0108",
+    "source": "PH.14",
+    "target": "TATTVA.34",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0109",
+    "source": "PH.14",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0110",
+    "source": "PH.15",
+    "target": "CONCEPT.SAMARASYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0111",
+    "source": "PH.15",
+    "target": "CONCEPT.JIVANMUKTI",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0112",
+    "source": "PH.15",
+    "target": "CONCEPT.SVATANTRYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0113",
+    "source": "PH.15",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0114",
+    "source": "PH.15",
+    "target": "TATTVA.36",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0115",
+    "source": "PH.15",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0116",
+    "source": "PH.16",
+    "target": "CONCEPT.JIVANMUKTI",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0117",
+    "source": "PH.16",
+    "target": "CONCEPT.SVARUPA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0118",
+    "source": "PH.16",
+    "target": "CONCEPT.NITYODITA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0119",
+    "source": "PH.16",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0120",
+    "source": "PH.16",
+    "target": "TATTVA.12",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0121",
+    "source": "PH.16",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0122",
+    "source": "PH.17",
+    "target": "CONCEPT.MADHYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0123",
+    "source": "PH.17",
+    "target": "CONCEPT.ANANDA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0124",
+    "source": "PH.17",
+    "target": "CONCEPT.VIKASA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0125",
+    "source": "PH.17",
+    "target": "TATTVA.02",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0126",
+    "source": "PH.17",
+    "target": "TATTVA.33",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0127",
+    "source": "PH.17",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0128",
+    "source": "PH.17",
+    "target": "UPAYA.SAKTA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0129",
+    "source": "PH.18",
+    "target": "CONCEPT.VIKALPA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0130",
+    "source": "PH.18",
+    "target": "CONCEPT.MADHYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0131",
+    "source": "PH.18",
+    "target": "CONCEPT.SADHANA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0132",
+    "source": "PH.18",
+    "target": "TATTVA.16",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0133",
+    "source": "PH.18",
+    "target": "TATTVA.33",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0134",
+    "source": "PH.18",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0135",
+    "source": "PH.18",
+    "target": "UPAYA.SAKTA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0136",
+    "source": "PH.18",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0137",
+    "source": "PH.19",
+    "target": "CONCEPT.NITYODITA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0138",
+    "source": "PH.19",
+    "target": "CONCEPT.VIMARSA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0139",
+    "source": "PH.19",
+    "target": "CONCEPT.SAMAVESA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0140",
+    "source": "PH.19",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0141",
+    "source": "PH.19",
+    "target": "TATTVA.02",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0142",
+    "source": "PH.19",
+    "target": "UPAYA.ANUPAYA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0143",
+    "source": "PH.19",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0144",
+    "source": "PH.20",
+    "target": "CONCEPT.AHAM",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0145",
+    "source": "PH.20",
+    "target": "CONCEPT.PARAMASIVA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0146",
+    "source": "PH.20",
+    "target": "CONCEPT.CAKRESVARA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0147",
+    "source": "PH.20",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0148",
+    "source": "PH.20",
+    "target": "TATTVA.02",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0149",
+    "source": "PH.20",
+    "target": "UPAYA.ANUPAYA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0150",
+    "source": "SS.1.1",
+    "target": "CONCEPT.CAITANYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0151",
+    "source": "SS.1.1",
+    "target": "CONCEPT.PRAKASA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0152",
+    "source": "SS.1.1",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0153",
+    "source": "SS.1.1",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0154",
+    "source": "SS.1.2",
+    "target": "CONCEPT.JNANA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0155",
+    "source": "SS.1.2",
+    "target": "CONCEPT.ANAVA_MALA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0156",
+    "source": "SS.1.2",
+    "target": "TATTVA.08",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0157",
+    "source": "SS.1.2",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0158",
+    "source": "SS.1.3",
+    "target": "CONCEPT.MATRIKA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0159",
+    "source": "SS.1.3",
+    "target": "CONCEPT.KANCUKA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0160",
+    "source": "SS.1.3",
+    "target": "TATTVA.07",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0161",
+    "source": "SS.1.3",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0162",
+    "source": "SS.1.4",
+    "target": "CONCEPT.MATRIKA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0163",
+    "source": "SS.1.4",
+    "target": "CONCEPT.VIKALPA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0164",
+    "source": "SS.1.4",
+    "target": "TATTVA.06",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0165",
+    "source": "SS.1.4",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0166",
+    "source": "SS.1.5",
+    "target": "CONCEPT.UDYAMA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0167",
+    "source": "SS.1.5",
+    "target": "CONCEPT.BHAIRAVA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0168",
+    "source": "SS.1.5",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0169",
+    "source": "SS.1.5",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0170",
+    "source": "SS.1.6",
+    "target": "CONCEPT.SAMHARA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0171",
+    "source": "SS.1.6",
+    "target": "CONCEPT.CAKRESVARA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0172",
+    "source": "SS.1.6",
+    "target": "TATTVA.02",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0173",
+    "source": "SS.1.6",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0174",
+    "source": "SS.1.7",
+    "target": "CONCEPT.TURYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0175",
+    "source": "SS.1.7",
+    "target": "CONCEPT.TURYATITA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0176",
+    "source": "SS.1.7",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0177",
+    "source": "SS.1.7",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0178",
+    "source": "SS.1.8",
+    "target": "CONCEPT.JAGRAT",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0179",
+    "source": "SS.1.8",
+    "target": "CONCEPT.ABHASA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0180",
+    "source": "SS.1.8",
+    "target": "TATTVA.16",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0181",
+    "source": "SS.1.8",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0182",
+    "source": "SS.1.9",
+    "target": "CONCEPT.SVAPNA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0183",
+    "source": "SS.1.9",
+    "target": "CONCEPT.VIKALPA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0184",
+    "source": "SS.1.9",
+    "target": "TATTVA.16",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0185",
+    "source": "SS.1.9",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0186",
+    "source": "SS.1.10",
+    "target": "CONCEPT.SUSUPTI",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0187",
+    "source": "SS.1.10",
+    "target": "CONCEPT.MAYIYA_MALA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0188",
+    "source": "SS.1.10",
+    "target": "TATTVA.06",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0189",
+    "source": "SS.1.10",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0190",
+    "source": "SS.1.11",
+    "target": "CONCEPT.JIVANMUKTI",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0191",
+    "source": "SS.1.11",
+    "target": "CONCEPT.CAKRESVARA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0192",
+    "source": "SS.1.11",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0193",
+    "source": "SS.1.11",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0194",
+    "source": "SS.1.12",
+    "target": "CONCEPT.VISMAYAH",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0195",
+    "source": "SS.1.12",
+    "target": "CONCEPT.CAMATKARA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0196",
+    "source": "SS.1.12",
+    "target": "TATTVA.02",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0197",
+    "source": "SS.1.12",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0198",
+    "source": "SS.1.13",
+    "target": "CONCEPT.ICCHA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0199",
+    "source": "SS.1.13",
+    "target": "CONCEPT.SVATANTRYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0200",
+    "source": "SS.1.13",
+    "target": "TATTVA.03",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0201",
+    "source": "SS.1.13",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0202",
+    "source": "SS.1.14",
+    "target": "CONCEPT.IDAM",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0203",
+    "source": "SS.1.14",
+    "target": "CONCEPT.KULA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0204",
+    "source": "SS.1.14",
+    "target": "TATTVA.04",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0205",
+    "source": "SS.1.14",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0206",
+    "source": "SS.1.15",
+    "target": "CONCEPT.HRIDAYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0207",
+    "source": "SS.1.15",
+    "target": "CONCEPT.SAMAVESA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0208",
+    "source": "SS.1.15",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0209",
+    "source": "SS.1.15",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0210",
+    "source": "SS.1.16",
+    "target": "CONCEPT.PATI",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0211",
+    "source": "SS.1.16",
+    "target": "CONCEPT.BINDU",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0212",
+    "source": "SS.1.16",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0213",
+    "source": "SS.1.16",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0214",
+    "source": "SS.1.17",
+    "target": "CONCEPT.JNANA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0215",
+    "source": "SS.1.17",
+    "target": "CONCEPT.SVARUPA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0216",
+    "source": "SS.1.17",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0217",
+    "source": "SS.1.17",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0218",
+    "source": "SS.1.18",
+    "target": "CONCEPT.ANANDA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0219",
+    "source": "SS.1.18",
+    "target": "CONCEPT.SAMARASYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0220",
+    "source": "SS.1.18",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0221",
+    "source": "SS.1.18",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0222",
+    "source": "SS.1.19",
+    "target": "CONCEPT.SVATANTRYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0223",
+    "source": "SS.1.19",
+    "target": "CONCEPT.SRISTI",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0224",
+    "source": "SS.1.19",
+    "target": "TATTVA.02",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0225",
+    "source": "SS.1.19",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0226",
+    "source": "SS.1.20",
+    "target": "CONCEPT.MAHABHUTA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0227",
+    "source": "SS.1.20",
+    "target": "CONCEPT.KRIYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0228",
+    "source": "SS.1.20",
+    "target": "TATTVA.32",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0229",
+    "source": "SS.1.20",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0230",
+    "source": "SS.1.21",
+    "target": "CONCEPT.CAKRESVARA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0231",
+    "source": "SS.1.21",
+    "target": "CONCEPT.JNANA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0232",
+    "source": "SS.1.21",
+    "target": "TATTVA.05",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0233",
+    "source": "SS.1.21",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0234",
+    "source": "SS.1.22",
+    "target": "CONCEPT.SAMAVESA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0235",
+    "source": "SS.1.22",
+    "target": "CONCEPT.CITI",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0236",
+    "source": "SS.1.22",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0237",
+    "source": "SS.1.22",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0238",
+    "source": "SS.2.1",
+    "target": "CONCEPT.SAKTOPAYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0239",
+    "source": "SS.2.1",
+    "target": "CONCEPT.CITI",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0240",
+    "source": "SS.2.1",
+    "target": "TATTVA.16",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0241",
+    "source": "SS.2.1",
+    "target": "UPAYA.SAKTA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0242",
+    "source": "SS.2.2",
+    "target": "CONCEPT.SADHANA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0243",
+    "source": "SS.2.2",
+    "target": "CONCEPT.UDYAMA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0244",
+    "source": "SS.2.2",
+    "target": "TATTVA.14",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0245",
+    "source": "SS.2.2",
+    "target": "UPAYA.SAKTA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0246",
+    "source": "SS.2.3",
+    "target": "CONCEPT.MALINI",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0247",
+    "source": "SS.2.3",
+    "target": "CONCEPT.JNANA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0248",
+    "source": "SS.2.3",
+    "target": "TATTVA.05",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0249",
+    "source": "SS.2.3",
+    "target": "UPAYA.SAKTA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0250",
+    "source": "SS.2.4",
+    "target": "CONCEPT.VIKALPA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0251",
+    "source": "SS.2.4",
+    "target": "TATTVA.16",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0252",
+    "source": "SS.2.4",
+    "target": "UPAYA.SAKTA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0253",
+    "source": "SS.2.5",
+    "target": "CONCEPT.KHECARI",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0254",
+    "source": "SS.2.5",
+    "target": "CONCEPT.SVARUPA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0255",
+    "source": "SS.2.5",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0256",
+    "source": "SS.2.5",
+    "target": "UPAYA.SAKTA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0257",
+    "source": "SS.2.6",
+    "target": "CONCEPT.GURU",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0258",
+    "source": "SS.2.6",
+    "target": "CONCEPT.DIKSA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0259",
+    "source": "SS.2.6",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0260",
+    "source": "SS.2.6",
+    "target": "UPAYA.SAKTA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0261",
+    "source": "SS.2.7",
+    "target": "CONCEPT.MATRIKA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0262",
+    "source": "SS.2.7",
+    "target": "CONCEPT.CAKRESVARA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0263",
+    "source": "SS.2.7",
+    "target": "TATTVA.06",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0264",
+    "source": "SS.2.7",
+    "target": "UPAYA.SAKTA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0265",
+    "source": "SS.2.8",
+    "target": "CONCEPT.SAMHARA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0266",
+    "source": "SS.2.8",
+    "target": "CONCEPT.KULA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0267",
+    "source": "SS.2.8",
+    "target": "TATTVA.36",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0268",
+    "source": "SS.2.8",
+    "target": "UPAYA.SAKTA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0269",
+    "source": "SS.2.9",
+    "target": "CONCEPT.JNANA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0270",
+    "source": "SS.2.9",
+    "target": "CONCEPT.SAMARASYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0271",
+    "source": "SS.2.9",
+    "target": "TATTVA.14",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0272",
+    "source": "SS.2.9",
+    "target": "UPAYA.SAKTA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0273",
+    "source": "SS.2.10",
+    "target": "CONCEPT.TIRODHANA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0274",
+    "source": "SS.2.10",
+    "target": "CONCEPT.SVAPNA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0275",
+    "source": "SS.2.10",
+    "target": "TATTVA.06",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0276",
+    "source": "SS.2.10",
+    "target": "UPAYA.SAKTA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0277",
+    "source": "SS.3.1",
+    "target": "CONCEPT.ANAVOPAYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0278",
+    "source": "SS.3.1",
+    "target": "CONCEPT.ANTAHKARANA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0279",
+    "source": "SS.3.1",
+    "target": "TATTVA.16",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0280",
+    "source": "SS.3.1",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0281",
+    "source": "SS.3.2",
+    "target": "CONCEPT.JNANA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0282",
+    "source": "SS.3.2",
+    "target": "CONCEPT.KANCUKA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0283",
+    "source": "SS.3.2",
+    "target": "TATTVA.08",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0284",
+    "source": "SS.3.2",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0285",
+    "source": "SS.3.3",
+    "target": "CONCEPT.KANCUKA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0286",
+    "source": "SS.3.3",
+    "target": "CONCEPT.MAYIYA_MALA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0287",
+    "source": "SS.3.3",
+    "target": "TATTVA.07",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0288",
+    "source": "SS.3.3",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0289",
+    "source": "SS.3.4",
+    "target": "CONCEPT.SAMHARA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0290",
+    "source": "SS.3.4",
+    "target": "TATTVA.36",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0291",
+    "source": "SS.3.4",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0292",
+    "source": "SS.3.5",
+    "target": "CONCEPT.MAHABHUTA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0293",
+    "source": "SS.3.5",
+    "target": "TATTVA.32",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0294",
+    "source": "SS.3.5",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0295",
+    "source": "SS.3.6",
+    "target": "CONCEPT.TIRODHANA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0296",
+    "source": "SS.3.6",
+    "target": "TATTVA.06",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0297",
+    "source": "SS.3.6",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0298",
+    "source": "SS.3.7",
+    "target": "CONCEPT.SAHAJA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0299",
+    "source": "SS.3.7",
+    "target": "CONCEPT.VIKASA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0300",
+    "source": "SS.3.7",
+    "target": "TATTVA.05",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0301",
+    "source": "SS.3.7",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0302",
+    "source": "SS.3.8",
+    "target": "CONCEPT.JAGRAT",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0303",
+    "source": "SS.3.8",
+    "target": "CONCEPT.ABHASA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0304",
+    "source": "SS.3.8",
+    "target": "TATTVA.16",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0305",
+    "source": "SS.3.8",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0306",
+    "source": "SS.3.9",
+    "target": "CONCEPT.SVARUPA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0307",
+    "source": "SS.3.9",
+    "target": "CONCEPT.CAMATKARA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0308",
+    "source": "SS.3.9",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0309",
+    "source": "SS.3.9",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0310",
+    "source": "SS.3.10",
+    "target": "CONCEPT.PASU",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0311",
+    "source": "SS.3.10",
+    "target": "TATTVA.12",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0312",
+    "source": "SS.3.10",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0313",
+    "source": "SS.3.11",
+    "target": "CONCEPT.ANTAHKARANA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0314",
+    "source": "SS.3.11",
+    "target": "TATTVA.17",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0315",
+    "source": "SS.3.11",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0316",
+    "source": "SS.3.12",
+    "target": "CONCEPT.SATTVA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0317",
+    "source": "SS.3.12",
+    "target": "TATTVA.14",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0318",
+    "source": "SS.3.12",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0319",
+    "source": "SS.3.13",
+    "target": "CONCEPT.SVATANTRYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0320",
+    "source": "SS.3.13",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0321",
+    "source": "SS.3.13",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0322",
+    "source": "SS.3.14",
+    "target": "CONCEPT.SAMARASYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0323",
+    "source": "SS.3.14",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0324",
+    "source": "SS.3.14",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0325",
+    "source": "SS.3.15",
+    "target": "CONCEPT.BINDU",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0326",
+    "source": "SS.3.15",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0327",
+    "source": "SS.3.15",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0328",
+    "source": "SS.3.16",
+    "target": "CONCEPT.ANANDA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0329",
+    "source": "SS.3.16",
+    "target": "CONCEPT.SAMAVESA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0330",
+    "source": "SS.3.16",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0331",
+    "source": "SS.3.16",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0332",
+    "source": "SS.3.17",
+    "target": "CONCEPT.KRIYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0333",
+    "source": "SS.3.17",
+    "target": "TATTVA.02",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0334",
+    "source": "SS.3.17",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0335",
+    "source": "SS.3.18",
+    "target": "CONCEPT.JIVANMUKTI",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0336",
+    "source": "SS.3.18",
+    "target": "TATTVA.05",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0337",
+    "source": "SS.3.18",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0338",
+    "source": "SS.3.19",
+    "target": "CONCEPT.MATRIKA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0339",
+    "source": "SS.3.19",
+    "target": "CONCEPT.PASU",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0340",
+    "source": "SS.3.19",
+    "target": "TATTVA.06",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0341",
+    "source": "SS.3.19",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0342",
+    "source": "SS.3.20",
+    "target": "CONCEPT.TURYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0343",
+    "source": "SS.3.20",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0344",
+    "source": "SS.3.20",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0345",
+    "source": "SS.3.21",
+    "target": "CONCEPT.SAMAVESA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0346",
+    "source": "SS.3.21",
+    "target": "TATTVA.16",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0347",
+    "source": "SS.3.21",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0348",
+    "source": "SS.3.22",
+    "target": "CONCEPT.PRANASAMACARA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0349",
+    "source": "SS.3.22",
+    "target": "CONCEPT.MADHYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0350",
+    "source": "SS.3.22",
+    "target": "TATTVA.33",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0351",
+    "source": "SS.3.22",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0352",
+    "source": "SS.3.23",
+    "target": "CONCEPT.MADHYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0353",
+    "source": "SS.3.23",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0354",
+    "source": "SS.3.23",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0355",
+    "source": "SS.3.24",
+    "target": "CONCEPT.PRATYABHIJNA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0356",
+    "source": "SS.3.24",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0357",
+    "source": "SS.3.24",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0358",
+    "source": "SS.3.25",
+    "target": "CONCEPT.PARAMASIVA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0359",
+    "source": "SS.3.25",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0360",
+    "source": "SS.3.25",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0361",
+    "source": "SS.3.26",
+    "target": "CONCEPT.JIVANMUKTI",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0362",
+    "source": "SS.3.26",
+    "target": "TATTVA.36",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0363",
+    "source": "SS.3.26",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0364",
+    "source": "SS.3.27",
+    "target": "CONCEPT.MATRIKA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0365",
+    "source": "SS.3.27",
+    "target": "TATTVA.22",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0366",
+    "source": "SS.3.27",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0367",
+    "source": "SS.3.28",
+    "target": "CONCEPT.ANUGRAHA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0368",
+    "source": "SS.3.28",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0369",
+    "source": "SS.3.28",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0370",
+    "source": "SS.3.29",
+    "target": "CONCEPT.CAKRESVARA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0371",
+    "source": "SS.3.29",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0372",
+    "source": "SS.3.29",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0373",
+    "source": "SS.3.30",
+    "target": "CONCEPT.KULA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0374",
+    "source": "SS.3.30",
+    "target": "CONCEPT.SVATANTRYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0375",
+    "source": "SS.3.30",
+    "target": "TATTVA.02",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0376",
+    "source": "SS.3.30",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0377",
+    "source": "SS.3.31",
+    "target": "CONCEPT.STHITI",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0378",
+    "source": "SS.3.31",
+    "target": "CONCEPT.SAMHARA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0379",
+    "source": "SS.3.31",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0380",
+    "source": "SS.3.31",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0381",
+    "source": "SS.3.32",
+    "target": "CONCEPT.NITYODITA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0382",
+    "source": "SS.3.32",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0383",
+    "source": "SS.3.32",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0384",
+    "source": "SS.3.33",
+    "target": "CONCEPT.NIRVIKALPA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0385",
+    "source": "SS.3.33",
+    "target": "TATTVA.16",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0386",
+    "source": "SS.3.33",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0387",
+    "source": "SS.3.34",
+    "target": "CONCEPT.SVARUPA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0388",
+    "source": "SS.3.34",
+    "target": "TATTVA.12",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0389",
+    "source": "SS.3.34",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0390",
+    "source": "SS.3.35",
+    "target": "CONCEPT.KARMA_MALA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0391",
+    "source": "SS.3.35",
+    "target": "TATTVA.12",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0392",
+    "source": "SS.3.35",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0393",
+    "source": "SS.3.36",
+    "target": "CONCEPT.SRISTI",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0394",
+    "source": "SS.3.36",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0395",
+    "source": "SS.3.36",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0396",
+    "source": "SS.3.37",
+    "target": "CONCEPT.PRATIBHA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0397",
+    "source": "SS.3.37",
+    "target": "TATTVA.02",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0398",
+    "source": "SS.3.37",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0399",
+    "source": "SS.3.38",
+    "target": "CONCEPT.TURYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0400",
+    "source": "SS.3.38",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0401",
+    "source": "SS.3.38",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0402",
+    "source": "SS.3.39",
+    "target": "CONCEPT.SAMARASYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0403",
+    "source": "SS.3.39",
+    "target": "TATTVA.16",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0404",
+    "source": "SS.3.39",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0405",
+    "source": "SS.3.40",
+    "target": "CONCEPT.RAGA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0406",
+    "source": "SS.3.40",
+    "target": "TATTVA.09",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0407",
+    "source": "SS.3.40",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0408",
+    "source": "SS.3.41",
+    "target": "CONCEPT.JIVANMUKTI",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0409",
+    "source": "SS.3.41",
+    "target": "TATTVA.12",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0410",
+    "source": "SS.3.41",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0411",
+    "source": "SS.3.42",
+    "target": "CONCEPT.PATI",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0412",
+    "source": "SS.3.42",
+    "target": "CONCEPT.JIVANMUKTI",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0413",
+    "source": "SS.3.42",
+    "target": "TATTVA.36",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0414",
+    "source": "SS.3.42",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0415",
+    "source": "SS.3.43",
+    "target": "CONCEPT.PRANASAMACARA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0416",
+    "source": "SS.3.43",
+    "target": "TATTVA.33",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0417",
+    "source": "SS.3.43",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0418",
+    "source": "SS.3.44",
+    "target": "CONCEPT.MADHYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0419",
+    "source": "SS.3.44",
+    "target": "TATTVA.33",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0420",
+    "source": "SS.3.44",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0421",
+    "source": "SS.3.45",
+    "target": "CONCEPT.UNMESA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0422",
+    "source": "SS.3.45",
+    "target": "CONCEPT.NIMESA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0423",
+    "source": "SS.3.45",
+    "target": "CONCEPT.SAMAVESA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0424",
+    "source": "SS.3.45",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0425",
+    "source": "SS.3.45",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Uses Upaya"
+  },
+  {
+    "id": "EDGE.0426",
+    "source": "BS.1",
+    "target": "CONCEPT.BHAIRAVA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0427",
+    "source": "BS.1",
+    "target": "CONCEPT.HRIDAYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0428",
+    "source": "BS.1",
+    "target": "CONCEPT.PRAKASA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0429",
+    "source": "BS.1",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0430",
+    "source": "BS.2",
+    "target": "CONCEPT.ANUGRAHA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0431",
+    "source": "BS.2",
+    "target": "CONCEPT.MAHESA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0432",
+    "source": "BS.2",
+    "target": "CONCEPT.AHAM",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0433",
+    "source": "BS.2",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0434",
+    "source": "BS.2",
+    "target": "TATTVA.36",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0435",
+    "source": "BS.3",
+    "target": "CONCEPT.KARMA_MALA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0436",
+    "source": "BS.3",
+    "target": "CONCEPT.PATI",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0437",
+    "source": "BS.3",
+    "target": "TATTVA.12",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0438",
+    "source": "BS.4",
+    "target": "CONCEPT.BHAIRAVA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0439",
+    "source": "BS.4",
+    "target": "CONCEPT.JIVANMUKTI",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0440",
+    "source": "BS.4",
+    "target": "TATTVA.02",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0441",
+    "source": "BS.5",
+    "target": "CONCEPT.ANANDA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0442",
+    "source": "BS.5",
+    "target": "CONCEPT.SVARUPA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0443",
+    "source": "BS.5",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0444",
+    "source": "BS.6",
+    "target": "CONCEPT.SAMAVESA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0445",
+    "source": "BS.6",
+    "target": "CONCEPT.SAHAJA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0446",
+    "source": "BS.6",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0447",
+    "source": "BS.7",
+    "target": "CONCEPT.SAMARASYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0448",
+    "source": "BS.7",
+    "target": "CONCEPT.ANAVOPAYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0449",
+    "source": "BS.7",
+    "target": "TATTVA.05",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0450",
+    "source": "BS.8",
+    "target": "CONCEPT.TANTRA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0451",
+    "source": "BS.8",
+    "target": "CONCEPT.SAKTOPAYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0452",
+    "source": "BS.8",
+    "target": "TATTVA.08",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0453",
+    "source": "BS.9",
+    "target": "CONCEPT.GURU",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0454",
+    "source": "BS.9",
+    "target": "CONCEPT.ANUPAYA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0455",
+    "source": "BS.9",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0456",
+    "source": "BS.10",
+    "target": "CONCEPT.BHAIRAVA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0457",
+    "source": "BS.10",
+    "target": "CONCEPT.SVARUPA",
+    "type": "EXPLAINS_CONCEPT",
+    "label": "Explains Concept"
+  },
+  {
+    "id": "EDGE.0458",
+    "source": "BS.10",
+    "target": "TATTVA.01",
+    "type": "MAPS_TO_TATTVA",
+    "label": "Maps To Tattva"
+  },
+  {
+    "id": "EDGE.0459",
+    "source": "DHARANA.001",
+    "target": "VBT.24",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0460",
+    "source": "DHARANA.001",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0461",
+    "source": "DHARANA.001",
+    "target": "PH.17",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0462",
+    "source": "DHARANA.002",
+    "target": "VBT.25",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0463",
+    "source": "DHARANA.002",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0464",
+    "source": "DHARANA.002",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0465",
+    "source": "DHARANA.003",
+    "target": "VBT.26",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0466",
+    "source": "DHARANA.003",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0467",
+    "source": "DHARANA.003",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0468",
+    "source": "DHARANA.004",
+    "target": "VBT.27",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0469",
+    "source": "DHARANA.004",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0470",
+    "source": "DHARANA.004",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0471",
+    "source": "DHARANA.005",
+    "target": "VBT.28",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0472",
+    "source": "DHARANA.005",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0473",
+    "source": "DHARANA.005",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0474",
+    "source": "DHARANA.006",
+    "target": "VBT.29",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0475",
+    "source": "DHARANA.006",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0476",
+    "source": "DHARANA.006",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0477",
+    "source": "DHARANA.007",
+    "target": "VBT.30",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0478",
+    "source": "DHARANA.007",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0479",
+    "source": "DHARANA.007",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0480",
+    "source": "DHARANA.008",
+    "target": "VBT.31",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0481",
+    "source": "DHARANA.008",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0482",
+    "source": "DHARANA.008",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0483",
+    "source": "DHARANA.009",
+    "target": "VBT.32",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0484",
+    "source": "DHARANA.009",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0485",
+    "source": "DHARANA.009",
+    "target": "SS.1.5",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0486",
+    "source": "DHARANA.010",
+    "target": "VBT.33",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0487",
+    "source": "DHARANA.010",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0488",
+    "source": "DHARANA.010",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0489",
+    "source": "DHARANA.011",
+    "target": "VBT.34",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0490",
+    "source": "DHARANA.011",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0491",
+    "source": "DHARANA.011",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0492",
+    "source": "DHARANA.012",
+    "target": "VBT.35",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0493",
+    "source": "DHARANA.012",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0494",
+    "source": "DHARANA.012",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0495",
+    "source": "DHARANA.013",
+    "target": "VBT.36",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0496",
+    "source": "DHARANA.013",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0497",
+    "source": "DHARANA.013",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0498",
+    "source": "DHARANA.014",
+    "target": "VBT.37",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0499",
+    "source": "DHARANA.014",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0500",
+    "source": "DHARANA.014",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0501",
+    "source": "DHARANA.015",
+    "target": "VBT.38",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0502",
+    "source": "DHARANA.015",
+    "target": "UPAYA.SAKTA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0503",
+    "source": "DHARANA.015",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0504",
+    "source": "DHARANA.016",
+    "target": "VBT.39",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0505",
+    "source": "DHARANA.016",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0506",
+    "source": "DHARANA.016",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0507",
+    "source": "DHARANA.017",
+    "target": "VBT.40",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0508",
+    "source": "DHARANA.017",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0509",
+    "source": "DHARANA.017",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0510",
+    "source": "DHARANA.018",
+    "target": "VBT.41",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0511",
+    "source": "DHARANA.018",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0512",
+    "source": "DHARANA.018",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0513",
+    "source": "DHARANA.019",
+    "target": "VBT.42",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0514",
+    "source": "DHARANA.019",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0515",
+    "source": "DHARANA.019",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0516",
+    "source": "DHARANA.020",
+    "target": "VBT.43",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0517",
+    "source": "DHARANA.020",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0518",
+    "source": "DHARANA.020",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0519",
+    "source": "DHARANA.021",
+    "target": "VBT.44",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0520",
+    "source": "DHARANA.021",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0521",
+    "source": "DHARANA.021",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0522",
+    "source": "DHARANA.022",
+    "target": "VBT.45",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0523",
+    "source": "DHARANA.022",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0524",
+    "source": "DHARANA.022",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0525",
+    "source": "DHARANA.023",
+    "target": "VBT.46",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0526",
+    "source": "DHARANA.023",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0527",
+    "source": "DHARANA.023",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0528",
+    "source": "DHARANA.024",
+    "target": "VBT.47",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0529",
+    "source": "DHARANA.024",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0530",
+    "source": "DHARANA.024",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0531",
+    "source": "DHARANA.025",
+    "target": "VBT.48",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0532",
+    "source": "DHARANA.025",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0533",
+    "source": "DHARANA.025",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0534",
+    "source": "DHARANA.026",
+    "target": "VBT.49",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0535",
+    "source": "DHARANA.026",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0536",
+    "source": "DHARANA.026",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0537",
+    "source": "DHARANA.027",
+    "target": "VBT.50",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0538",
+    "source": "DHARANA.027",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0539",
+    "source": "DHARANA.027",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0540",
+    "source": "DHARANA.028",
+    "target": "VBT.51",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0541",
+    "source": "DHARANA.028",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0542",
+    "source": "DHARANA.028",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0543",
+    "source": "DHARANA.029",
+    "target": "VBT.52",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0544",
+    "source": "DHARANA.029",
+    "target": "UPAYA.SAKTA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0545",
+    "source": "DHARANA.029",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0546",
+    "source": "DHARANA.030",
+    "target": "VBT.53",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0547",
+    "source": "DHARANA.030",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0548",
+    "source": "DHARANA.030",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0549",
+    "source": "DHARANA.031",
+    "target": "VBT.54",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0550",
+    "source": "DHARANA.031",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0551",
+    "source": "DHARANA.031",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0552",
+    "source": "DHARANA.032",
+    "target": "VBT.55",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0553",
+    "source": "DHARANA.032",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0554",
+    "source": "DHARANA.032",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0555",
+    "source": "DHARANA.033",
+    "target": "VBT.56",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0556",
+    "source": "DHARANA.033",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0557",
+    "source": "DHARANA.033",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0558",
+    "source": "DHARANA.034",
+    "target": "VBT.57",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0559",
+    "source": "DHARANA.034",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0560",
+    "source": "DHARANA.034",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0561",
+    "source": "DHARANA.035",
+    "target": "VBT.58",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0562",
+    "source": "DHARANA.035",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0563",
+    "source": "DHARANA.035",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0564",
+    "source": "DHARANA.036",
+    "target": "VBT.59",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0565",
+    "source": "DHARANA.036",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0566",
+    "source": "DHARANA.036",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0567",
+    "source": "DHARANA.037",
+    "target": "VBT.60",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0568",
+    "source": "DHARANA.037",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0569",
+    "source": "DHARANA.037",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0570",
+    "source": "DHARANA.038",
+    "target": "VBT.61",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0571",
+    "source": "DHARANA.038",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0572",
+    "source": "DHARANA.038",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0573",
+    "source": "DHARANA.039",
+    "target": "VBT.62",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0574",
+    "source": "DHARANA.039",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0575",
+    "source": "DHARANA.039",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0576",
+    "source": "DHARANA.040",
+    "target": "VBT.63",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0577",
+    "source": "DHARANA.040",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0578",
+    "source": "DHARANA.040",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0579",
+    "source": "DHARANA.041",
+    "target": "VBT.64",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0580",
+    "source": "DHARANA.041",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0581",
+    "source": "DHARANA.041",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0582",
+    "source": "DHARANA.042",
+    "target": "VBT.65",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0583",
+    "source": "DHARANA.042",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0584",
+    "source": "DHARANA.042",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0585",
+    "source": "DHARANA.043",
+    "target": "VBT.66",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0586",
+    "source": "DHARANA.043",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0587",
+    "source": "DHARANA.043",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0588",
+    "source": "DHARANA.044",
+    "target": "VBT.67",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0589",
+    "source": "DHARANA.044",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0590",
+    "source": "DHARANA.044",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0591",
+    "source": "DHARANA.045",
+    "target": "VBT.68",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0592",
+    "source": "DHARANA.045",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0593",
+    "source": "DHARANA.045",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0594",
+    "source": "DHARANA.046",
+    "target": "VBT.69",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0595",
+    "source": "DHARANA.046",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0596",
+    "source": "DHARANA.046",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0597",
+    "source": "DHARANA.047",
+    "target": "VBT.70",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0598",
+    "source": "DHARANA.047",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0599",
+    "source": "DHARANA.047",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0600",
+    "source": "DHARANA.048",
+    "target": "VBT.71",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0601",
+    "source": "DHARANA.048",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0602",
+    "source": "DHARANA.048",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0603",
+    "source": "DHARANA.049",
+    "target": "VBT.72",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0604",
+    "source": "DHARANA.049",
+    "target": "UPAYA.SAKTA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0605",
+    "source": "DHARANA.049",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0606",
+    "source": "DHARANA.050",
+    "target": "VBT.73",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0607",
+    "source": "DHARANA.050",
+    "target": "UPAYA.SAKTA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0608",
+    "source": "DHARANA.050",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0609",
+    "source": "DHARANA.051",
+    "target": "VBT.74",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0610",
+    "source": "DHARANA.051",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0611",
+    "source": "DHARANA.051",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0612",
+    "source": "DHARANA.052",
+    "target": "VBT.75",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0613",
+    "source": "DHARANA.052",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0614",
+    "source": "DHARANA.052",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0615",
+    "source": "DHARANA.053",
+    "target": "VBT.76",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0616",
+    "source": "DHARANA.053",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0617",
+    "source": "DHARANA.053",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0618",
+    "source": "DHARANA.054",
+    "target": "VBT.77",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0619",
+    "source": "DHARANA.054",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0620",
+    "source": "DHARANA.054",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0621",
+    "source": "DHARANA.055",
+    "target": "VBT.78",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0622",
+    "source": "DHARANA.055",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0623",
+    "source": "DHARANA.055",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0624",
+    "source": "DHARANA.056",
+    "target": "VBT.79",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0625",
+    "source": "DHARANA.056",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0626",
+    "source": "DHARANA.056",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0627",
+    "source": "DHARANA.057",
+    "target": "VBT.80",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0628",
+    "source": "DHARANA.057",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0629",
+    "source": "DHARANA.057",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0630",
+    "source": "DHARANA.058",
+    "target": "VBT.81",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0631",
+    "source": "DHARANA.058",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0632",
+    "source": "DHARANA.058",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0633",
+    "source": "DHARANA.059",
+    "target": "VBT.82",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0634",
+    "source": "DHARANA.059",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0635",
+    "source": "DHARANA.059",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0636",
+    "source": "DHARANA.060",
+    "target": "VBT.83",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0637",
+    "source": "DHARANA.060",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0638",
+    "source": "DHARANA.060",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0639",
+    "source": "DHARANA.061",
+    "target": "VBT.84",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0640",
+    "source": "DHARANA.061",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0641",
+    "source": "DHARANA.061",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0642",
+    "source": "DHARANA.062",
+    "target": "VBT.85",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0643",
+    "source": "DHARANA.062",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0644",
+    "source": "DHARANA.062",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0645",
+    "source": "DHARANA.063",
+    "target": "VBT.86",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0646",
+    "source": "DHARANA.063",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0647",
+    "source": "DHARANA.063",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0648",
+    "source": "DHARANA.064",
+    "target": "VBT.87",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0649",
+    "source": "DHARANA.064",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0650",
+    "source": "DHARANA.064",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0651",
+    "source": "DHARANA.065",
+    "target": "VBT.88",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0652",
+    "source": "DHARANA.065",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0653",
+    "source": "DHARANA.065",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0654",
+    "source": "DHARANA.066",
+    "target": "VBT.89",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0655",
+    "source": "DHARANA.066",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0656",
+    "source": "DHARANA.066",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0657",
+    "source": "DHARANA.067",
+    "target": "VBT.90",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0658",
+    "source": "DHARANA.067",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0659",
+    "source": "DHARANA.067",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0660",
+    "source": "DHARANA.068",
+    "target": "VBT.91",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0661",
+    "source": "DHARANA.068",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0662",
+    "source": "DHARANA.068",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0663",
+    "source": "DHARANA.069",
+    "target": "VBT.92",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0664",
+    "source": "DHARANA.069",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0665",
+    "source": "DHARANA.069",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0666",
+    "source": "DHARANA.070",
+    "target": "VBT.93",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0667",
+    "source": "DHARANA.070",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0668",
+    "source": "DHARANA.070",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0669",
+    "source": "DHARANA.071",
+    "target": "VBT.94",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0670",
+    "source": "DHARANA.071",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0671",
+    "source": "DHARANA.071",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0672",
+    "source": "DHARANA.072",
+    "target": "VBT.95",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0673",
+    "source": "DHARANA.072",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0674",
+    "source": "DHARANA.072",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0675",
+    "source": "DHARANA.073",
+    "target": "VBT.96",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0676",
+    "source": "DHARANA.073",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0677",
+    "source": "DHARANA.073",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0678",
+    "source": "DHARANA.074",
+    "target": "VBT.97",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0679",
+    "source": "DHARANA.074",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0680",
+    "source": "DHARANA.074",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0681",
+    "source": "DHARANA.075",
+    "target": "VBT.98",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0682",
+    "source": "DHARANA.075",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0683",
+    "source": "DHARANA.075",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0684",
+    "source": "DHARANA.076",
+    "target": "VBT.99",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0685",
+    "source": "DHARANA.076",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0686",
+    "source": "DHARANA.076",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0687",
+    "source": "DHARANA.077",
+    "target": "VBT.100",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0688",
+    "source": "DHARANA.077",
+    "target": "UPAYA.SAMBHAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0689",
+    "source": "DHARANA.077",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0690",
+    "source": "DHARANA.078",
+    "target": "VBT.101",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0691",
+    "source": "DHARANA.078",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0692",
+    "source": "DHARANA.078",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0693",
+    "source": "DHARANA.079",
+    "target": "VBT.102",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0694",
+    "source": "DHARANA.079",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0695",
+    "source": "DHARANA.079",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0696",
+    "source": "DHARANA.080",
+    "target": "VBT.103",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0697",
+    "source": "DHARANA.080",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0698",
+    "source": "DHARANA.080",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0699",
+    "source": "DHARANA.081",
+    "target": "VBT.104",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0700",
+    "source": "DHARANA.081",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0701",
+    "source": "DHARANA.081",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0702",
+    "source": "DHARANA.082",
+    "target": "VBT.105",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0703",
+    "source": "DHARANA.082",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0704",
+    "source": "DHARANA.082",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0705",
+    "source": "DHARANA.083",
+    "target": "VBT.106",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0706",
+    "source": "DHARANA.083",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0707",
+    "source": "DHARANA.083",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0708",
+    "source": "DHARANA.084",
+    "target": "VBT.107",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0709",
+    "source": "DHARANA.084",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0710",
+    "source": "DHARANA.084",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0711",
+    "source": "DHARANA.085",
+    "target": "VBT.108",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0712",
+    "source": "DHARANA.085",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0713",
+    "source": "DHARANA.085",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0714",
+    "source": "DHARANA.086",
+    "target": "VBT.109",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0715",
+    "source": "DHARANA.086",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0716",
+    "source": "DHARANA.086",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0717",
+    "source": "DHARANA.087",
+    "target": "VBT.110",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0718",
+    "source": "DHARANA.087",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0719",
+    "source": "DHARANA.087",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0720",
+    "source": "DHARANA.088",
+    "target": "VBT.111",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0721",
+    "source": "DHARANA.088",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0722",
+    "source": "DHARANA.088",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0723",
+    "source": "DHARANA.089",
+    "target": "VBT.112",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0724",
+    "source": "DHARANA.089",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0725",
+    "source": "DHARANA.089",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0726",
+    "source": "DHARANA.090",
+    "target": "VBT.113",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0727",
+    "source": "DHARANA.090",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0728",
+    "source": "DHARANA.090",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0729",
+    "source": "DHARANA.091",
+    "target": "VBT.114",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0730",
+    "source": "DHARANA.091",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0731",
+    "source": "DHARANA.091",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0732",
+    "source": "DHARANA.092",
+    "target": "VBT.115",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0733",
+    "source": "DHARANA.092",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0734",
+    "source": "DHARANA.092",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0735",
+    "source": "DHARANA.093",
+    "target": "VBT.116",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0736",
+    "source": "DHARANA.093",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0737",
+    "source": "DHARANA.093",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0738",
+    "source": "DHARANA.094",
+    "target": "VBT.117",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0739",
+    "source": "DHARANA.094",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0740",
+    "source": "DHARANA.094",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0741",
+    "source": "DHARANA.095",
+    "target": "VBT.118",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0742",
+    "source": "DHARANA.095",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0743",
+    "source": "DHARANA.095",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0744",
+    "source": "DHARANA.096",
+    "target": "VBT.119",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0745",
+    "source": "DHARANA.096",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0746",
+    "source": "DHARANA.096",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0747",
+    "source": "DHARANA.097",
+    "target": "VBT.120",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0748",
+    "source": "DHARANA.097",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0749",
+    "source": "DHARANA.097",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0750",
+    "source": "DHARANA.098",
+    "target": "VBT.121",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0751",
+    "source": "DHARANA.098",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0752",
+    "source": "DHARANA.098",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0753",
+    "source": "DHARANA.099",
+    "target": "VBT.122",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0754",
+    "source": "DHARANA.099",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0755",
+    "source": "DHARANA.099",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0756",
+    "source": "DHARANA.100",
+    "target": "VBT.123",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0757",
+    "source": "DHARANA.100",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0758",
+    "source": "DHARANA.100",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0759",
+    "source": "DHARANA.101",
+    "target": "VBT.124",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0760",
+    "source": "DHARANA.101",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0761",
+    "source": "DHARANA.101",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0762",
+    "source": "DHARANA.102",
+    "target": "VBT.125",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0763",
+    "source": "DHARANA.102",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0764",
+    "source": "DHARANA.102",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0765",
+    "source": "DHARANA.103",
+    "target": "VBT.126",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0766",
+    "source": "DHARANA.103",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0767",
+    "source": "DHARANA.103",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0768",
+    "source": "DHARANA.104",
+    "target": "VBT.127",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0769",
+    "source": "DHARANA.104",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0770",
+    "source": "DHARANA.104",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0771",
+    "source": "DHARANA.105",
+    "target": "VBT.128",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0772",
+    "source": "DHARANA.105",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0773",
+    "source": "DHARANA.105",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0774",
+    "source": "DHARANA.106",
+    "target": "VBT.129",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0775",
+    "source": "DHARANA.106",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0776",
+    "source": "DHARANA.106",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0777",
+    "source": "DHARANA.107",
+    "target": "VBT.130",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0778",
+    "source": "DHARANA.107",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0779",
+    "source": "DHARANA.107",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0780",
+    "source": "DHARANA.108",
+    "target": "VBT.131",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0781",
+    "source": "DHARANA.108",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0782",
+    "source": "DHARANA.108",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0783",
+    "source": "DHARANA.109",
+    "target": "VBT.132",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0784",
+    "source": "DHARANA.109",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0785",
+    "source": "DHARANA.109",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0786",
+    "source": "DHARANA.110",
+    "target": "VBT.133",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0787",
+    "source": "DHARANA.110",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0788",
+    "source": "DHARANA.110",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0789",
+    "source": "DHARANA.111",
+    "target": "VBT.134",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0790",
+    "source": "DHARANA.111",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0791",
+    "source": "DHARANA.111",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  },
+  {
+    "id": "EDGE.0792",
+    "source": "DHARANA.112",
+    "target": "VBT.135",
+    "type": "GROUNDED_IN",
+    "label": "Verse Source"
+  },
+  {
+    "id": "EDGE.0793",
+    "source": "DHARANA.112",
+    "target": "UPAYA.ANAVA",
+    "type": "USES_UPAYA",
+    "label": "Upāya Level"
+  },
+  {
+    "id": "EDGE.0794",
+    "source": "DHARANA.112",
+    "target": "SK.1.1",
+    "type": "GROUNDED_IN",
+    "label": "Philosophical Proof"
+  }
+]

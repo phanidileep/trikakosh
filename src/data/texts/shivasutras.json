@@ -1,0 +1,2992 @@
+{
+  "textInfo": {
+    "id": "SS",
+    "kind": "Text",
+    "titleIast": "Śiva Sūtras",
+    "titleDevanagari": "शिवसूत्राणि",
+    "authorIast": "Revealed to Vasugupta",
+    "century": "late 8th – early 9th century CE (~800 CE)",
+    "stage": 2,
+    "description": "The foundational revealed scripture of Kashmir Shaivism. 77 sūtras divided across three Unmeṣas, mapping precisely to the three great means of realization: Śāmbhavopāya, Śāktopāya, and Āṇavopāya.",
+    "verseCount": 77,
+    "provenance": {
+      "source": "Kashmir Shaiva Āgama Archive",
+      "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+      "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+      "verification_status": "verified_canonical"
+    }
+  },
+  "verses": [
+    {
+      "id": "SS.1.1",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 1,
+      "subDivision": "Unmeṣa 1: Śāmbhavopāya",
+      "devanagari": "चैतन्यमात्मा ॥ १ ॥",
+      "iast": "caitanyam ātmā || 1.1 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "चैतन्यमात्मा",
+          "wordIast": "caitanyam",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Consciousness is the Self.",
+      "practicalContext": "The foundational declaration: the true Self is living, sentient Consciousness (Caitanya), endowed with absolute freedom of knowledge and action.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.CAITANYA",
+        "CONCEPT.PRAKASA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.1.2",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 2,
+      "subDivision": "Unmeṣa 1: Śāmbhavopāya",
+      "devanagari": "ज्ञानं बन्धः ॥ १.२ ॥",
+      "iast": "jñānaṃ bandhaḥ || 1.2 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "ज्ञानं",
+          "wordIast": "jñānaṃ",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Contracted, differentiated knowledge is bondage.",
+      "practicalContext": "Contracted, piecemeal knowledge that perceives division and separates the knower from the known constitutes the primary bond of Saṃsāra.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.08"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.JNANA",
+        "CONCEPT.ANAVA_MALA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.1.3",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 3,
+      "subDivision": "Unmeṣa 1: Śāmbhavopāya",
+      "devanagari": "योनिवर्गः कलाशरीरम् ॥ १.३ ॥",
+      "iast": "yonivargaḥ kalāśarīram || 1.3 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "योनिवर्गः",
+          "wordIast": "yonivargaḥ",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "The matrix of differentiated sound and limited activity constitutes the body of ignorance.",
+      "practicalContext": "The illusion of separation is sustained by the groups of letters (phonemes) and limited functional capacities that shape the mental body.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.07"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.MATRIKA",
+        "CONCEPT.KANCUKA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.1.4",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 4,
+      "subDivision": "Unmeṣa 1: Śāmbhavopāya",
+      "devanagari": "ज्ञानाधिष्ठानं मातृका ॥ १.४ ॥",
+      "iast": "jñānādhiṣṭhānaṃ mātṛkā || 1.4 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "ज्ञानाधिष्ठानं",
+          "wordIast": "jñānādhiṣṭhānaṃ",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "The ununderstood mother of phonemes (Mātṛkā) is the ground of limited knowledge.",
+      "practicalContext": "The Sanskrit alphabet and inner verbal chatter unconsciously dictate psychological states, creating fear and longing.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.06"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.MATRIKA",
+        "CONCEPT.VIKALPA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.1.5",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 5,
+      "subDivision": "Unmeṣa 1: Śāmbhavopāya",
+      "devanagari": "उद्यमो भैरवः ॥ १.५ ॥",
+      "iast": "udyamo bhairavaḥ || 1.5 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "उद्यमो",
+          "wordIast": "udyamo",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "The sudden surge of spontaneous spiritual exertion is Bhairava.",
+      "practicalContext": "The sudden, flashing upsurge of pure awareness before thoughts can crystallize is the direct embodiment of Bhairava.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.UDYAMA",
+        "CONCEPT.BHAIRAVA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.1.6",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 6,
+      "subDivision": "Unmeṣa 1: Śāmbhavopāya",
+      "devanagari": "शक्तिचक्रसन्धाने विश्वसंहारः ॥ १.६ ॥",
+      "iast": "śakticakrasandhāne viśvasaṃhāraḥ || 1.6 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "शक्तिचक्रसन्धाने",
+          "wordIast": "śakticakrasandhāne",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Through union with the wheel of energies, the differentiated universe is dissolved.",
+      "practicalContext": "When the seeker unites with the internal wheel of sensory powers, the illusion of external separate matter dissolves into light.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SAMHARA",
+        "CONCEPT.CAKRESVARA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.1.7",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 7,
+      "subDivision": "Unmeṣa 1: Śāmbhavopāya",
+      "devanagari": "जाग्रत्स्वप्नसुषुप्तभेदे तुर्याभोगसम्भवः ॥ १.७ ॥",
+      "iast": "jāgratsvapnasuṣuptabhede turyābhogasambhavaḥ || 1.7 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "जाग्रत्स्वप्नसुषुप्तभेदे",
+          "wordIast": "jāgratsvapnasuṣuptabhede",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "In the distinctions between waking, dreaming, and deep sleep, the ecstatic expansion of the Fourth state (Turya) arises.",
+      "practicalContext": "Turya is not an isolated retreat; it is the living current that runs through and illuminates all three states of experience.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.TURYA",
+        "CONCEPT.TURYATITA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.1.8",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 8,
+      "subDivision": "Unmeṣa 1: Śāmbhavopāya",
+      "devanagari": "ज्ञानं जाग्रत् ॥ १.८ ॥",
+      "iast": "jñānaṃ jāgrat || 1.8 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "ज्ञानं",
+          "wordIast": "jñānaṃ",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Waking is differentiated sensory cognition.",
+      "practicalContext": "For the bound person, waking is lost in external objects; for the yogi, waking is the radiance of Consciousness playing as external forms.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.16"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.JAGRAT",
+        "CONCEPT.ABHASA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.1.9",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 9,
+      "subDivision": "Unmeṣa 1: Śāmbhavopāya",
+      "devanagari": "स्वप्नो विकल्पाः ॥ १.९ ॥",
+      "iast": "svapno vikalpāḥ || 1.9 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "स्वप्नो",
+          "wordIast": "svapno",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Dreaming consists of internal thought-constructs.",
+      "practicalContext": "Dreaming demonstrates how the mind constructs an entire universe of landscapes, people, and emotions purely out of mental impressions.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.16"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SVAPNA",
+        "CONCEPT.VIKALPA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.1.10",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 10,
+      "subDivision": "Unmeṣa 1: Śāmbhavopāya",
+      "devanagari": "अविवेको मायासौषुप्तम् ॥ १.१० ॥",
+      "iast": "aviveko māyāsauṣuptam || 1.10 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "अविवेको",
+          "wordIast": "aviveko",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Lack of discernment is deep dreamless sleep immersed in Māyā.",
+      "practicalContext": "Ordinary deep sleep is enveloped in non-discernment; yogic sleep remains lucidly awake in the void.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.06"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SUSUPTI",
+        "CONCEPT.MAYIYA_MALA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.1.11",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 11,
+      "subDivision": "Unmeṣa 1: Śāmbhavopāya",
+      "devanagari": "त्रितयभोक्ता वीरेशः ॥ १.११ ॥",
+      "iast": "tritayabhoktā vīreśaḥ || 1.11 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "त्रितयभोक्ता",
+          "wordIast": "tritayabhoktā",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "The hero of spiritual awareness is the master and enjoyer of the three states.",
+      "practicalContext": "The realized practitioner (Vīra) does not flee waking, dreaming, or sleeping, but reigns over them as their master and enjoyer.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.JIVANMUKTI",
+        "CONCEPT.CAKRESVARA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.1.12",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 12,
+      "subDivision": "Unmeṣa 1: Śāmbhavopāya",
+      "devanagari": "विस्मयो योगभूमिकाः ॥ १.१२ ॥",
+      "iast": "vismayo yogabhūmikāḥ || 1.12 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "विस्मयो",
+          "wordIast": "vismayo",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Astonished wonder is the stage and foundation of Yoga.",
+      "practicalContext": "Spiritual life is not grim ascetic suppression; it is a perpetual, joyful astonishment at the miracle of existence.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.VISMAYAH",
+        "CONCEPT.CAMATKARA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.1.13",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 13,
+      "subDivision": "Unmeṣa 1: Śāmbhavopāya",
+      "devanagari": "इच्छा शक्तिरुमा कुमारी ॥ १.१३ ॥",
+      "iast": "icchā śaktir umā kumārī || 1.13 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "इच्छा",
+          "wordIast": "icchā",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "The sovereign Will of the realized master is the Goddess Umā, the ever-youthful Virgin.",
+      "practicalContext": "The will of an awakened master is identical to the pure divine creative energy of the supreme Goddess.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.03"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.ICCHA",
+        "CONCEPT.SVATANTRYA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.1.14",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 14,
+      "subDivision": "Unmeṣa 1: Śāmbhavopāya",
+      "devanagari": "दृश्यं शरीरम् ॥ १.१४ ॥",
+      "iast": "dṛśyaṃ śarīram || 1.14 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "दृश्यं",
+          "wordIast": "dṛśyaṃ",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "All that is seen and experienced is one's own body.",
+      "practicalContext": "For the awakened yogi, the entire objective cosmos is experienced with the intimate immediacy of their own physical body.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.04"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.IDAM",
+        "CONCEPT.KULA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.1.15",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 15,
+      "subDivision": "Unmeṣa 1: Śāmbhavopāya",
+      "devanagari": "हृदये चित्तसङ्घट्टाद्दृश्यस्वापदर्शनम् ॥ १.१५ ॥",
+      "iast": "hṛdaye cittasaṅghaṭṭād dṛśyasvāpadarśanam || 1.15 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "हृदये",
+          "wordIast": "hṛdaye",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Through plunging the mind into the spiritual Heart, the objective world and void are perceived as one.",
+      "practicalContext": "Focusing the mind into the spiritual Heart dissolves the boundary between outer objects and inner silence.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.HRIDAYA",
+        "CONCEPT.SAMAVESA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.1.16",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 16,
+      "subDivision": "Unmeṣa 1: Śāmbhavopāya",
+      "devanagari": "शुद्धतत्त्वसन्धानाद्वाऽपशुशक्तिः ॥ १.१६ ॥",
+      "iast": "śuddhatattvasandhānād vā'paśuśaktiḥ || 1.16 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "शुद्धतत्त्वसन्धानाद्वाऽपशुशक्तिः",
+          "wordIast": "śuddhatattvasandhānād",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Or through contemplation of the Pure Principle (Śiva), the uncontracted power of liberation arises.",
+      "practicalContext": "Attuning to the transcendental reality of Śiva frees the soul from the animal bonds of the Paśu state.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.PATI",
+        "CONCEPT.BINDU"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.1.17",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 17,
+      "subDivision": "Unmeṣa 1: Śāmbhavopāya",
+      "devanagari": "वितर्क आत्मज्ञानम् ॥ १.१७ ॥",
+      "iast": "vitarka ātmajñānam || 1.17 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "वितर्क",
+          "wordIast": "vitarka",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Unshakable conviction 'I am Śiva' is true knowledge of the Self.",
+      "practicalContext": "Vitarka here does not mean ordinary intellectual doubt, but the diamond-hard non-dual conviction: 'I am the Supreme Consciousness'.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.JNANA",
+        "CONCEPT.SVARUPA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.1.18",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 18,
+      "subDivision": "Unmeṣa 1: Śāmbhavopāya",
+      "devanagari": "लोकानन्दः समाधिसुखम् ॥ १.१८ ॥",
+      "iast": "lokānandaḥ samādhisukham || 1.18 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "लोकानन्दः",
+          "wordIast": "lokānandaḥ",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "The joy of observing the cosmos is the bliss of Samādhi.",
+      "practicalContext": "The yogi does not need to close their eyes to experience bliss; looking upon the world of people and nature yields the bliss of samādhi.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.ANANDA",
+        "CONCEPT.SAMARASYA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.1.19",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 19,
+      "subDivision": "Unmeṣa 1: Śāmbhavopāya",
+      "devanagari": "शक्तिसन्धाने शरीरोत्पत्तिः ॥ १.१९ ॥",
+      "iast": "śaktisandhāne śarīrotpattiḥ || 1.19 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "शक्तिसन्धाने",
+          "wordIast": "śaktisandhāne",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Through union with Śakti, any body or state can be emanated at will.",
+      "practicalContext": "By aligning with the primordial creative energy, the master can project any experiential form at will.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SVATANTRYA",
+        "CONCEPT.SRISTI"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.1.20",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 20,
+      "subDivision": "Unmeṣa 1: Śāmbhavopāya",
+      "devanagari": "भूतसन्धानभूतपृथक्त्वविश्वसङ्घट्टाः ॥ १.२० ॥",
+      "iast": "bhūtasandhānabhūtapṛthaktvaviśvasaṅghaṭṭāḥ || 1.20 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "भूतसन्धानभूतपृथक्त्वविश्वसङ्घट्टाः",
+          "wordIast": "bhūtasandhānabhūtapṛthaktvaviśvasaṅghaṭṭāḥ",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "There is mastery over joining elements, separating elements, and synthesizing the cosmos.",
+      "practicalContext": "The fully awakened consciousness can unite and separate the elements of nature and perceive the cosmos in a single synthetic gaze.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.32"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.MAHABHUTA",
+        "CONCEPT.KRIYA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.1.21",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 21,
+      "subDivision": "Unmeṣa 1: Śāmbhavopāya",
+      "devanagari": "शुद्धविद्योदयाच्चक्रेशत्वसिद्धिः ॥ १.२१ ॥",
+      "iast": "śuddhavidyodayāc cakreśatvasiddhiḥ || 1.21 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "शुद्धविद्योदयाच्चक्रेशत्वसिद्धिः",
+          "wordIast": "śuddhavidyodayāc",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Through the dawn of Pure Knowledge (Śuddhavidyā), mastery over the wheel of all powers is achieved.",
+      "practicalContext": "When non-dual divine knowledge arises, the practitioner becomes the sovereign Cakreśvara.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.05"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.CAKRESVARA",
+        "CONCEPT.JNANA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.1.22",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 22,
+      "subDivision": "Unmeṣa 1: Śāmbhavopāya",
+      "devanagari": "महाह्रदानुसन्धानान्मन्त्रवीर्यानुभवः ॥ १.२२ ॥",
+      "iast": "mahāhradānusandhānān mantravīryānubhavaḥ || 1.22 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "महाह्रदानुसन्धानान्मन्त्रवीर्यानुभवः",
+          "wordIast": "mahāhradānusandhānān",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Through contemplation on the Great Ocean of Consciousness, the potent vitality of Mantra is directly experienced.",
+      "practicalContext": "By immersing in the boundless, transparent lake of Consciousness (Mahāhrada), the living potency of all mantras awakens.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SAMAVESA",
+        "CONCEPT.CITI"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.2.1",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 23,
+      "subDivision": "Unmeṣa 2: Śāktopāya",
+      "devanagari": "चित्तं मन्त्रः ॥ २.१ ॥",
+      "iast": "cittaṃ mantraḥ || 2.1 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "चित्तं",
+          "wordIast": "cittaṃ",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "The mind turned toward its source is Mantra.",
+      "practicalContext": "A mantra is not just a sound string; it is the mind deeply meditating on its non-dual identity with the Divine.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.16"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SAKTOPAYA",
+        "CONCEPT.CITI"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.2.2",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 24,
+      "subDivision": "Unmeṣa 2: Śāktopāya",
+      "devanagari": "प्रयत्नः साधकः ॥ २.२ ॥",
+      "iast": "prayatnaḥ sādhakaḥ || 2.2 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "प्रयत्नः",
+          "wordIast": "prayatnaḥ",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Spontaneous zealous effort is what accomplishes realization.",
+      "practicalContext": "Spiritual exertion in Śāktopāya is the eager, fervent turning of attention back toward the light of awareness.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.14"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SADHANA",
+        "CONCEPT.UDYAMA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.2.3",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 25,
+      "subDivision": "Unmeṣa 2: Śāktopāya",
+      "devanagari": "विद्याशरीरसत्ता मन्त्ररहस्यम् ॥ २.३ ॥",
+      "iast": "vidyāśarīrasattā mantrarahasyam || 2.3 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "विद्याशरीरसत्ता",
+          "wordIast": "vidyāśarīrasattā",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "The secret of mantra is the being whose body is pure Knowledge.",
+      "practicalContext": "The true heart of all mantras is the living, radiant presence of the non-dual Goddess of Wisdom (Mālinī).",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.05"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.MALINI",
+        "CONCEPT.JNANA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.2.4",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 26,
+      "subDivision": "Unmeṣa 2: Śāktopāya",
+      "devanagari": "गर्भे चित्तविकासोऽविशिष्टविद्यास्वप्नः ॥ २.४ ॥",
+      "iast": "garbhe cittavikāso'viśiṣṭavidyāsvapnaḥ || 2.4 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "गर्भे",
+          "wordIast": "garbhe",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Satisfaction with ordinary mental expansion is like dreaming of limited occult knowledge.",
+      "practicalContext": "The seeker must not be sidetracked by minor occult powers or visionary states, which remain within the dream of duality.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.16"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.VIKALPA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.2.5",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 27,
+      "subDivision": "Unmeṣa 2: Śāktopāya",
+      "devanagari": "विद्यासमुत्थाने स्वाभाविक्यो खेचरी शिवावस्था ॥ २.५ ॥",
+      "iast": "vidyāsamutthāne svābhāvīkye khecarī śivāvasthā || 2.5 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "विद्यासमुत्थाने",
+          "wordIast": "vidyāsamutthāne",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Upon the arising of Pure Wisdom, the innate state of Khecarī and Śiva is attained.",
+      "practicalContext": "When authentic intuitive wisdom awakens, one naturally enters the soaring flight in the sky of Consciousness (Khecarī).",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.KHECARI",
+        "CONCEPT.SVARUPA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.2.6",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 28,
+      "subDivision": "Unmeṣa 2: Śāktopāya",
+      "devanagari": "गुरुरुपायः ॥ २.६ ॥",
+      "iast": "gurur upāyaḥ || 2.6 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "गुरुरुपायः",
+          "wordIast": "gurur",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "The Guru is the means.",
+      "practicalContext": "The Guru is the direct doorway to liberation, embodying the grace of Śiva that awakens the sleeping recognition in the disciple.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.GURU",
+        "CONCEPT.DIKSA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.2.7",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 29,
+      "subDivision": "Unmeṣa 2: Śāktopāya",
+      "devanagari": "मातृकाचक्रसम्बोधः ॥ २.७ ॥",
+      "iast": "mātṛkācakrasambodhaḥ || 2.7 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "मातृकाचक्रसम्बोधः",
+          "wordIast": "mātṛkācakrasambodhaḥ",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Awakening to the wheel of the Mother of Letters brings liberation.",
+      "practicalContext": "When the seeker decodes how language and letters construct psychological reality, the matrix of illusion is conquered.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.06"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.MATRIKA",
+        "CONCEPT.CAKRESVARA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.2.8",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 30,
+      "subDivision": "Unmeṣa 2: Śāktopāya",
+      "devanagari": "शरीरं हविः ॥ २.८ ॥",
+      "iast": "śarīraṃ haviḥ || 2.8 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "शरीरं",
+          "wordIast": "śarīraṃ",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "The body is the sacrificial offering.",
+      "practicalContext": "In authentic tantric worship, one does not pour ghee into physical fire; one offers one's physical body and ego into the blazing fire of Consciousness.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.36"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SAMHARA",
+        "CONCEPT.KULA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.2.9",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 31,
+      "subDivision": "Unmeṣa 2: Śāktopāya",
+      "devanagari": "ज्ञानमन्नम् ॥ २.९ ॥",
+      "iast": "jñānam annam || 2.9 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "ज्ञानमन्नम्",
+          "wordIast": "jñānam",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Differentiated knowledge is the food to be digested.",
+      "practicalContext": "All objective cognitions and perceptions are the nourishment that is chewed, digested, and integrated into pure Awareness.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.14"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.JNANA",
+        "CONCEPT.SAMARASYA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.2.10",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 32,
+      "subDivision": "Unmeṣa 2: Śāktopāya",
+      "devanagari": "विद्यासंहारे तदुत्थस्वप्नदर्शनम् ॥ २.१० ॥",
+      "iast": "vidyāsaṃhāre tadutthasvapnadarśanam || 2.10 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "विद्यासंहारे",
+          "wordIast": "vidyāsaṃhāre",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "With the fading of intuitive knowledge, dreamlike illusions emerge.",
+      "practicalContext": "If vigilance lapses and the light of pure wisdom is allowed to diminish, old dualistic impressions reassert themselves.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.06"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.TIRODHANA",
+        "CONCEPT.SVAPNA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.1",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 33,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "चित्तमात्मा ॥ ३.१ ॥",
+      "iast": "cittam ātmā || 3.1 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "चित्तमात्मा",
+          "wordIast": "cittam",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "For the bound soul, the fluctuating mind is mistaken for the Self.",
+      "practicalContext": "In the contracted state of Āṇavopāya, the individual identifies with the fluctuating mind (Citta).",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.16"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.ANAVOPAYA",
+        "CONCEPT.ANTAHKARANA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.2",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 34,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "ज्ञानं बन्धः ॥ ३.२ ॥",
+      "iast": "jñānaṃ bandhaḥ || 3.2 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "ज्ञानं",
+          "wordIast": "jñānaṃ",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Sensory, fragmentary knowledge is bondage.",
+      "practicalContext": "Conditioned knowledge dependent on the senses keeps the soul trapped in dualistic perceptions.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.08"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.JNANA",
+        "CONCEPT.KANCUKA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.3",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 35,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "कलादीनां तत्त्वानामविवेको माया ॥ ३.३ ॥",
+      "iast": "kalādīnāṃ tattvānām aviveko māyā || 3.3 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "कलादीनां",
+          "wordIast": "kalādīnāṃ",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Non-discernment of Kalā and the other tattvas is the illusion of Māyā.",
+      "practicalContext": "Failing to see that the five Kañcukas (Kalā, Vidyā, etc.) are only temporary coverings of one's own nature is Māyā.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.07"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.KANCUKA",
+        "CONCEPT.MAYIYA_MALA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.4",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 36,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "शरीरे संहारः कलानाम् ॥ ३.४ ॥",
+      "iast": "śarīre saṃhāraḥ kalānām || 3.4 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "शरीरे",
+          "wordIast": "śarīre",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "In the physical body, the parts and energies are to be reabsorbed.",
+      "practicalContext": "The practitioner methodically dissolves bodily energies from the gross elements up into the supreme center.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.36"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SAMHARA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.5",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 37,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "नाडीसंहारभूतजयभूतकैवल्यभूतपृथक्त्वानि ॥ ३.५ ॥",
+      "iast": "nāḍīsaṃhārabhūtajayabhūtakaivalyabhūtapṛthaktvāni || 3.5 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "नाडीसंहारभूतजयभूतकैवल्यभूतपृथक्त्वानि",
+          "wordIast": "nāḍīsaṃhārabhūtajayabhūtakaivalyabhūtapṛthaktvāni",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "There is mastery over the subtle channels, conquest of the elements, and discrimination from nature.",
+      "practicalContext": "Through breath regulation and subtle focus, one gains control over vital channels (nāḍīs) and physical forces.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.32"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.MAHABHUTA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.6",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 38,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "मोहावरणात्सिद्धिः ॥ ३.६ ॥",
+      "iast": "mohāvaraṇāt siddhiḥ || 3.6 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "मोहावरणात्सिद्धिः",
+          "wordIast": "mohāvaraṇāt",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Supernormal powers arise from the veil of delusion.",
+      "practicalContext": "Occult achievements are products of limited, veiled states and should not be confused with true liberation.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.06"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.TIRODHANA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.7",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 39,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "मोहजयादनन्ताभोगात्सहजविद्याजयः ॥ ३.७ ॥",
+      "iast": "mohajayād anantābhogāt sahajavidyājayaḥ || 3.7 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "मोहजयादनन्ताभोगात्सहजविद्याजयः",
+          "wordIast": "mohajayād",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "By conquering delusion through infinite expansion, innate wisdom is won.",
+      "practicalContext": "Dissolving mental obscuration into boundless awareness establishes spontaneous natural wisdom (Sahaja-vidyā).",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.05"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SAHAJA",
+        "CONCEPT.VIKASA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.8",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 40,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "जाग्रद्द्वितीयकरः ॥ ३.८ ॥",
+      "iast": "jāgrad dvitīyakaraḥ || 3.8 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "जाग्रद्द्वितीयकरः",
+          "wordIast": "jāgrad",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Waking is a second radiant ray of awareness.",
+      "practicalContext": "For the dedicated yogi, ordinary waking reality is an illuminated ray of their own central consciousness.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.16"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.JAGRAT",
+        "CONCEPT.ABHASA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.9",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 41,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "नर्तक आत्मा ॥ ३.९ ॥",
+      "iast": "nartaka ātmā || 3.9 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "नर्तक",
+          "wordIast": "nartaka",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "The Self is the cosmic dancer.",
+      "practicalContext": "The true Self dances through all situations and emotional roles on the stage of the cosmos without being tainted.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SVARUPA",
+        "CONCEPT.CAMATKARA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.10",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 42,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "रङ्गोऽन्तरात्मा ॥ ३.१० ॥",
+      "iast": "raṅgo'ntarātmā || 3.10 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "रङ्गोऽन्तरात्मा",
+          "wordIast": "raṅgo'ntarātmā",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "The inner soul is the stage.",
+      "practicalContext": "The subtle inner psyche provides the stage on which the cosmic dancer plays all parts.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.12"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.PASU"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.11",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 43,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "प्रेक्षकाणीन्द्रियाणि ॥ ३.११ ॥",
+      "iast": "prekṣakāṇīndriyāṇi || 3.11 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "प्रेक्षकाणीन्द्रियाणि",
+          "wordIast": "prekṣakāṇīndriyāṇi",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "The sensory organs are the spectators.",
+      "practicalContext": "The senses are the attentive audience watching the divine drama unfold.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.17"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.ANTAHKARANA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.12",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 44,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "धीवशात्सत्त्वसिद्धिः ॥ ३.१२ ॥",
+      "iast": "dhīvaśāt sattvasiddhiḥ || 3.12 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "धीवशात्सत्त्वसिद्धिः",
+          "wordIast": "dhīvaśāt",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Through the purified intellect, the realization of pure Being is achieved.",
+      "practicalContext": "A clear, decisive intellect (Buddhi) becomes a perfect mirror for the light of pure consciousness.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.14"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SATTVA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.13",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 45,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "सिद्धः स्वतन्त्रभावः ॥ ३.१३ ॥",
+      "iast": "siddhaḥ svatantrabhāvaḥ || 3.13 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "सिद्धः",
+          "wordIast": "siddhaḥ",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "The state of sovereign freedom is established.",
+      "practicalContext": "The yogi achieves the unconditioned, autonomous nature (Svātantrya) of the Divine.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SVATANTRYA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.14",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 46,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "यथा तत्र तथान्यत्र ॥ ३.१४ ॥",
+      "iast": "yathā tatra tathānyatra || 3.14 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "यथा",
+          "wordIast": "yathā",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "As it is within one's own body, so it is everywhere else.",
+      "practicalContext": "The yogi realizes that the same consciousness vibrating within their heart is animating all living beings.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SAMARASYA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.15",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 47,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "बीजावधानम् ॥ ३.१५ ॥",
+      "iast": "bījāvadhānam || 3.15 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "बीजावधानम्",
+          "wordIast": "bījāvadhānam",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Constant mindful attention upon the primal Seed (Consciousness).",
+      "practicalContext": "Unbroken attentiveness directed toward the source of awareness preserves stability in daily life.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.BINDU"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.16",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 48,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "आसनस्थः सुखं ह्रदे निमज्जति ॥ ३.१६ ॥",
+      "iast": "āsanasthaḥ sukhaṃ hrade nimajjati || 3.16 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "आसनस्थः",
+          "wordIast": "āsanasthaḥ",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Established in the true posture, one effortlessly plunges into the lake of bliss.",
+      "practicalContext": "The true posture is resting effortlessly in Consciousness, plunging like a swimmer into a deep, cool mountain lake.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.ANANDA",
+        "CONCEPT.SAMAVESA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.17",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 49,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "स्वमात्रानिर्माणमापादयति ॥ ३.१७ ॥",
+      "iast": "svamātrānirmāṇam āpādayati || 3.17 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "स्वमात्रानिर्माणमापादयति",
+          "wordIast": "svamātrānirmāṇam",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "One shapes external manifestations according to one's own measure.",
+      "practicalContext": "Consciousness shapes external experiences to mirror its inner state of realization.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.KRIYA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.18",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 50,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "विद्याऽविनाशे जन्मविनाशः ॥ ३.१८ ॥",
+      "iast": "vidyā'vināśe janmavināśaḥ || 3.18 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "विद्याऽविनाशे",
+          "wordIast": "vidyā'vināśe",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "When spiritual wisdom is indestructible, the cycle of rebirth is destroyed.",
+      "practicalContext": "Continuous stabilization in non-dual recognition extinguishes all future rounds of conditioned rebirth.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.05"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.JIVANMUKTI"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.19",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 51,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "कवर्गादिषु माहेश्वर्याद्याः पशुमातरः ॥ ३.१९ ॥",
+      "iast": "kavargādiṣu māheśvaryādyāḥ paśumātaraḥ || 3.19 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "कवर्गादिषु",
+          "wordIast": "kavargādiṣu",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "The energies residing in the Ka-group of letters become the mother-powers of bound souls.",
+      "practicalContext": "The phonemic energies governing language control and entrap the bound creature until their divine origin is realized.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.06"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.MATRIKA",
+        "CONCEPT.PASU"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.20",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 52,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "त्रिषु चतुर्थं तैलवदासेच्यम् ॥ ३.२० ॥",
+      "iast": "triṣu caturthaṃ tailavad āsecyam || 3.20 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "त्रिषु",
+          "wordIast": "triṣu",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "The Fourth state (Turya) is to be poured into the three states like a continuous stream of oil.",
+      "practicalContext": "One does not keep meditation separate from life; one infuses the peace of Turya smoothly into waking, dreaming, and sleeping.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.TURYA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.21",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 53,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "मग्नः स्वचित्तेन प्रविशेत् ॥ ३.२१ ॥",
+      "iast": "magnaḥ svacittena praviśet || 3.21 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "मग्नः",
+          "wordIast": "magnaḥ",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Plunging with one's mind, one enters the inner sanctuary.",
+      "practicalContext": "By diving directly into the interior space of mind, one reaches the threshold of the transcendent.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.16"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SAMAVESA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.22",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 54,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "प्राणसमाचारे समदर्शनम् ॥ ३.२२ ॥",
+      "iast": "prāṇasamācāre samadarśanam || 3.22 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "प्राणसमाचारे",
+          "wordIast": "prāṇasamācāre",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Through the harmonious flow of the vital breath, the vision of universal equality arises.",
+      "practicalContext": "When the inward breath (Prāṇa) and outward breath (Apāna) balance and rest in the center, equal vision (Sama-darśana) dawns.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.33"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.PRANASAMACARA",
+        "CONCEPT.MADHYA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.23",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 55,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "मध्येऽवरप्रसवः ॥ ३.२३ ॥",
+      "iast": "madhye'varaprasavaḥ || 3.23 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "मध्येऽवरप्रसवः",
+          "wordIast": "madhye'varaprasavaḥ",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "In the central state, inferior sensations are transcended.",
+      "practicalContext": "Resting in the central gap prevents the birth of lower reactive emotional turbulence.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.MADHYA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.24",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 56,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "मात्रास्वप्रत्ययसन्धाने नष्टस्य पुनरुत्थानम् ॥ ३.२४ ॥",
+      "iast": "mātrāsvapratyayasandhāne naṣṭasya punarutthānam || 3.24 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "मात्रास्वप्रत्ययसन्धाने",
+          "wordIast": "mātrāsvapratyayasandhāne",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Through reuniting the objects of perception with the Self, what seemed lost is resurrected.",
+      "practicalContext": "When fragmented perceptions are reunited with awareness, the divinity of reality is restored.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.PRATYABHIJNA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.25",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 57,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "शिवतुल्यो जायते ॥ ३.२५ ॥",
+      "iast": "śivatulyo jāyate || 3.25 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "शिवतुल्यो",
+          "wordIast": "śivatulyo",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "One becomes equal to Śiva.",
+      "practicalContext": "The practitioner realizes that they are in every respect identical to the Supreme Reality.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.PARAMASIVA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.26",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 58,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "शरीरवृत्तिर्व्रतम् ॥ ३.२६ ॥",
+      "iast": "śarīravṛttir vratam || 3.26 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "शरीरवृत्तिर्व्रतम्",
+          "wordIast": "śarīravṛttir",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Every activity of the physical body becomes one's sacred vow.",
+      "practicalContext": "No external religious rituals are needed; walking, eating, breathing, and resting become sacred worship.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.36"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.JIVANMUKTI"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.27",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 59,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "कथा जपः ॥ ३.२७ ॥",
+      "iast": "kathā japaḥ || 3.27 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "कथा",
+          "wordIast": "kathā",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Ordinary conversation becomes the repetition of Mantra.",
+      "practicalContext": "Spoken words in daily life are experienced as the joyful vibration of the Great Mantra.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.22"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.MATRIKA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.28",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 60,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "दानमात्मज्ञानम् ॥ ३.२८ ॥",
+      "iast": "dānam ātmajñānam || 3.28 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "दानमात्मज्ञानम्",
+          "wordIast": "dānam",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Bestowing knowledge of the Self is the highest charity.",
+      "practicalContext": "The greatest gift one can offer to humanity is awakening them to their own inherent divinity.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.ANUGRAHA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.29",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 61,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "योऽविपस्थो ज्ञाहेतुश्च ॥ ३.२९ ॥",
+      "iast": "yo'vipastho jñāhetuś ca || 3.29 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "योऽविपस्थो",
+          "wordIast": "yo'vipastho",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "The master who presides over the wheel of powers is the cause of enlightenment.",
+      "practicalContext": "One who is firmly seated in sovereign awareness inspires awakening in everyone they touch.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.CAKRESVARA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.30",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 62,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "स्वशक्तिप्रचयोऽस्य विश्वम् ॥ ३.३० ॥",
+      "iast": "svaśaktipracayo'sya viśvam || 3.30 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "स्वशक्तिप्रचयोऽस्य",
+          "wordIast": "svaśaktipracayo'sya",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "The manifest cosmos is the boundless expansion of one's own energies.",
+      "practicalContext": "The universe is not an external prison; it is the glorious panorama of your own conscious powers.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.KULA",
+        "CONCEPT.SVATANTRYA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.31",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 63,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "स्थितिलयौ ॥ ३.३१ ॥",
+      "iast": "sthitilayau || 3.31 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "स्थितिलयौ",
+          "wordIast": "sthitilayau",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Maintenance and dissolution also belong to the Self.",
+      "practicalContext": "The preservation and dissolution of experience are recognized as one's own voluntary rhythm.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.STHITI",
+        "CONCEPT.SAMHARA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.32",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 64,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "तत्प्रवृत्तावप्यनिरासः संवेत्तृभावात् ॥ ३.३२ ॥",
+      "iast": "tatpravṛttāv apy anirāsaḥ saṃvettṛbhāvāt || 3.32 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "तत्प्रवृत्तावप्यनिरासः",
+          "wordIast": "tatpravṛttāv",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Even while sensory activities proceed, there is no separation from the knower.",
+      "practicalContext": "Engaging in outward physical activities never disrupts the yogi's communion with the inner witness.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.NITYODITA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.33",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 65,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "सुखदुःखयोर्बहिर्मननम् ॥ ३.३३ ॥",
+      "iast": "sukhaduḥkhayor bahir mananam || 3.33 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "सुखदुःखयोर्बहिर्मननम्",
+          "wordIast": "sukhaduḥkhayor",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Pleasure and pain are recognized as external phenomena.",
+      "practicalContext": "Pleasure and pain are seen as outer weather patterns that pass across the unchanging sky of the Self.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.16"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.NIRVIKALPA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.34",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 66,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "तद्विमुक्तस्तु केवली ॥ ३.३४ ॥",
+      "iast": "tadvimuktas tu kevalī || 3.34 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "तद्विमुक्तस्तु",
+          "wordIast": "tadvimuktas",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Freed from identification with them, one stands alone in absolute fullness.",
+      "practicalContext": "Detached from reactive emotions, the practitioner abides in the unconditioned sovereignty of Kaivalya.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.12"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SVARUPA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.35",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 67,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "मोहप्रतिसंहतस्तु कर्मात्मा ॥ ३.३५ ॥",
+      "iast": "mohapratisaṃhatas tu karmātmā || 3.35 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "मोहप्रतिसंहतस्तु",
+          "wordIast": "mohapratisaṃhatas",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Entangled in delusion, one becomes the bound agent of karma.",
+      "practicalContext": "Identifying with limited actions traps consciousness in the wheel of karmic consequence.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.12"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.KARMA_MALA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.36",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 68,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "भेदतिरस्कारे सर्गान्तरकर्मत्वम् ॥ ३.३६ ॥",
+      "iast": "bhedatiraskāre sargāntarakarmatvam || 3.36 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "भेदतिरस्कारे",
+          "wordIast": "bhedatiraskāre",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Upon overcoming the sense of difference, one gains the power to create anew.",
+      "practicalContext": "When division is dissolved, the yogi's actions carry the transformative creative force of the cosmos.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SRISTI"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.37",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 69,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "करणशक्तिः स्वतोऽनुभवात् ॥ ३.३७ ॥",
+      "iast": "karaṇaśaktiḥ svato'nubhavāt || 3.37 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "करणशक्तिः",
+          "wordIast": "karaṇaśaktiḥ",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "The creative power of the instruments arises from one's own direct experience.",
+      "practicalContext": "True power comes from direct personal realization, not secondhand theoretical concepts.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.PRATIBHA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.38",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 70,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "त्रिपदाद्यनुप्राणनम् ॥ ३.३८ ॥",
+      "iast": "tripadādyanuprāṇanam || 3.38 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "त्रिपदाद्यनुप्राणनम्",
+          "wordIast": "tripadādyanuprāṇanam",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Infusing life from the primal state into the three spheres of being.",
+      "practicalContext": "Pouring the energy of pure consciousness into body, mind, and worldly actions.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.TURYA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.39",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 71,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "चित्तस्थितिवच्छरीरकरणबाह्येषु ॥ ३.३९ ॥",
+      "iast": "cittasthitivac charīrakaraṇabāhyeṣu || 3.39 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "चित्तस्थितिवच्छरीरकरणबाह्येषु",
+          "wordIast": "cittasthitivac",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Just as in the mind, so also in the body, senses, and external objects.",
+      "practicalContext": "The same spiritual stability maintained in internal contemplation extends seamlessly to the body and external world.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.16"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SAMARASYA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.40",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 72,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "अभिलाषाद्बहिर्गतिः संवाह्यस्य ॥ ३.४० ॥",
+      "iast": "abhilāṣād bahirgatiḥ saṃvāhyasya || 3.40 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "अभिलाषाद्बहिर्गतिः",
+          "wordIast": "abhilāṣād",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Due to craving, the bound soul is driven outward.",
+      "practicalContext": "Uncontrolled desire propels attention outward into the labyrinth of external objects.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.09"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.RAGA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.41",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 73,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "तदारूढप्रमितेस्तत्क्षयाज्जीवसङ्क्षयः ॥ ३.४१ ॥",
+      "iast": "tadārūḍhapramites tatkṣayāj jīvasaṅkṣayaḥ || 3.41 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "तदारूढप्रमितेस्तत्क्षयाज्जीवसङ्क्षयः",
+          "wordIast": "tadārūḍhapramites",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Established in that awareness, with the end of craving, the bound state is dissolved.",
+      "practicalContext": "Abiding firmly in Consciousness, when craving ends, the contracted life of the limited soul dissolves.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.12"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.JIVANMUKTI"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.42",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 74,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "भूतकञ्चुकी तदा विमुक्तो भूयः पतिसमः परः ॥ ३.४२ ॥",
+      "iast": "bhūtakañcukī tadā vimukto bhūyaḥ patisamaḥ paraḥ || 3.42 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "भूतकञ्चुकी",
+          "wordIast": "bhūtakañcukī",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Then, though still wearing the physical body as a cloak, one is liberated and identical to the Supreme Lord.",
+      "practicalContext": "Even while wearing the physical body like a lightweight coat, the realized master is in truth the supreme Lord Himself.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.36"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.PATI",
+        "CONCEPT.JIVANMUKTI"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.43",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 75,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "नैसर्गिकः प्राणसम्बन्धः ॥ ३.४३ ॥",
+      "iast": "naisargikaḥ prāṇasambandhaḥ || 3.43 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "नैसर्गिकः",
+          "wordIast": "naisargikaḥ",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "The connection with vital breath is entirely natural.",
+      "practicalContext": "The ongoing biological breath continues naturally without obstructing transcendental awareness.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.33"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.PRANASAMACARA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.44",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 76,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "नासिकान्तर्मध्यसंयमात् किं तत्र सव्यापसव्यसौषुम्नेषु ॥ ३.४४ ॥",
+      "iast": "nāsikāntarmadhyasaṃyamāt kiṃ tatra savyāpasavyasauṣumneṣu || 3.44 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "नासिकान्तर्मध्यसंयमात्",
+          "wordIast": "nāsikāntarmadhyasaṃyamāt",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Through centering awareness in the inner space between breaths, what need is there for left, right, or central channels?",
+      "practicalContext": "When one rests directly in the inner center, external breath manipulations and channel techniques are naturally fulfilled.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.33"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.MADHYA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    },
+    {
+      "id": "SS.3.45",
+      "kind": "Verse",
+      "textId": "SS",
+      "verseNumber": 77,
+      "subDivision": "Unmeṣa 3: Āṇavopāya",
+      "devanagari": "भूयः स्यात्प्रतिमीलनम् ॥ ३.४५ ॥",
+      "iast": "bhūyaḥ syāt pratimīlanam || 3.45 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "भूयः",
+          "wordIast": "bhūyaḥ",
+          "grammaticalRole": "sutra-pada",
+          "literalMeaning": "aphoristic key"
+        }
+      ],
+      "studyGloss": "Again and again, there is the inward-and-outward blossoming of awareness.",
+      "practicalContext": "The enlightened life is a continuous, effortless dance of looking inward to pure silence and looking outward to divine play.",
+      "provenance": {
+        "source": "Kashmir Shaiva Āgama Archive (shiva_sutra.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+        "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Canonical Devanagari text based on the Kashmiri recension with Kṣemarāja's commentary."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.UNMESA",
+        "CONCEPT.NIMESA",
+        "CONCEPT.SAMAVESA"
+      ],
+      "relatedVerses": [
+        "PH.1"
+      ]
+    }
+  ]
+}

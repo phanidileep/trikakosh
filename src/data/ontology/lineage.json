@@ -1,0 +1,152 @@
+[
+  {
+    "id": "MASTER.VASUGUPTA",
+    "kind": "Master",
+    "nameIast": "Vasugupta",
+    "nameDevanagari": "वसुगुप्त",
+    "century": "late 8th – early 9th century CE",
+    "lineageRole": "Foundational Revealer of the Spanda and Śiva Sūtra traditions",
+    "biographicalNotes": "According to tradition, Vasugupta resided on Mount Mahādeva in the Harwan valley of Kashmir. Lord Śiva appeared to him in a dream, directing him to a large rock (the Śaṅkaropalā) where the Śiva Sūtras were miraculously inscribed.",
+    "coreWorks": [
+      "Śiva Sūtras (revealed)",
+      "Spanda Sūtras / Kārikās (author or teacher of Kallaṭa)"
+    ],
+    "guruOf": [
+      "MASTER.KALLATA"
+    ],
+    "studentOf": []
+  },
+  {
+    "id": "MASTER.KALLATA",
+    "kind": "Master",
+    "nameIast": "Bhaṭṭa Kallaṭa",
+    "nameDevanagari": "भट्टकल्लट",
+    "century": "mid 9th century CE (reign of King Avantivarman 855–883 CE)",
+    "lineageRole": "First Systematic Expositor of Spanda Doctrine",
+    "biographicalNotes": "Chief disciple of Vasugupta who disseminated the teachings during the flourishing golden age of King Avantivarman. Authored the Spandavṛtti and Spandasarvasva to protect the lineage from dualistic misinterpretations.",
+    "coreWorks": [
+      "Spandavṛtti",
+      "Tattvavicāra"
+    ],
+    "guruOf": [
+      "MASTER.PRADYUMNABHATTA"
+    ],
+    "studentOf": [
+      "MASTER.VASUGUPTA"
+    ]
+  },
+  {
+    "id": "MASTER.SOMANANDA",
+    "kind": "Master",
+    "nameIast": "Somānanda",
+    "nameDevanagari": "सोमानन्द",
+    "century": "early 10th century CE (~900–950 CE)",
+    "lineageRole": "Founder of the Pratyabhijñā (Recognition) School",
+    "biographicalNotes": "The philosophical titan who established the non-dual epistemology of Recognition with his masterpiece Śivadṛṣṭi ('The Vision of Śiva'). He rigorously defeated the dualist Śaiva Siddhānta, Buddhist Vijñānavāda, and Advaita Māyāvāda schools.",
+    "coreWorks": [
+      "Śivadṛṣṭi"
+    ],
+    "guruOf": [
+      "MASTER.UTPALADEVA"
+    ],
+    "studentOf": []
+  },
+  {
+    "id": "MASTER.UTPALADEVA",
+    "kind": "Master",
+    "nameIast": "Utpaladeva",
+    "nameDevanagari": "उत्पलदेव",
+    "century": "mid 10th century CE (~925–975 CE)",
+    "lineageRole": "Philosopher-Poet of Pratyabhijñā & Mystical Love",
+    "biographicalNotes": "Disciple of Somānanda. Composed the foundational philosophical treatise Īśvarapratyabhijñākārikā, giving Kashmir Shaivism its invincible dialectical armor, alongside his ecstatic devotional poems the Śivastotrāvalī.",
+    "coreWorks": [
+      "Īśvarapratyabhijñākārikā",
+      "Śivastotrāvalī",
+      "Ajadapramātṛsiddhi",
+      "Īśvarapratyabhijñāvṛtti"
+    ],
+    "guruOf": [
+      "MASTER.LAKSMANAGUPTA"
+    ],
+    "studentOf": [
+      "MASTER.SOMANANDA"
+    ]
+  },
+  {
+    "id": "MASTER.LAKSMANAGUPTA",
+    "kind": "Master",
+    "nameIast": "Lakṣmaṇagupta",
+    "nameDevanagari": "लक्ष्मणगुप्त",
+    "century": "late 10th century CE",
+    "lineageRole": "Crucial Link between Utpaladeva and Abhinavagupta",
+    "biographicalNotes": "Son and disciple of Utpaladeva in Pratyabhijñā philosophy; also deeply initiated in the Trika and Krama Tantric transmissions. Transmitted the core Pratyabhijñā doctrines directly to Abhinavagupta.",
+    "coreWorks": [
+      "Oral and lineage transmissions in Pratyabhijñā and Tantra"
+    ],
+    "guruOf": [
+      "MASTER.ABHINAVAGUPTA"
+    ],
+    "studentOf": [
+      "MASTER.UTPALADEVA"
+    ]
+  },
+  {
+    "id": "MASTER.ABHINAVAGUPTA",
+    "kind": "Master",
+    "nameIast": "Abhinavagupta",
+    "nameDevanagari": "अभिनवगुप्त",
+    "century": "c. 975 – 1025 CE",
+    "lineageRole": "The Supreme Polymath & Grand Synthesizer of Trika",
+    "biographicalNotes": "Universally revered as the incarnation of Bhairava or Śeṣa. In him, every stream of Indian philosophy, aesthetics, dramaturgy (Abhinavabhāratī), poetics (Locana), and non-dual tantra converged. He synthesized Trika, Krama, Kula, and Pratyabhijñā into the monumental Tantrāloka.",
+    "coreWorks": [
+      "Tantrāloka",
+      "Tantrasāra",
+      "Īśvarapratyabhijñāvimarśinī",
+      "Parātrīśikāvivaraṇa",
+      "Bhairavastava",
+      "Bodhapñcadaśikā"
+    ],
+    "guruOf": [
+      "MASTER.KSEMARAJA"
+    ],
+    "studentOf": [
+      "MASTER.LAKSMANAGUPTA",
+      "MASTER.SAMBHUNATHA"
+    ]
+  },
+  {
+    "id": "MASTER.KSEMARAJA",
+    "kind": "Master",
+    "nameIast": "Kṣemarāja",
+    "nameDevanagari": "क्षेमराज",
+    "century": "11th century CE (~1000–1050 CE)",
+    "lineageRole": "Master Pedagogist & Preserver of the Trika Canon",
+    "biographicalNotes": "Chief disciple of Abhinavagupta. Authored the accessible, sublime gateway text Pratyabhijñāhṛdayam ('The Heart of Recognition') to condense Abhinavagupta's vast corpus into 20 sūtras for aspirants of all capacities.",
+    "coreWorks": [
+      "Pratyabhijñāhṛdayam",
+      "Śivasūtravimarśinī",
+      "Spandanirṇaya",
+      "Spandasandoha",
+      "Netratantroddyota",
+      "Svacchandatantroddyota"
+    ],
+    "guruOf": [],
+    "studentOf": [
+      "MASTER.ABHINAVAGUPTA"
+    ]
+  },
+  {
+    "id": "MASTER.JAYARATHA",
+    "kind": "Master",
+    "nameIast": "Jayaratha",
+    "nameDevanagari": "जयरथ",
+    "century": "12th century CE (~1150–1200 CE)",
+    "lineageRole": "Definitive Commentator on Abhinavagupta's Tantrāloka",
+    "biographicalNotes": "Lived in Srinagar, Kashmir. Composed the monumental commentary Tantrālokaviveka, explaining every esoteric reference, scriptural citation, and ritual instruction in Abhinavagupta's masterwork, preserving the living oral key of Trika.",
+    "coreWorks": [
+      "Tantrālokaviveka"
+    ],
+    "guruOf": [],
+    "studentOf": []
+  }
+]

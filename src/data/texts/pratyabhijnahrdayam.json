@@ -1,0 +1,1219 @@
+{
+  "textInfo": {
+    "id": "PH",
+    "kind": "Text",
+    "titleIast": "Pratyabhijñāhṛdayam",
+    "titleDevanagari": "प्रत्यभिज्ञाहृदयम्",
+    "authorIast": "Kṣemarāja",
+    "century": "11th century CE (~1000–1050 CE)",
+    "stage": 1,
+    "description": "The definitive 20-sūtra gateway to Kashmir Shaivism. Composed by Abhinavagupta's chief disciple to provide seekers with an accessible, complete distillation of the non-dual Recognition philosophy.",
+    "verseCount": 20,
+    "provenance": {
+      "source": "GRETIL DSO Sanskrit Archive",
+      "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/ksemaraja_pratyabhijnahrdaya.md",
+      "sha256": "2a38d57c41154867f39181b11f0bf69b5dd24106368dd6b399b52095a6b4987e",
+      "verification_status": "verified_canonical"
+    }
+  },
+  "verses": [
+    {
+      "id": "PH.1",
+      "kind": "Verse",
+      "textId": "PH",
+      "verseNumber": 1,
+      "subDivision": "Pratyabhijñā Sūtras (1–20)",
+      "devanagari": "चितिः स्वतन्त्रा विश्वसिद्धिहेतुः ॥ १ ॥",
+      "iast": "citiḥ svatantrā viśvasiddhihetuḥ || 1 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "चितिः",
+          "wordIast": "citiḥ",
+          "grammaticalRole": "nom. sg. f.",
+          "literalMeaning": "Universal creative Consciousness"
+        },
+        {
+          "wordDevanagari": "स्वतन्त्रा",
+          "wordIast": "svatantrā",
+          "grammaticalRole": "nom. sg. f.",
+          "literalMeaning": "supremely autonomous / sovereignly free"
+        },
+        {
+          "wordDevanagari": "विश्व-सिद्धि-हेतुः",
+          "wordIast": "viśva-siddhi-hetuḥ",
+          "grammaticalRole": "nom. sg. m. (comp.)",
+          "literalMeaning": "the cause of the manifestation and realization of the universe"
+        }
+      ],
+      "studyGloss": "Universal Consciousness, sovereignly autonomous, is the cause of the manifestation and realization of the cosmos.",
+      "practicalContext": "The foundational declaration of Kashmir Shaivism: Consciousness is not an abstract blank witness, but an actively creative, sovereign power (Svātantrya) that brings forth reality.",
+      "provenance": {
+        "source": "GRETIL DSO Sanskrit Archive (ksemaraja_pratyabhijnahrdaya.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/ksemaraja_pratyabhijnahrdaya.md",
+        "sha256": "2a38d57c41154867f39181b11f0bf69b5dd24106368dd6b399b52095a6b4987e",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Encoded by Dott. Marino Faliero, DSO Sanskrit Archive, July 1998."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.CITI",
+        "CONCEPT.SVATANTRYA",
+        "CONCEPT.PRAKASA",
+        "CONCEPT.VIMARSA"
+      ],
+      "relatedVerses": [
+        "SS.1.1",
+        "SK.1.1",
+        "BS.1"
+      ]
+    },
+    {
+      "id": "PH.2",
+      "kind": "Verse",
+      "textId": "PH",
+      "verseNumber": 2,
+      "subDivision": "Pratyabhijñā Sūtras (1–20)",
+      "devanagari": "स्वेच्छया स्वभित्तौ विश्वमुन्मीलयति ॥ २ ॥",
+      "iast": "svecchayā svabhittau viśvam unmīlayati || 2 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "स्वेच्छया",
+          "wordIast": "sva-icchayā",
+          "grammaticalRole": "inst. sg. f.",
+          "literalMeaning": "by Her own sovereign Will"
+        },
+        {
+          "wordDevanagari": "स्वभित्तौ",
+          "wordIast": "sva-bhittau",
+          "grammaticalRole": "loc. sg. f.",
+          "literalMeaning": "upon Her own screen / canvas / backdrop"
+        },
+        {
+          "wordDevanagari": "विश्वम्",
+          "wordIast": "viśvam",
+          "grammaticalRole": "acc. sg. n.",
+          "literalMeaning": "the entire cosmos"
+        },
+        {
+          "wordDevanagari": "उन्मीलयति",
+          "wordIast": "unmīlayati",
+          "grammaticalRole": "3rd sg. pres. act.",
+          "literalMeaning": "flashes open / unfolds like a painted canvas"
+        }
+      ],
+      "studyGloss": "By Her own free will, upon the screen of Her own being, She unfolds the universe.",
+      "practicalContext": "Refutes the need for external matter (Prakṛti) or independent atoms. Just as an artist paints upon a canvas, Consciousness paints the world upon itself, remaining unchanged.",
+      "provenance": {
+        "source": "GRETIL DSO Sanskrit Archive (ksemaraja_pratyabhijnahrdaya.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/ksemaraja_pratyabhijnahrdaya.md",
+        "sha256": "2a38d57c41154867f39181b11f0bf69b5dd24106368dd6b399b52095a6b4987e",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Encoded by Dott. Marino Faliero, DSO Sanskrit Archive, July 1998."
+      },
+      "mappedTattvas": [
+        "TATTVA.02",
+        "TATTVA.03"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.ICCHA",
+        "CONCEPT.UNMESA",
+        "CONCEPT.ABHASA",
+        "CONCEPT.SVATANTRYA"
+      ],
+      "relatedVerses": [
+        "SK.1.1",
+        "SS.1.13"
+      ]
+    },
+    {
+      "id": "PH.3",
+      "kind": "Verse",
+      "textId": "PH",
+      "verseNumber": 3,
+      "subDivision": "Pratyabhijñā Sūtras (1–20)",
+      "devanagari": "तन्नानानुरूपग्राह्यग्राहकभेदात् ॥ ३ ॥",
+      "iast": "tan nānā anurūpagrāhyagrāhakabhedāt || 3 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "तत्",
+          "wordIast": "tat",
+          "grammaticalRole": "nom. sg. n.",
+          "literalMeaning": "That (manifest universe)"
+        },
+        {
+          "wordDevanagari": "नाना",
+          "wordIast": "nānā",
+          "grammaticalRole": "indecl.",
+          "literalMeaning": "manifold / diverse"
+        },
+        {
+          "wordDevanagari": "अनुरूप-ग्राह्य-ग्राहक-भेदात्",
+          "wordIast": "anurūpa-grāhya-grāhaka-bhedāt",
+          "grammaticalRole": "abl. sg. m. (comp.)",
+          "literalMeaning": "due to the differentiation of corresponding objects (grāhya) and subjects (grāhaka)"
+        }
+      ],
+      "studyGloss": "That universe becomes manifold through the differentiation of mutually corresponding subjects and objects.",
+      "practicalContext": "Explains how multiplicity arises: every level of object has a corresponding level of observer. From gods down to minerals, Consciousness divides itself into perceivers and perceptions.",
+      "provenance": {
+        "source": "GRETIL DSO Sanskrit Archive (ksemaraja_pratyabhijnahrdaya.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/ksemaraja_pratyabhijnahrdaya.md",
+        "sha256": "2a38d57c41154867f39181b11f0bf69b5dd24106368dd6b399b52095a6b4987e",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Encoded by Dott. Marino Faliero, DSO Sanskrit Archive, July 1998."
+      },
+      "mappedTattvas": [
+        "TATTVA.03",
+        "TATTVA.04",
+        "TATTVA.05"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.AHAM",
+        "CONCEPT.IDAM",
+        "CONCEPT.ABHASA"
+      ],
+      "relatedVerses": [
+        "SK.1.2",
+        "SS.1.14"
+      ]
+    },
+    {
+      "id": "PH.4",
+      "kind": "Verse",
+      "textId": "PH",
+      "verseNumber": 4,
+      "subDivision": "Pratyabhijñā Sūtras (1–20)",
+      "devanagari": "चितिसङ्कोचात्मा चेतनोऽपि सङ्कुचितविश्वमयः ॥ ४ ॥",
+      "iast": "citisaṅkocātmā cetano'pi saṅkucitaviśvamayaḥ || 4 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "चिति-सङ्कोच-आत्मा",
+          "wordIast": "citi-saṅkoca-ātmā",
+          "grammaticalRole": "nom. sg. m. (comp.)",
+          "literalMeaning": "having the nature of contracted Consciousness"
+        },
+        {
+          "wordDevanagari": "चेतनः",
+          "wordIast": "cetanaḥ",
+          "grammaticalRole": "nom. sg. m.",
+          "literalMeaning": "the individual conscious being"
+        },
+        {
+          "wordDevanagari": "अपि",
+          "wordIast": "api",
+          "grammaticalRole": "indecl.",
+          "literalMeaning": "even / also"
+        },
+        {
+          "wordDevanagari": "सङ्कुचित-विश्व-मयः",
+          "wordIast": "saṅkucita-viśva-mayaḥ",
+          "grammaticalRole": "nom. sg. m. (comp.)",
+          "literalMeaning": "composed of the universe in a contracted form"
+        }
+      ],
+      "studyGloss": "The individual sentient being, who is a contracted form of Universal Consciousness, is also in reality the entire universe in microcosm.",
+      "practicalContext": "The individual (Aṇu) is not separate from the Infinite; it is the entire cosmic ocean contracted into a single focal drop.",
+      "provenance": {
+        "source": "GRETIL DSO Sanskrit Archive (ksemaraja_pratyabhijnahrdaya.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/ksemaraja_pratyabhijnahrdaya.md",
+        "sha256": "2a38d57c41154867f39181b11f0bf69b5dd24106368dd6b399b52095a6b4987e",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Encoded by Dott. Marino Faliero, DSO Sanskrit Archive, July 1998."
+      },
+      "mappedTattvas": [
+        "TATTVA.06",
+        "TATTVA.12"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SANKOCA",
+        "CONCEPT.PASU",
+        "CONCEPT.KULA"
+      ],
+      "relatedVerses": [
+        "SS.3.30",
+        "SK.1.8"
+      ]
+    },
+    {
+      "id": "PH.5",
+      "kind": "Verse",
+      "textId": "PH",
+      "verseNumber": 5,
+      "subDivision": "Pratyabhijñā Sūtras (1–20)",
+      "devanagari": "चितिरेव चेतनपदादवरूढा चेत्यसङ्कोचिनी चित्तम् ॥ ५ ॥",
+      "iast": "citir eva cetanapadād avarūḍhā cetyasaṅkocinī cittam || 5 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "चितिः",
+          "wordIast": "citiḥ",
+          "grammaticalRole": "nom. sg. f.",
+          "literalMeaning": "Universal Consciousness"
+        },
+        {
+          "wordDevanagari": "एव",
+          "wordIast": "eva",
+          "grammaticalRole": "indecl.",
+          "literalMeaning": "indeed / alone"
+        },
+        {
+          "wordDevanagari": "चेतन-पदात्",
+          "wordIast": "cetana-padāt",
+          "grammaticalRole": "abl. sg. n.",
+          "literalMeaning": "from the state of uncontracted sentience"
+        },
+        {
+          "wordDevanagari": "अवरूढा",
+          "wordIast": "avarūḍhā",
+          "grammaticalRole": "nom. sg. f. (ppp.)",
+          "literalMeaning": "descending / stepping down"
+        },
+        {
+          "wordDevanagari": "चेत्य-सङ्कोचिनी",
+          "wordIast": "cetya-saṅkocinī",
+          "grammaticalRole": "nom. sg. f.",
+          "literalMeaning": "contracted by the objects of perception"
+        },
+        {
+          "wordDevanagari": "चित्तम्",
+          "wordIast": "cittam",
+          "grammaticalRole": "nom. sg. n.",
+          "literalMeaning": "the individual mind"
+        }
+      ],
+      "studyGloss": "Universal Consciousness itself, descending from its state of pure sentience and contracting in accordance with perceived objects, becomes the mind.",
+      "practicalContext": "Mind is not a distinct mechanical substance or enemy to be destroyed; it is God's own consciousness operating in a focused, contracted register.",
+      "provenance": {
+        "source": "GRETIL DSO Sanskrit Archive (ksemaraja_pratyabhijnahrdaya.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/ksemaraja_pratyabhijnahrdaya.md",
+        "sha256": "2a38d57c41154867f39181b11f0bf69b5dd24106368dd6b399b52095a6b4987e",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Encoded by Dott. Marino Faliero, DSO Sanskrit Archive, July 1998."
+      },
+      "mappedTattvas": [
+        "TATTVA.14",
+        "TATTVA.15",
+        "TATTVA.16"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.CITI",
+        "CONCEPT.ANTAHKARANA",
+        "CONCEPT.VIKALPA"
+      ],
+      "relatedVerses": [
+        "SS.3.1",
+        "VBT.32"
+      ]
+    },
+    {
+      "id": "PH.6",
+      "kind": "Verse",
+      "textId": "PH",
+      "verseNumber": 6,
+      "subDivision": "Pratyabhijñā Sūtras (1–20)",
+      "devanagari": "तन्मयो मायाप्रमाता ॥ ६ ॥",
+      "iast": "tanmayo māyāpramātā || 6 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "तन्मयः",
+          "wordIast": "tat-mayaḥ",
+          "grammaticalRole": "nom. sg. m.",
+          "literalMeaning": "consisting of that (mind)"
+        },
+        {
+          "wordDevanagari": "माया-प्रमाता",
+          "wordIast": "māyā-pramātā",
+          "grammaticalRole": "nom. sg. m.",
+          "literalMeaning": "the observer bound in the field of Māyā"
+        }
+      ],
+      "studyGloss": "Consisting of that mind is the subject bound by Māyā (the illusory sense of separation).",
+      "practicalContext": "The ordinary human subject identifies with its thoughts and feelings, forgetting that it is the eternal witness.",
+      "provenance": {
+        "source": "GRETIL DSO Sanskrit Archive (ksemaraja_pratyabhijnahrdaya.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/ksemaraja_pratyabhijnahrdaya.md",
+        "sha256": "2a38d57c41154867f39181b11f0bf69b5dd24106368dd6b399b52095a6b4987e",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Encoded by Dott. Marino Faliero, DSO Sanskrit Archive, July 1998."
+      },
+      "mappedTattvas": [
+        "TATTVA.06",
+        "TATTVA.12"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.MAYIYA_MALA",
+        "CONCEPT.PASU"
+      ],
+      "relatedVerses": [
+        "SS.1.2",
+        "SK.1.9"
+      ]
+    },
+    {
+      "id": "PH.7",
+      "kind": "Verse",
+      "textId": "PH",
+      "verseNumber": 7,
+      "subDivision": "Pratyabhijñā Sūtras (1–20)",
+      "devanagari": "स च द्विरूपस्त्रिमलश्चतुरावृतः पञ्चकृत्यकारी सप्तपञ्चकस्वभावः ॥ ७ ॥",
+      "iast": "sa ca dvirūpas trimalaś caturāvṛtaḥ pañcakṛtyakārī saptapañcakasvabhāvaḥ || 7 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "सः",
+          "wordIast": "saḥ",
+          "grammaticalRole": "nom. sg. m.",
+          "literalMeaning": "he (the bound soul)"
+        },
+        {
+          "wordDevanagari": "द्विरूपः",
+          "wordIast": "dvirūpaḥ",
+          "grammaticalRole": "nom. sg. m.",
+          "literalMeaning": "two-formed (divine essence and contracted appearance)"
+        },
+        {
+          "wordDevanagari": "त्रिमलः",
+          "wordIast": "trimalaḥ",
+          "grammaticalRole": "nom. sg. m.",
+          "literalMeaning": "possessing three impurities (āṇava, māyīya, kārma)"
+        },
+        {
+          "wordDevanagari": "चतुरावृतः",
+          "wordIast": "catur-āvṛtaḥ",
+          "grammaticalRole": "nom. sg. m.",
+          "literalMeaning": "covered by four sheaths"
+        },
+        {
+          "wordDevanagari": "पञ्चकृत्यकारी",
+          "wordIast": "pañcakṛtyakārī",
+          "grammaticalRole": "nom. sg. m.",
+          "literalMeaning": "performing the five cosmic acts"
+        },
+        {
+          "wordDevanagari": "सप्तपञ्चकस्वभावः",
+          "wordIast": "saptapañcakasvabhāvaḥ",
+          "grammaticalRole": "nom. sg. m.",
+          "literalMeaning": "having the nature of the thirty-five tattvas"
+        }
+      ],
+      "studyGloss": "And that bound subject is twofold in nature, covered by the three impurities, enveloped by four veils, perpetually performing the five cosmic acts, and embodying the thirty-five tattvas.",
+      "practicalContext": "A crucial taxonomic sūtra integrating the entire metaphysics of Trika into the anatomy of the human person.",
+      "provenance": {
+        "source": "GRETIL DSO Sanskrit Archive (ksemaraja_pratyabhijnahrdaya.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/ksemaraja_pratyabhijnahrdaya.md",
+        "sha256": "2a38d57c41154867f39181b11f0bf69b5dd24106368dd6b399b52095a6b4987e",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Encoded by Dott. Marino Faliero, DSO Sanskrit Archive, July 1998."
+      },
+      "mappedTattvas": [
+        "TATTVA.06",
+        "TATTVA.12",
+        "TATTVA.36"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.PANCANITYAKRITYA",
+        "CONCEPT.ANAVA_MALA",
+        "CONCEPT.MAYIYA_MALA",
+        "CONCEPT.KARMA_MALA"
+      ],
+      "relatedVerses": [
+        "SS.3.3",
+        "SK.1.8"
+      ]
+    },
+    {
+      "id": "PH.8",
+      "kind": "Verse",
+      "textId": "PH",
+      "verseNumber": 8,
+      "subDivision": "Pratyabhijñā Sūtras (1–20)",
+      "devanagari": "तद्भूमिकाः सर्वदर्शनस्थितयः ॥ ८ ॥",
+      "iast": "tadbhūmikāḥ sarvadarśanasthitayaḥ || 8 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "तद्-भूमिकाः",
+          "wordIast": "tad-bhūmikāḥ",
+          "grammaticalRole": "nom. pl. f.",
+          "literalMeaning": "stages or roles assumed by That Consciousness"
+        },
+        {
+          "wordDevanagari": "सर्व-दर्शन-स्थितयः",
+          "wordIast": "sarva-darśana-sthitayaḥ",
+          "grammaticalRole": "nom. pl. f.",
+          "literalMeaning": "the positions of all philosophical systems"
+        }
+      ],
+      "studyGloss": "The doctrines of all philosophical systems are merely stages or postures assumed by Universal Consciousness.",
+      "practicalContext": "Kashmir Shaivism's radical non-sectarian meta-philosophy: Buddhism, Cārvāka, Nyāya, Sāṅkhya, and Advaita are not 'false', but partial vantage points along the spectrum of Self-revelation.",
+      "provenance": {
+        "source": "GRETIL DSO Sanskrit Archive (ksemaraja_pratyabhijnahrdaya.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/ksemaraja_pratyabhijnahrdaya.md",
+        "sha256": "2a38d57c41154867f39181b11f0bf69b5dd24106368dd6b399b52095a6b4987e",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Encoded by Dott. Marino Faliero, DSO Sanskrit Archive, July 1998."
+      },
+      "mappedTattvas": [
+        "TATTVA.05",
+        "TATTVA.14"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.CAMATKARA",
+        "CONCEPT.PRATYABHIJNA"
+      ],
+      "relatedVerses": [
+        "SS.1.12",
+        "SK.1.11"
+      ]
+    },
+    {
+      "id": "PH.9",
+      "kind": "Verse",
+      "textId": "PH",
+      "verseNumber": 9,
+      "subDivision": "Pratyabhijñā Sūtras (1–20)",
+      "devanagari": "चिद्वत्तच्छक्तिसङ्कोचान्मलावृतः संसारी ॥ ९ ॥",
+      "iast": "cidvat tacchaktisaṅkocān malāvṛtaḥ saṃsārī || 9 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "चिद्वत्",
+          "wordIast": "cid-vat",
+          "grammaticalRole": "indecl.",
+          "literalMeaning": "though possessing the nature of pure Consciousness"
+        },
+        {
+          "wordDevanagari": "तच्-शक्ति-सङ्कोचात्",
+          "wordIast": "tat-śakti-saṅkocāt",
+          "grammaticalRole": "abl. sg. m.",
+          "literalMeaning": "due to the contraction of Its own powers"
+        },
+        {
+          "wordDevanagari": "मल-आवृतः",
+          "wordIast": "mala-āvṛtaḥ",
+          "grammaticalRole": "nom. sg. m.",
+          "literalMeaning": "veiled by impurities"
+        },
+        {
+          "wordDevanagari": "संसारी",
+          "wordIast": "saṃsārī",
+          "grammaticalRole": "nom. sg. m.",
+          "literalMeaning": "becomes the transmigrating soul"
+        }
+      ],
+      "studyGloss": "Though inherently of the nature of Consciousness, due to the contraction of Its own divine powers and veiling by the impurities, one becomes an ordinary transmigrating being.",
+      "practicalContext": "Explains why we suffer: our divine powers (Sarvakartṛtva, Sarvajñatva) are contracted into the Kañcukas, making us feel vulnerable and small.",
+      "provenance": {
+        "source": "GRETIL DSO Sanskrit Archive (ksemaraja_pratyabhijnahrdaya.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/ksemaraja_pratyabhijnahrdaya.md",
+        "sha256": "2a38d57c41154867f39181b11f0bf69b5dd24106368dd6b399b52095a6b4987e",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Encoded by Dott. Marino Faliero, DSO Sanskrit Archive, July 1998."
+      },
+      "mappedTattvas": [
+        "TATTVA.07",
+        "TATTVA.08",
+        "TATTVA.09",
+        "TATTVA.10",
+        "TATTVA.11"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.KANCUKA",
+        "CONCEPT.ANAVA_MALA",
+        "CONCEPT.PASU"
+      ],
+      "relatedVerses": [
+        "SS.1.2",
+        "SK.1.9"
+      ]
+    },
+    {
+      "id": "PH.10",
+      "kind": "Verse",
+      "textId": "PH",
+      "verseNumber": 10,
+      "subDivision": "Pratyabhijñā Sūtras (1–20)",
+      "devanagari": "तथापि तद्वत्पञ्चकृत्यानि करोति ॥ १० ॥",
+      "iast": "tathāpi tadvat pañcakṛtyāni karoti || 10 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "तथापि",
+          "wordIast": "tathā api",
+          "grammaticalRole": "indecl.",
+          "literalMeaning": "even so / nevertheless"
+        },
+        {
+          "wordDevanagari": "तद्वत्",
+          "wordIast": "tad-vat",
+          "grammaticalRole": "indecl.",
+          "literalMeaning": "like the Supreme Lord"
+        },
+        {
+          "wordDevanagari": "पञ्चकृत्यानि",
+          "wordIast": "pañca-kṛtyāni",
+          "grammaticalRole": "acc. pl. n.",
+          "literalMeaning": "the five cosmic acts"
+        },
+        {
+          "wordDevanagari": "करोति",
+          "wordIast": "karoti",
+          "grammaticalRole": "3rd sg. pres. act.",
+          "literalMeaning": "he perpetually performs"
+        }
+      ],
+      "studyGloss": "Even in this contracted state, the individual perpetually performs the five cosmic acts, exactly like the Supreme Lord.",
+      "practicalContext": "A breathtaking discovery: whenever you perceive an object, you create it (Sṛṣṭi), relish it (Sthiti), dismiss it (Saṃhāra), doubt your power (Tirodhāna), and suddenly recognize it (Anugraha).",
+      "provenance": {
+        "source": "GRETIL DSO Sanskrit Archive (ksemaraja_pratyabhijnahrdaya.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/ksemaraja_pratyabhijnahrdaya.md",
+        "sha256": "2a38d57c41154867f39181b11f0bf69b5dd24106368dd6b399b52095a6b4987e",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Encoded by Dott. Marino Faliero, DSO Sanskrit Archive, July 1998."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.05"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.PANCANITYAKRITYA",
+        "CONCEPT.SRISTI",
+        "CONCEPT.STHITI",
+        "CONCEPT.SAMHARA"
+      ],
+      "relatedVerses": [
+        "SS.1.6",
+        "SK.1.1"
+      ]
+    },
+    {
+      "id": "PH.11",
+      "kind": "Verse",
+      "textId": "PH",
+      "verseNumber": 11,
+      "subDivision": "Pratyabhijñā Sūtras (1–20)",
+      "devanagari": "आभासनरक्तिविमर्शनबीजावस्थापनविलापनतस्तानि ॥ ११ ॥",
+      "iast": "ābhāsanaraktivimarśanabījāvasthāpanavilāpanatas tāni || 11 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "आभासन-रक्ति-विमर्शन-बीजावस्थापन-विलापनतः",
+          "wordIast": "ābhāsana-rakti-vimarśana-bījāvasthāpana-vilāpanataḥ",
+          "grammaticalRole": "abl. (comp.)",
+          "literalMeaning": "through manifesting, delighting, reflecting, embedding as latent impression, and dissolving"
+        },
+        {
+          "wordDevanagari": "तानि",
+          "wordIast": "tāni",
+          "grammaticalRole": "nom. pl. n.",
+          "literalMeaning": "those five acts are executed"
+        }
+      ],
+      "studyGloss": "Those five acts occur through manifesting an appearance, delighting in it, reflecting on it, planting its latent seed impression, and dissolving it back into the heart.",
+      "practicalContext": "The psychological breakdown of perception: every sensory perception mirrors the fivefold cosmic cycle of the universe.",
+      "provenance": {
+        "source": "GRETIL DSO Sanskrit Archive (ksemaraja_pratyabhijnahrdaya.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/ksemaraja_pratyabhijnahrdaya.md",
+        "sha256": "2a38d57c41154867f39181b11f0bf69b5dd24106368dd6b399b52095a6b4987e",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Encoded by Dott. Marino Faliero, DSO Sanskrit Archive, July 1998."
+      },
+      "mappedTattvas": [
+        "TATTVA.14",
+        "TATTVA.16"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.PANCANITYAKRITYA",
+        "CONCEPT.ABHASA",
+        "CONCEPT.KRAMA"
+      ],
+      "relatedVerses": [
+        "SK.1.2",
+        "VBT.52"
+      ]
+    },
+    {
+      "id": "PH.12",
+      "kind": "Verse",
+      "textId": "PH",
+      "verseNumber": 12,
+      "subDivision": "Pratyabhijñā Sūtras (1–20)",
+      "devanagari": "तदपरिज्ञाने स्वशक्तिभिर्व्यामोहितता संसारित्वम् ॥ १२ ॥",
+      "iast": "tadaparijñāne svaśaktibhir vyāmohititā saṃsāritvam || 12 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "तद्-अपरिज्ञाने",
+          "wordIast": "tad-aparijñāne",
+          "grammaticalRole": "loc. sg. n.",
+          "literalMeaning": "in the non-recognition of that reality"
+        },
+        {
+          "wordDevanagari": "स्व-शक्तिभिः",
+          "wordIast": "sva-śaktibhiḥ",
+          "grammaticalRole": "inst. pl. f.",
+          "literalMeaning": "by one's own energies and faculties"
+        },
+        {
+          "wordDevanagari": "व्यामोहितता",
+          "wordIast": "vyāmohititā",
+          "grammaticalRole": "nom. sg. f.",
+          "literalMeaning": "the condition of being deluded and ensnared"
+        },
+        {
+          "wordDevanagari": "संसारित्वम्",
+          "wordIast": "saṃsāritvam",
+          "grammaticalRole": "nom. sg. n.",
+          "literalMeaning": "the state of worldly bondage (saṃsāra)"
+        }
+      ],
+      "studyGloss": "When this truth is not recognized, being deluded by one's own energies is what constitutes worldly bondage.",
+      "practicalContext": "We are not victims of an external demon or evil force. Our own divine cognitive and linguistic powers (Mātṛkā) enchant us because we do not recognize our authorship.",
+      "provenance": {
+        "source": "GRETIL DSO Sanskrit Archive (ksemaraja_pratyabhijnahrdaya.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/ksemaraja_pratyabhijnahrdaya.md",
+        "sha256": "2a38d57c41154867f39181b11f0bf69b5dd24106368dd6b399b52095a6b4987e",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Encoded by Dott. Marino Faliero, DSO Sanskrit Archive, July 1998."
+      },
+      "mappedTattvas": [
+        "TATTVA.06",
+        "TATTVA.12"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.MATRIKA",
+        "CONCEPT.TIRODHANA",
+        "CONCEPT.PASA"
+      ],
+      "relatedVerses": [
+        "SS.1.4",
+        "SK.1.20"
+      ]
+    },
+    {
+      "id": "PH.13",
+      "kind": "Verse",
+      "textId": "PH",
+      "verseNumber": 13,
+      "subDivision": "Pratyabhijñā Sūtras (1–20)",
+      "devanagari": "तत्परिज्ञाने चित्तमेव अन्तर्मुखीभावेन चेतनपदाध्यारोहात् चितिः ॥ १३ ॥",
+      "iast": "tatparijñāne cittam evāntarmukhībhāvena cetanapadādhyārohāc citiḥ || 13 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "तत्-परिज्ञाने",
+          "wordIast": "tat-parijñāne",
+          "grammaticalRole": "loc. sg. n.",
+          "literalMeaning": "upon the complete recognition of that"
+        },
+        {
+          "wordDevanagari": "चित्तम्",
+          "wordIast": "cittam",
+          "grammaticalRole": "nom. sg. n.",
+          "literalMeaning": "the individual mind"
+        },
+        {
+          "wordDevanagari": "एव",
+          "wordIast": "eva",
+          "grammaticalRole": "indecl.",
+          "literalMeaning": "itself / alone"
+        },
+        {
+          "wordDevanagari": "अन्तर्मुखी-भावेन",
+          "wordIast": "antarmukhī-bhāvena",
+          "grammaticalRole": "inst. sg. m.",
+          "literalMeaning": "by turning inward toward its source"
+        },
+        {
+          "wordDevanagari": "चेतन-पद-अध्यारोहात्",
+          "wordIast": "cetana-pada-adhyārohāt",
+          "grammaticalRole": "abl. sg. m.",
+          "literalMeaning": "through ascending back to the station of pure sentience"
+        },
+        {
+          "wordDevanagari": "चितिः",
+          "wordIast": "citiḥ",
+          "grammaticalRole": "nom. sg. f.",
+          "literalMeaning": "becomes Universal Consciousness"
+        }
+      ],
+      "studyGloss": "Upon recognizing this truth, the mind itself, by turning inward and ascending to the station of pure sentience, is realized to be Universal Consciousness.",
+      "practicalContext": "The central pivot of the entire text: when the outward-directed mind turns 180 degrees to look at the looker, mind dissolves back into universal Citi.",
+      "provenance": {
+        "source": "GRETIL DSO Sanskrit Archive (ksemaraja_pratyabhijnahrdaya.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/ksemaraja_pratyabhijnahrdaya.md",
+        "sha256": "2a38d57c41154867f39181b11f0bf69b5dd24106368dd6b399b52095a6b4987e",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Encoded by Dott. Marino Faliero, DSO Sanskrit Archive, July 1998."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.16"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.PRATYABHIJNA",
+        "CONCEPT.CITI",
+        "CONCEPT.SAMAVESA"
+      ],
+      "relatedVerses": [
+        "SS.2.1",
+        "VBT.24"
+      ]
+    },
+    {
+      "id": "PH.14",
+      "kind": "Verse",
+      "textId": "PH",
+      "verseNumber": 14,
+      "subDivision": "Pratyabhijñā Sūtras (1–20)",
+      "devanagari": "चितिवह्निरवरुद्धोऽपि मेयेन्धनं प्लुष्यति ॥ १४ ॥",
+      "iast": "citivahnir avaruddho'pi meyendhanaṃ pluṣyati || 14 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "चिति-वह्निः",
+          "wordIast": "citi-vahniḥ",
+          "grammaticalRole": "nom. sg. m.",
+          "literalMeaning": "the fire of Consciousness"
+        },
+        {
+          "wordDevanagari": "अवरुद्धः",
+          "wordIast": "avaruddhaḥ",
+          "grammaticalRole": "nom. sg. m. (ppp.)",
+          "literalMeaning": "though seemingly obstructed or veiled"
+        },
+        {
+          "wordDevanagari": "अपि",
+          "wordIast": "api",
+          "grammaticalRole": "indecl.",
+          "literalMeaning": "even / still"
+        },
+        {
+          "wordDevanagari": "मेय-इन्धनम्",
+          "wordIast": "meya-indhanam",
+          "grammaticalRole": "acc. sg. n.",
+          "literalMeaning": "the fuel of known objective objects"
+        },
+        {
+          "wordDevanagari": "प्लुष्यति",
+          "wordIast": "pluṣyati",
+          "grammaticalRole": "3rd sg. pres. act.",
+          "literalMeaning": "consumes / burns to ashes"
+        }
+      ],
+      "studyGloss": "The fire of Consciousness, even when seemingly restricted, burns to ashes the fuel of objective perceptions.",
+      "practicalContext": "A dynamic yogic metaphor: do not fear objects or mental turbulence. Treat them as dry fuel thrown onto the blazing fire of awareness, increasing its heat.",
+      "provenance": {
+        "source": "GRETIL DSO Sanskrit Archive (ksemaraja_pratyabhijnahrdaya.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/ksemaraja_pratyabhijnahrdaya.md",
+        "sha256": "2a38d57c41154867f39181b11f0bf69b5dd24106368dd6b399b52095a6b4987e",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Encoded by Dott. Marino Faliero, DSO Sanskrit Archive, July 1998."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.34"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SAMHARA",
+        "CONCEPT.UDYAMA",
+        "CONCEPT.CITI"
+      ],
+      "relatedVerses": [
+        "SS.1.5",
+        "VBT.52"
+      ]
+    },
+    {
+      "id": "PH.15",
+      "kind": "Verse",
+      "textId": "PH",
+      "verseNumber": 15,
+      "subDivision": "Pratyabhijñā Sūtras (1–20)",
+      "devanagari": "बललाभे विश्वमात्मसात्करोति ॥ १५ ॥",
+      "iast": "balalābhe viśvam ātmasātkaroti || 15 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "बल-लाभे",
+          "wordIast": "bala-lābhe",
+          "grammaticalRole": "loc. sg. m.",
+          "literalMeaning": "upon acquiring that energetic spiritual potency"
+        },
+        {
+          "wordDevanagari": "विश्वम्",
+          "wordIast": "viśvam",
+          "grammaticalRole": "acc. sg. n.",
+          "literalMeaning": "the entire manifest universe"
+        },
+        {
+          "wordDevanagari": "आत्मसात्-करोति",
+          "wordIast": "ātmasāt-karoti",
+          "grammaticalRole": "3rd sg. pres. act.",
+          "literalMeaning": "assimilates / makes identical with one's own Self"
+        }
+      ],
+      "studyGloss": "Upon acquiring the inherent power of Consciousness, the yogi assimilates the entire universe into the Self.",
+      "practicalContext": "Liberation is not isolation (Kaivalya) from the universe; it is total assimilation. The world is no longer alien matter; it is your own living body.",
+      "provenance": {
+        "source": "GRETIL DSO Sanskrit Archive (ksemaraja_pratyabhijnahrdaya.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/ksemaraja_pratyabhijnahrdaya.md",
+        "sha256": "2a38d57c41154867f39181b11f0bf69b5dd24106368dd6b399b52095a6b4987e",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Encoded by Dott. Marino Faliero, DSO Sanskrit Archive, July 1998."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.36"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SAMARASYA",
+        "CONCEPT.JIVANMUKTI",
+        "CONCEPT.SVATANTRYA"
+      ],
+      "relatedVerses": [
+        "SS.3.30",
+        "BS.2"
+      ]
+    },
+    {
+      "id": "PH.16",
+      "kind": "Verse",
+      "textId": "PH",
+      "verseNumber": 16,
+      "subDivision": "Pratyabhijñā Sūtras (1–20)",
+      "devanagari": "चिदैकात्म्यप्रतिपत्तिदार्ढ्यं जीवन्मुक्तिः ॥ १६ ॥",
+      "iast": "cidaikātmyapratipattidārḍhyaṃ jīvanmuktiḥ || 16 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "चिद्-ऐकात्म्य-प्रतिपत्ति-दार्ढ्यम्",
+          "wordIast": "cid-aikātmya-pratipatti-dārḍhyam",
+          "grammaticalRole": "nom. sg. n.",
+          "literalMeaning": "firm stability in the conviction of identity with pure Consciousness"
+        },
+        {
+          "wordDevanagari": "जीवन्-मुक्तिः",
+          "wordIast": "jīvan-muktiḥ",
+          "grammaticalRole": "nom. sg. f.",
+          "literalMeaning": "is liberation while embodied"
+        }
+      ],
+      "studyGloss": "Unwavering stability in the realization of one's identity with pure Consciousness is liberation while living in the body.",
+      "practicalContext": "Defines Jīvanmukti in precise terms: not the cessation of breath or thoughts, but an unshakable inner certainty that whatever arises is only Consciousness.",
+      "provenance": {
+        "source": "GRETIL DSO Sanskrit Archive (ksemaraja_pratyabhijnahrdaya.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/ksemaraja_pratyabhijnahrdaya.md",
+        "sha256": "2a38d57c41154867f39181b11f0bf69b5dd24106368dd6b399b52095a6b4987e",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Encoded by Dott. Marino Faliero, DSO Sanskrit Archive, July 1998."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.12"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.JIVANMUKTI",
+        "CONCEPT.SVARUPA",
+        "CONCEPT.NITYODITA"
+      ],
+      "relatedVerses": [
+        "SK.1.25",
+        "BS.4"
+      ]
+    },
+    {
+      "id": "PH.17",
+      "kind": "Verse",
+      "textId": "PH",
+      "verseNumber": 17,
+      "subDivision": "Pratyabhijñā Sūtras (1–20)",
+      "devanagari": "मध्यविकासाच्चिदानन्दलाभः ॥ १७ ॥",
+      "iast": "madhyavikāsāc cidānandalābhaḥ || 17 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "मध्य-विकासात्",
+          "wordIast": "madhya-vikāsāt",
+          "grammaticalRole": "abl. sg. m.",
+          "literalMeaning": "through the blossoming of the Center (the gap / central channel)"
+        },
+        {
+          "wordDevanagari": "चिद्-आनन्द-लाभः",
+          "wordIast": "cid-ānanda-lābhaḥ",
+          "grammaticalRole": "nom. sg. m.",
+          "literalMeaning": "the attainment of the unconditioned bliss of Consciousness"
+        }
+      ],
+      "studyGloss": "Through the opening and blossoming of the Center, the bliss of pure Consciousness is attained.",
+      "practicalContext": "The central practical instruction: by holding attention in the gap (between breaths, thoughts, desires), the central channel (Suṣumnā / Madhya) opens.",
+      "provenance": {
+        "source": "GRETIL DSO Sanskrit Archive (ksemaraja_pratyabhijnahrdaya.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/ksemaraja_pratyabhijnahrdaya.md",
+        "sha256": "2a38d57c41154867f39181b11f0bf69b5dd24106368dd6b399b52095a6b4987e",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Encoded by Dott. Marino Faliero, DSO Sanskrit Archive, July 1998."
+      },
+      "mappedTattvas": [
+        "TATTVA.02",
+        "TATTVA.33"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA",
+        "UPAYA.SAKTA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.MADHYA",
+        "CONCEPT.ANANDA",
+        "CONCEPT.VIKASA"
+      ],
+      "relatedVerses": [
+        "VBT.24",
+        "VBT.25",
+        "SS.3.22"
+      ]
+    },
+    {
+      "id": "PH.18",
+      "kind": "Verse",
+      "textId": "PH",
+      "verseNumber": 18,
+      "subDivision": "Pratyabhijñā Sūtras (1–20)",
+      "devanagari": "विकल्पक्षयसङ्कोचविकासवाहच्छेदद्यन्तकोटिनिभालनादय इहोपायाः ॥ १८ ॥",
+      "iast": "vikalpakṣayasaṅkocavikāsavāhacchedādyantakoṭinibhālanādaya ihopāyāḥ || 18 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "विकल्प-क्षय-सङ्कोच-विकास-वाह-च्छेद-आद्यन्त-कोटि-निभालन-आदयः",
+          "wordIast": "vikalpa-kṣaya-saṅkoca-vikāsa-vāha-ccheda-ādy-anta-koṭi-nibhālana-ādayaḥ",
+          "grammaticalRole": "nom. pl. m.",
+          "literalMeaning": "dissolution of thought constructs, contraction and expansion of energy, cutting the flow of breath, gazing into the initial and final limits, and others"
+        },
+        {
+          "wordDevanagari": "इह",
+          "wordIast": "iha",
+          "grammaticalRole": "indecl.",
+          "literalMeaning": "here in this tradition"
+        },
+        {
+          "wordDevanagari": "उपायाः",
+          "wordIast": "upāyāḥ",
+          "grammaticalRole": "nom. pl. m.",
+          "literalMeaning": "are the practical methods (upāyas)"
+        }
+      ],
+      "studyGloss": "Here, the practical methods include the dissolution of thought constructs, contemplative contraction and expansion, severing the flow of breath, and attending to the initial and terminal boundaries of experience.",
+      "practicalContext": "Directly summarizes the practical toolbox of the Vijñāna Bhairava Tantra, offering multiple empirical gateways suited to various temperaments.",
+      "provenance": {
+        "source": "GRETIL DSO Sanskrit Archive (ksemaraja_pratyabhijnahrdaya.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/ksemaraja_pratyabhijnahrdaya.md",
+        "sha256": "2a38d57c41154867f39181b11f0bf69b5dd24106368dd6b399b52095a6b4987e",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Encoded by Dott. Marino Faliero, DSO Sanskrit Archive, July 1998."
+      },
+      "mappedTattvas": [
+        "TATTVA.16",
+        "TATTVA.33"
+      ],
+      "usesUpayas": [
+        "UPAYA.SAMBHAVA",
+        "UPAYA.SAKTA",
+        "UPAYA.ANAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.VIKALPA",
+        "CONCEPT.MADHYA",
+        "CONCEPT.SADHANA"
+      ],
+      "relatedVerses": [
+        "VBT.24",
+        "VBT.32",
+        "VBT.61"
+      ]
+    },
+    {
+      "id": "PH.19",
+      "kind": "Verse",
+      "textId": "PH",
+      "verseNumber": 19,
+      "subDivision": "Pratyabhijñā Sūtras (1–20)",
+      "devanagari": "समाधिसंस्कारवति व्युत्थानेऽपि विमर्शानुवृत्त्या चिदैक्यामर्शान् नित्योदितसमाधिलाभः ॥ १९ ॥",
+      "iast": "samādhisaṃskāravati vyutthāne'pi vimarśānuvṛttyā cidaikyāmarśān nityoditasamādhilābhaḥ || 19 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "समाधि-संस्कारवति",
+          "wordIast": "samādhi-saṃskāravati",
+          "grammaticalRole": "loc. sg. n.",
+          "literalMeaning": "infused with the impressions of meditative absorption"
+        },
+        {
+          "wordDevanagari": "व्युत्थाने",
+          "wordIast": "vyutthāne",
+          "grammaticalRole": "loc. sg. n.",
+          "literalMeaning": "even in active worldly engagement"
+        },
+        {
+          "wordDevanagari": "अपि",
+          "wordIast": "api",
+          "grammaticalRole": "indecl.",
+          "literalMeaning": "even"
+        },
+        {
+          "wordDevanagari": "विमर्श-अनुवृत्त्या",
+          "wordIast": "vimarśa-anuvṛttyā",
+          "grammaticalRole": "inst. sg. f.",
+          "literalMeaning": "through the unbroken continuation of self-reflective awareness"
+        },
+        {
+          "wordDevanagari": "चिद्-ऐक्य-आकर्षात्",
+          "wordIast": "cid-aikya-āmarśāt",
+          "grammaticalRole": "abl. sg. m.",
+          "literalMeaning": "from touching identity with pure Consciousness"
+        },
+        {
+          "wordDevanagari": "नित्योदित-समाधि-लाभः",
+          "wordIast": "nityodita-samādhi-lābhaḥ",
+          "grammaticalRole": "nom. sg. m.",
+          "literalMeaning": "there is attainment of ever-arisen, unbroken meditative communion"
+        }
+      ],
+      "studyGloss": "Even in active worldly engagement, through the unbroken persistence of reflective self-awareness infused with meditative traces, one attains ever-arisen, unbroken samādhi.",
+      "practicalContext": "The highest goal of Kashmir Shaivism: Nityodita Samādhi. You do not need to sit in a dark cave with closed eyes; washing dishes and walking in the street are samādhi.",
+      "provenance": {
+        "source": "GRETIL DSO Sanskrit Archive (ksemaraja_pratyabhijnahrdaya.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/ksemaraja_pratyabhijnahrdaya.md",
+        "sha256": "2a38d57c41154867f39181b11f0bf69b5dd24106368dd6b399b52095a6b4987e",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Encoded by Dott. Marino Faliero, DSO Sanskrit Archive, July 1998."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANUPAYA",
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.NITYODITA",
+        "CONCEPT.VIMARSA",
+        "CONCEPT.SAMAVESA"
+      ],
+      "relatedVerses": [
+        "SK.1.25",
+        "BS.6"
+      ]
+    },
+    {
+      "id": "PH.20",
+      "kind": "Verse",
+      "textId": "PH",
+      "verseNumber": 20,
+      "subDivision": "Pratyabhijñā Sūtras (1–20)",
+      "devanagari": "तदा प्रकाशानन्दसारमहामन्त्रवीर्यात्मकपूर्णाहन्तावेशात् सदा सर्वसर्गसंहारक-परमेश्वरतालाभः भवतीति शिवम् ॥ २० ॥",
+      "iast": "tadā prakāśānandasāramahāmantravīryātmakapūrṇāhantāveśāt sadā sarvasargasaṃhāraka-parameśvaratālābhaḥ bhavatīti śivam || 20 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "तदा",
+          "wordIast": "tadā",
+          "grammaticalRole": "indecl.",
+          "literalMeaning": "then / at that culmination"
+        },
+        {
+          "wordDevanagari": "प्रकाश-आनन्द-सार-महामन्त्र-वीर्य-आत्मक-पूर्ण-अहन्ता-आवेशात्",
+          "wordIast": "prakāśa-ānanda-sāra-mahāmantra-vīrya-ātmaka-pūrṇa-ahantā-āveśāt",
+          "grammaticalRole": "abl. sg. m.",
+          "literalMeaning": "through entering the supreme fullness of I-Consciousness, the potency of the Great Mantra whose essence is Light and Bliss"
+        },
+        {
+          "wordDevanagari": "सदा",
+          "wordIast": "sadā",
+          "grammaticalRole": "indecl.",
+          "literalMeaning": "perpetually"
+        },
+        {
+          "wordDevanagari": "सर्व-सर्ग-संहारक-परमेश्वरता-लाभः",
+          "wordIast": "sarva-sarga-saṃhāraka-parameśvaratā-lābhaḥ",
+          "grammaticalRole": "nom. sg. m.",
+          "literalMeaning": "the attainment of the state of the Supreme Lord who creates and dissolves all worlds"
+        },
+        {
+          "wordDevanagari": "भवति",
+          "wordIast": "bhavati",
+          "grammaticalRole": "3rd sg. pres. act.",
+          "literalMeaning": "comes to pass"
+        },
+        {
+          "wordDevanagari": "इति शिवम्",
+          "wordIast": "iti śivam",
+          "grammaticalRole": "benediction",
+          "literalMeaning": "all is Auspiciousness / all is Śiva"
+        }
+      ],
+      "studyGloss": "Then, through immersion into the supreme fullness of I-Consciousness—the living potency of the Great Mantra whose very essence is Light and Bliss—one attains the perpetual state of the Supreme Lord who creates and reabsorbs all existence. All is Śiva.",
+      "practicalContext": "The grand finale: the seeker discovers that their own intimate feeling of 'I am' (Pūrṇāhantā) is the heart of God.",
+      "provenance": {
+        "source": "GRETIL DSO Sanskrit Archive (ksemaraja_pratyabhijnahrdaya.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/ksemaraja_pratyabhijnahrdaya.md",
+        "sha256": "2a38d57c41154867f39181b11f0bf69b5dd24106368dd6b399b52095a6b4987e",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Encoded by Dott. Marino Faliero, DSO Sanskrit Archive, July 1998."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANUPAYA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.AHAM",
+        "CONCEPT.PARAMASIVA",
+        "CONCEPT.CAKRESVARA"
+      ],
+      "relatedVerses": [
+        "SS.1.22",
+        "BS.1",
+        "BS.10"
+      ]
+    }
+  ]
+}

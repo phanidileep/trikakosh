@@ -1,0 +1,27 @@
+{
+  "PH": {
+    "url": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/ksemaraja_pratyabhijnahrdaya.md",
+    "sha256": "2a38d57c41154867f39181b11f0bf69b5dd24106368dd6b399b52095a6b4987e",
+    "bytes": 89279
+  },
+  "SS": {
+    "url": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/shiva_sutra.md",
+    "sha256": "3724e0625e6cc3cf28c15e6c98c375fc52878fc93b0bce89619f075994715b31",
+    "bytes": 6060
+  },
+  "SK": {
+    "url": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/vasugupta_or_kallata_bhatta_spandakrika.md",
+    "sha256": "b13db8c22abcd07865e9d6ed9e2e1ee208478e2fe01d0732bf2ccdf1c34b23b9",
+    "bytes": 234651
+  },
+  "VBT": {
+    "url": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/AgamAH/shaivam/vigyana_bhairava.md",
+    "sha256": "9bfff9311323f674efd3541fb0d4ba232c7c44bee1c0901f1ae73c936229ccc7",
+    "bytes": 39555
+  },
+  "BS": {
+    "url": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/abhinavagupta_bhairavastava.md",
+    "sha256": "2c35678292a7da932cae9dc1e7605c5ec593379d2ab6605ee6ea144d0171f992",
+    "bytes": 5056
+  }
+}

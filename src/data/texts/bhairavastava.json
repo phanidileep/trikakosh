@@ -1,0 +1,494 @@
+{
+  "textInfo": {
+    "id": "BS",
+    "kind": "Text",
+    "titleIast": "Bhairava Stava",
+    "titleDevanagari": "भैरवस्तवः",
+    "authorIast": "Abhinavagupta",
+    "century": "late 10th – early 11th century CE (~1000 CE)",
+    "stage": 5,
+    "description": "Abhinavagupta's ecstatic nine-stanza devotional anchor. Demonstrates how radical non-dual philosophy transforms into an all-consuming devotional fire where death, fear, and past karma are joyfully surrendered into Bhairava.",
+    "verseCount": 10,
+    "provenance": {
+      "source": "GRETIL DSO Sanskrit Archive",
+      "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/abhinavagupta_bhairavastava.md",
+      "sha256": "2c35678292a7da932cae9dc1e7605c5ec593379d2ab6605ee6ea144d0171f992",
+      "verification_status": "verified_canonical"
+    }
+  },
+  "verses": [
+    {
+      "id": "BS.1",
+      "kind": "Verse",
+      "textId": "BS",
+      "verseNumber": 1,
+      "subDivision": "Bhairavastotram Stanzas",
+      "devanagari": "व्याप्तचराचरभावविशेषं चिन्मयमेकसन्ततभावम् ।\nभैरवनाथमनाथशरण्यं त्वन्मयचित्ततया हृदि वन्दे ॥ १ ॥",
+      "iast": "vyāptacarācarabhāvaviśeṣaṃ cinmayamekasantatabhāvam |\nbhairavanāthamanāthaśaraṇyaṃ tvanmayacittatayā hṛdi vande || 1 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "व्याप्तचराचरभावविशेषं",
+          "wordIast": "व्याप्तचराचरभावविशेषं",
+          "grammaticalRole": "verse-pada",
+          "literalMeaning": "hymnic reflection"
+        },
+        {
+          "wordDevanagari": "भैरवनाथमनाथशरण्यं",
+          "wordIast": "भैरवनाथमनाथशरण्यं",
+          "grammaticalRole": "verse-pada",
+          "literalMeaning": "hymnic reflection"
+        }
+      ],
+      "studyGloss": "Pervading all moving and unmoving particular states of existence, pure Consciousness itself, undivided and continuous, Lord Bhairava, the sole shelter of the shelterless—I venerate You in my Heart, my mind dissolved in union with You.",
+      "practicalContext": "Abhinavagupta opens with absolute non-dual devotion: venerating Bhairava not as an external idol, but in the Heart through a mind that has realized identity with Him.",
+      "provenance": {
+        "source": "GRETIL DSO Sanskrit Archive (abhinavagupta_bhairavastava.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/abhinavagupta_bhairavastava.md",
+        "sha256": "2c35678292a7da932cae9dc1e7605c5ec593379d2ab6605ee6ea144d0171f992",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Encoded by Dott. Marino Faliero, DSO Sanskrit Archive, July 1998."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA",
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.BHAIRAVA",
+        "CONCEPT.HRIDAYA",
+        "CONCEPT.PRAKASA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.5"
+      ]
+    },
+    {
+      "id": "BS.2",
+      "kind": "Verse",
+      "textId": "BS",
+      "verseNumber": 2,
+      "subDivision": "Bhairavastotram Stanzas",
+      "devanagari": "त्वन्मयमेतदशेषमिदानीं भाति मम त्वदनुग्रहशक्त्या ।\nत्वं च महेश सदैव ममात्मा स्वात्ममयं मम तेन समस्तम् ॥ २ ॥",
+      "iast": "tvanmayametadaśeṣamidānīṃ bhāti mama tvadanugrahaśaktyā |\ntvaṃ ca maheśa sadaiva mamātmā svātmamayaṃ mama tena samastam || 2 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "त्वन्मयमेतदशेषमिदानीं",
+          "wordIast": "त्वन्मयमेतदशेषमिदानीं",
+          "grammaticalRole": "verse-pada",
+          "literalMeaning": "hymnic reflection"
+        },
+        {
+          "wordDevanagari": "त्वं",
+          "wordIast": "त्वं",
+          "grammaticalRole": "verse-pada",
+          "literalMeaning": "hymnic reflection"
+        }
+      ],
+      "studyGloss": "Through the power of Your grace, this entire universe now shines before me as Your very being. And You, O Great Lord, are eternally my own innermost Self; therefore, everything in existence is of the nature of my own Self.",
+      "practicalContext": "The experiential proof of non-dual realization: when God is recognized as one's own Self, the entire universe is cherished as one's own body.",
+      "provenance": {
+        "source": "GRETIL DSO Sanskrit Archive (abhinavagupta_bhairavastava.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/abhinavagupta_bhairavastava.md",
+        "sha256": "2c35678292a7da932cae9dc1e7605c5ec593379d2ab6605ee6ea144d0171f992",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Encoded by Dott. Marino Faliero, DSO Sanskrit Archive, July 1998."
+      },
+      "mappedTattvas": [
+        "TATTVA.01",
+        "TATTVA.36"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA",
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.ANUGRAHA",
+        "CONCEPT.MAHESA",
+        "CONCEPT.AHAM"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.5"
+      ]
+    },
+    {
+      "id": "BS.3",
+      "kind": "Verse",
+      "textId": "BS",
+      "verseNumber": 3,
+      "subDivision": "Bhairavastotram Stanzas",
+      "devanagari": "स्वात्मनि विश्वगते त्वयि नाथे तिष्ठति नित्यमनन्यमयेऽपि ।\nसत्स्वपि दुर्धरदुःखविमोहत्रासविधायिषु कर्मगणेषु ॥ ३ ॥",
+      "iast": "svātmani viśvagate tvayi nāthe tiṣṭhati nityamananyamaye'pi |\nsatsvapi durdharaduḥkhavimohatrāsavidhāyiṣu karmagaṇeṣu || 3 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "स्वात्मनि",
+          "wordIast": "स्वात्मनि",
+          "grammaticalRole": "verse-pada",
+          "literalMeaning": "hymnic reflection"
+        },
+        {
+          "wordDevanagari": "सत्स्वपि",
+          "wordIast": "सत्स्वपि",
+          "grammaticalRole": "verse-pada",
+          "literalMeaning": "hymnic reflection"
+        }
+      ],
+      "studyGloss": "When You, the sovereign Lord, eternally abide in my own Self as all-pervading and inseparable, even though masses of difficult karmas cause unbearable grief, delusion, and terror...",
+      "practicalContext": "Addresses the reality of suffering: karmic storms may rage, but they cannot dislodge the yogi who rests in Bhairava.",
+      "provenance": {
+        "source": "GRETIL DSO Sanskrit Archive (abhinavagupta_bhairavastava.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/abhinavagupta_bhairavastava.md",
+        "sha256": "2c35678292a7da932cae9dc1e7605c5ec593379d2ab6605ee6ea144d0171f992",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Encoded by Dott. Marino Faliero, DSO Sanskrit Archive, July 1998."
+      },
+      "mappedTattvas": [
+        "TATTVA.12"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA",
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.KARMA_MALA",
+        "CONCEPT.PATI"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.5"
+      ]
+    },
+    {
+      "id": "BS.4",
+      "kind": "Verse",
+      "textId": "BS",
+      "verseNumber": 4,
+      "subDivision": "Bhairavastotram Stanzas",
+      "devanagari": "शङ्करसेवनचिन्तनधीरो भीषणभैरवशक्तिमयोऽस्मि ।\nभीतिहरं तव पादयुगं तत्सेवितुमद्य दृढोऽस्मि प्रवृत्तः ॥ ४ ॥",
+      "iast": "śaṅkarasevanacintanadhīro bhīṣaṇabhairavaśaktimayo'smi |\nbhītiharaṃ tava pādayugaṃ tatsevitumadya dṛḍho'smi pravṛttaḥ || 4 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "शङ्करसेवनचिन्तनधीरो",
+          "wordIast": "शङ्करसेवनचिन्तनधीरो",
+          "grammaticalRole": "verse-pada",
+          "literalMeaning": "hymnic reflection"
+        },
+        {
+          "wordDevanagari": "भीतिहरं",
+          "wordIast": "भीतिहरं",
+          "grammaticalRole": "verse-pada",
+          "literalMeaning": "hymnic reflection"
+        }
+      ],
+      "studyGloss": "Steadfast through contemplation and service of Śaṅkara, I have become embodied with the formidable power of Bhairava. I am resolved to take refuge in Your twin feet, which dissolve all fear.",
+      "practicalContext": "The non-dual warrior spirit: fear dissolves not by turning away, but by becoming one with the fearless power of Bhairava.",
+      "provenance": {
+        "source": "GRETIL DSO Sanskrit Archive (abhinavagupta_bhairavastava.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/abhinavagupta_bhairavastava.md",
+        "sha256": "2c35678292a7da932cae9dc1e7605c5ec593379d2ab6605ee6ea144d0171f992",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Encoded by Dott. Marino Faliero, DSO Sanskrit Archive, July 1998."
+      },
+      "mappedTattvas": [
+        "TATTVA.02"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA",
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.BHAIRAVA",
+        "CONCEPT.JIVANMUKTI"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.5"
+      ]
+    },
+    {
+      "id": "BS.5",
+      "kind": "Verse",
+      "textId": "BS",
+      "verseNumber": 5,
+      "subDivision": "Bhairavastotram Stanzas",
+      "devanagari": "मृत्युयमान्तककर्मपिशाचैर्नाथ नमोऽस्तु न जातु बिभेमि ।\nत्वत्परमामृतवृष्टिसुपूर्णे त्वय्यहमात्मनि निर्वृतिमेमि ॥ ५ ॥",
+      "iast": "mṛtyuyamāntakakarmapiśācairnātha namo'stu na jātu bibhemi |\ntvatparamāmṛtavṛṣṭisupūrṇe tvayyahamātmani nirvṛtimemi || 5 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "मृत्युयमान्तककर्मपिशाचैर्नाथ",
+          "wordIast": "मृत्युयमान्तककर्मपिशाचैर्नाथ",
+          "grammaticalRole": "verse-pada",
+          "literalMeaning": "hymnic reflection"
+        },
+        {
+          "wordDevanagari": "त्वत्परमामृतवृष्टिसुपूर्णे",
+          "wordIast": "त्वत्परमामृतवृष्टिसुपूर्णे",
+          "grammaticalRole": "verse-pada",
+          "literalMeaning": "hymnic reflection"
+        }
+      ],
+      "studyGloss": "Salutations to You, O Lord! I no longer have any fear of death, Yama the Lord of Justice, or the ghosts of past karma. Filled to overflowing with the shower of Your supreme nectar, I rest in absolute peace within You, my own Self.",
+      "practicalContext": "The utter annihilation of existential fear and death-anxiety through immersion in the supreme nectar of consciousness.",
+      "provenance": {
+        "source": "GRETIL DSO Sanskrit Archive (abhinavagupta_bhairavastava.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/abhinavagupta_bhairavastava.md",
+        "sha256": "2c35678292a7da932cae9dc1e7605c5ec593379d2ab6605ee6ea144d0171f992",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Encoded by Dott. Marino Faliero, DSO Sanskrit Archive, July 1998."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA",
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.ANANDA",
+        "CONCEPT.SVARUPA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.5"
+      ]
+    },
+    {
+      "id": "BS.6",
+      "kind": "Verse",
+      "textId": "BS",
+      "verseNumber": 6,
+      "subDivision": "Bhairavastotram Stanzas",
+      "devanagari": "भावपरामृतनिर्भरपूर्णे त्वय्यहमात्मनि निर्वृतिमेमि ।\nयत्किञ्चिद्भवतु भवेन्मम नाथ त्वत्पदभक्तिरखण्डितरूपा ॥ ६ ॥",
+      "iast": "bhāvaparamṛtanirbharapūrṇe tvayyahamātmani nirvṛtimemi |\nyatkiñcidbhavatu bhavenmama nātha tvatpadabhaktirakhaṇḍitarūpā || 6 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "भावपरामृतनिर्भरपूर्णे",
+          "wordIast": "भावपरामृतनिर्भरपूर्णे",
+          "grammaticalRole": "verse-pada",
+          "literalMeaning": "hymnic reflection"
+        },
+        {
+          "wordDevanagari": "यत्किञ्चिद्भवतु",
+          "wordIast": "यत्किञ्चिद्भवतु",
+          "grammaticalRole": "verse-pada",
+          "literalMeaning": "hymnic reflection"
+        }
+      ],
+      "studyGloss": "Resting peacefully in You, my Self, overflowing with the supreme nectar of pure existence, whatever may occur in this worldly life, O Lord, let my devotion to Your feet remain unbroken and complete.",
+      "practicalContext": "Unbroken devotion in the midst of worldly vicissitudes: whatever life brings, it is welcomed as an expression of divine ecstasy.",
+      "provenance": {
+        "source": "GRETIL DSO Sanskrit Archive (abhinavagupta_bhairavastava.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/abhinavagupta_bhairavastava.md",
+        "sha256": "2c35678292a7da932cae9dc1e7605c5ec593379d2ab6605ee6ea144d0171f992",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Encoded by Dott. Marino Faliero, DSO Sanskrit Archive, July 1998."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA",
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SAMAVESA",
+        "CONCEPT.SAHAJA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.5"
+      ]
+    },
+    {
+      "id": "BS.7",
+      "kind": "Verse",
+      "textId": "BS",
+      "verseNumber": 7,
+      "subDivision": "Bhairavastotram Stanzas",
+      "devanagari": "यत्किञ्चिद्भवतु भवेन्मम नाथ त्वत्पदभक्तिरखण्डितरूपा ।\nनाथ तदैव मम त्वदभेदस्तोत्रपरामृतवृष्टिरुदेति ॥ ७ ॥",
+      "iast": "yatkiñcidbhavatu bhavenmama nātha tvatpadabhaktirakhaṇḍitarūpā |\nnātha tadaiva mama tvadabhedastotraparāmṛtavṛṣṭirudeti || 7 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "यत्किञ्चिद्भवतु",
+          "wordIast": "यत्किञ्चिद्भवतु",
+          "grammaticalRole": "verse-pada",
+          "literalMeaning": "hymnic reflection"
+        },
+        {
+          "wordDevanagari": "नाथ",
+          "wordIast": "नाथ",
+          "grammaticalRole": "verse-pada",
+          "literalMeaning": "hymnic reflection"
+        }
+      ],
+      "studyGloss": "O Lord, then alone does the supreme nectar-shower of this hymn of non-difference with You arise spontaneously in my heart.",
+      "practicalContext": "True praise (stotra) in Kashmir Shaivism is not flattering an external king; it is celebrating the blissful realization of non-difference (abheda).",
+      "provenance": {
+        "source": "GRETIL DSO Sanskrit Archive (abhinavagupta_bhairavastava.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/abhinavagupta_bhairavastava.md",
+        "sha256": "2c35678292a7da932cae9dc1e7605c5ec593379d2ab6605ee6ea144d0171f992",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Encoded by Dott. Marino Faliero, DSO Sanskrit Archive, July 1998."
+      },
+      "mappedTattvas": [
+        "TATTVA.05"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA",
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.SAMARASYA",
+        "CONCEPT.ANAVOPAYA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.5"
+      ]
+    },
+    {
+      "id": "BS.8",
+      "kind": "Verse",
+      "textId": "BS",
+      "verseNumber": 8,
+      "subDivision": "Bhairavastotram Stanzas",
+      "devanagari": "तावकशास्त्रपरामृतचिन्ता स्यन्दति चेतसि निर्वृतिधाराम् ।\nयेन विभुर्भवरुक्परितापं संहरते झटिति प्रथितश्रीः ॥ ८ ॥",
+      "iast": "tāvakaśāstraparāmṛtacintā syandati cetasi nirvṛtidhārām |\nyena vibhurbhavarukparitāpaṃ saṃharate jhaṭiti prathitaśrīḥ || 8 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "तावकशास्त्रपरामृतचिन्ता",
+          "wordIast": "तावकशास्त्रपरामृतचिन्ता",
+          "grammaticalRole": "verse-pada",
+          "literalMeaning": "hymnic reflection"
+        },
+        {
+          "wordDevanagari": "येन",
+          "wordIast": "येन",
+          "grammaticalRole": "verse-pada",
+          "literalMeaning": "hymnic reflection"
+        }
+      ],
+      "studyGloss": "Contemplation of the supreme nectar of Your sacred teachings pours a river of tranquil bliss into my mind, by which the all-pervading, glorious Lord instantly dissolves the feverish torment of worldly illness.",
+      "practicalContext": "Philosophical study (śāstra-cintā) as direct medicine: immersing in non-dual philosophy cools the fever of mental agitation.",
+      "provenance": {
+        "source": "GRETIL DSO Sanskrit Archive (abhinavagupta_bhairavastava.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/abhinavagupta_bhairavastava.md",
+        "sha256": "2c35678292a7da932cae9dc1e7605c5ec593379d2ab6605ee6ea144d0171f992",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Encoded by Dott. Marino Faliero, DSO Sanskrit Archive, July 1998."
+      },
+      "mappedTattvas": [
+        "TATTVA.08"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA",
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.TANTRA",
+        "CONCEPT.SAKTOPAYA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.5"
+      ]
+    },
+    {
+      "id": "BS.9",
+      "kind": "Verse",
+      "textId": "BS",
+      "verseNumber": 9,
+      "subDivision": "Bhairavastotram Stanzas",
+      "devanagari": "त्वां प्रियमप्य सुदर्शनमेकं दुर्लभमन्यजनैः समयज्ञम् ।\nयेन विभुर्भवमरुसन्तापं शमयति जनस्य झटिति दयालुः ॥ ९ ॥",
+      "iast": "tvāṃ priyamapya sudarśanamekaṃ durlabhamanyajanaiḥ samayajñam |\nyena vibhurbhavamarusantāpaṃ śamayati janasya jhaṭiti dayāluḥ || 9 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "त्वां",
+          "wordIast": "त्वां",
+          "grammaticalRole": "verse-pada",
+          "literalMeaning": "hymnic reflection"
+        },
+        {
+          "wordDevanagari": "येन",
+          "wordIast": "येन",
+          "grammaticalRole": "verse-pada",
+          "literalMeaning": "hymnic reflection"
+        }
+      ],
+      "studyGloss": "Having attained You, the one beloved, radiant and clear to direct sight, hard to reach by ordinary people, the compassionate Lord who knows the secret timing quenches the burning desert-heat of transmigratory existence for all seekers.",
+      "practicalContext": "The Guru and Lord as the secret wellspring in the desert of saṃsāra, quenching existential thirst.",
+      "provenance": {
+        "source": "GRETIL DSO Sanskrit Archive (abhinavagupta_bhairavastava.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/abhinavagupta_bhairavastava.md",
+        "sha256": "2c35678292a7da932cae9dc1e7605c5ec593379d2ab6605ee6ea144d0171f992",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Encoded by Dott. Marino Faliero, DSO Sanskrit Archive, July 1998."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA",
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.GURU",
+        "CONCEPT.ANUPAYA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.5"
+      ]
+    },
+    {
+      "id": "BS.10",
+      "kind": "Verse",
+      "textId": "BS",
+      "verseNumber": 10,
+      "subDivision": "Bhairavastotram Stanzas",
+      "devanagari": "समाप्तमिदं स्तवमभिनवाख्यं पद्यनवकम् ।\nयेन विभुर्भवमरुसन्तापं शमयति जनस्य झटिति दयालुः इति शिवम् ॥ १० ॥",
+      "iast": "samāptamidaṃ stavamabhinavākhyaṃ padyanavakam |\nyena vibhurbhavamarusantāpaṃ śamayati janasya jhaṭiti dayāluḥ iti śivam || 10 ||",
+      "padaccheda": [
+        {
+          "wordDevanagari": "समाप्तमिदं",
+          "wordIast": "समाप्तमिदं",
+          "grammaticalRole": "verse-pada",
+          "literalMeaning": "hymnic reflection"
+        },
+        {
+          "wordDevanagari": "येन",
+          "wordIast": "येन",
+          "grammaticalRole": "verse-pada",
+          "literalMeaning": "hymnic reflection"
+        }
+      ],
+      "studyGloss": "Thus concludes this nine-stanza hymn named Abhinava, through which the compassionate Lord swiftly quenches the burning fever of suffering. All is auspiciousness; all is Śiva.",
+      "practicalContext": "Abhinavagupta seals the hymn with his own signature ('abhinava') signifying both his lineage name and ever-new awareness.",
+      "provenance": {
+        "source": "GRETIL DSO Sanskrit Archive (abhinavagupta_bhairavastava.md)",
+        "sourceUrl": "https://raw.githubusercontent.com/sanskrit/raw_etexts/master/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/saiva/abhinavagupta_bhairavastava.md",
+        "sha256": "2c35678292a7da932cae9dc1e7605c5ec593379d2ab6605ee6ea144d0171f992",
+        "verification_status": "verified_canonical",
+        "editionNotes": "Encoded by Dott. Marino Faliero, DSO Sanskrit Archive, July 1998."
+      },
+      "mappedTattvas": [
+        "TATTVA.01"
+      ],
+      "usesUpayas": [
+        "UPAYA.ANAVA",
+        "UPAYA.SAMBHAVA"
+      ],
+      "explainsConcepts": [
+        "CONCEPT.BHAIRAVA",
+        "CONCEPT.SVARUPA"
+      ],
+      "relatedVerses": [
+        "PH.1",
+        "SS.1.5"
+      ]
+    }
+  ]
+}

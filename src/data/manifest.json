@@ -1,0 +1,46 @@
+{
+  "version": "1.0.0",
+  "title": "TrikaKosh Canonical Corpus & Ontology Manifest",
+  "lastUpdated": "2026-11-22",
+  "texts": [
+    {
+      "id": "PH",
+      "file": "texts/pratyabhijnahrdayam.json",
+      "verseCount": 20
+    },
+    {
+      "id": "SS",
+      "file": "texts/shivasutras.json",
+      "verseCount": 77
+    },
+    {
+      "id": "SK",
+      "file": "texts/spandakarika.json",
+      "verseCount": 53
+    },
+    {
+      "id": "VBT",
+      "file": "texts/vijnanabhairava.json",
+      "verseCount": 162
+    },
+    {
+      "id": "BS",
+      "file": "texts/bhairavastava.json",
+      "verseCount": 10
+    }
+  ],
+  "ontology": {
+    "tattvas": "ontology/tattvas.json",
+    "lexicon": "ontology/lexicon.json",
+    "upayas": "ontology/upayas.json",
+    "malas": "ontology/malas.json",
+    "lineage": "ontology/lineage.json",
+    "dharanas": "ontology/dharanas.json"
+  },
+  "graph": {
+    "edges": "graph/edges.json"
+  },
+  "curriculum": {
+    "modules": "curriculum/modules.json"
+  }
+}

@@ -1,0 +1,104 @@
+@import "tailwindcss";
+
+@theme {
+  --color-paper: var(--color-paper);
+  --color-surface: var(--color-surface);
+  --color-surface-hover: var(--color-surface-hover);
+  --color-border: var(--color-border);
+  --color-border-subtle: var(--color-border-subtle);
+  --color-ink: var(--color-ink);
+  --color-ink-muted: var(--color-ink-muted);
+  --color-ink-subtle: var(--color-ink-subtle);
+  --color-vermilion: var(--color-vermilion);
+  --color-vermilion-subtle: var(--color-vermilion-subtle);
+  --color-slate-trika: var(--color-slate-trika);
+  --color-slate-subtle: var(--color-slate-subtle);
+
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-serif: 'Newsreader', 'Source Serif 4', Georgia, serif;
+  --font-sanskrit: 'Noto Serif Devanagari', serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
+
+:root {
+  --color-paper: #FAF7F2;
+  --color-surface: #F2EDE4;
+  --color-surface-hover: #E8E2D7;
+  --color-border: #DDD4C6;
+  --color-border-subtle: #ECE5DB;
+  --color-ink: #1A1816;
+  --color-ink-muted: #5C564E;
+  --color-ink-subtle: #8A8276;
+  --color-vermilion: #8F242B;
+  --color-vermilion-subtle: #F6EBEB;
+  --color-slate-trika: #264653;
+  --color-slate-subtle: #E8ECEE;
+}
+
+.dark {
+  --color-paper: #121110;
+  --color-surface: #1B1917;
+  --color-surface-hover: #262320;
+  --color-border: #2E2A26;
+  --color-border-subtle: #3A3530;
+  --color-ink: #EAE3D8;
+  --color-ink-muted: #A8A095;
+  --color-ink-subtle: #756E65;
+  --color-vermilion: #C94A4A;
+  --color-vermilion-subtle: #2D181A;
+  --color-slate-trika: #528B9F;
+  --color-slate-subtle: #19272E;
+}
+
+/* Base typography and smooth rendering */
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-paper);
+  color: var(--color-ink);
+  min-height: 100vh;
+}
+
+.sanskrit-text {
+  font-family: var(--font-sanskrit);
+  line-height: 1.9;
+}
+
+/* Custom hairline borders and transitions */
+.hairline-border {
+  border: 1px solid var(--color-border);
+}
+
+.hairline-b {
+  border-bottom: 1px solid var(--color-border);
+}
+
+.hairline-t {
+  border-top: 1px solid var(--color-border);
+}
+
+.hairline-r {
+  border-right: 1px solid var(--color-border);
+}
+
+.hairline-l {
+  border-left: 1px solid var(--color-border);
+}
+
+/* Clean scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-border);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-ink-subtle);
+}
