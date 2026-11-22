@@ -7,6 +7,7 @@ import { GlobalSearchModal } from './components/GlobalSearchModal';
 import { ByokSettingsModal } from './components/ByokSettingsModal';
 
 import { HomePage } from './pages/HomePage';
+import { GraphPage } from './pages/GraphPage';
 import { LearnPage } from './pages/LearnPage';
 import { TattvasPage } from './pages/TattvasPage';
 import { TextsPage } from './pages/TextsPage';
@@ -21,7 +22,9 @@ const AppContent: React.FC = () => {
   // Route router logic
   let pageComponent = <HomePage />;
 
-  if (currentPath.startsWith('/learn')) {
+  if (currentPath.startsWith('/graph')) {
+    pageComponent = <GraphPage />;
+  } else if (currentPath.startsWith('/learn')) {
     pageComponent = <LearnPage />;
   } else if (currentPath.startsWith('/tattvas')) {
     pageComponent = <TattvasPage />;

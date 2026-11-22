@@ -3,6 +3,7 @@ import { useApp } from '../context/AppContext';
 import { graphService } from '../services/graphService';
 import { CitationPill } from './CitationPill';
 import { LexiconText } from './LexiconText';
+import { RelationshipGraphMini } from './RelationshipGraphMini';
 import { X, ChevronDown, ChevronUp, ShieldCheck, GitBranch } from 'lucide-react';
 import type { VerseNode, TattvaNode, ConceptNode, MasterNode, DharanaNode } from '../types/graph';
 
@@ -71,13 +72,15 @@ export const VerseInspectorModal: React.FC = () => {
           )}
 
           {/* Graph Neighborhood Panel (1-hop connected nodes) */}
-          <div className="hairline-t pt-5">
-            <div className="flex items-center gap-2 mb-3">
+          <div className="hairline-t pt-5 space-y-3">
+            <div className="flex items-center gap-2">
               <GitBranch size={16} className="text-vermilion" />
               <h4 className="font-serif font-semibold text-sm tracking-wide text-ink">
                 Deterministic Graph Neighborhood
               </h4>
             </div>
+
+            <RelationshipGraphMini nodeId={inspectorNodeId} height={140} />
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
               {neighbors.outgoing.length > 0 && (

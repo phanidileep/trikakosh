@@ -1,7 +1,8 @@
 import React from 'react';
 import { useApp } from '../context/AppContext';
 import { CitationPill } from '../components/CitationPill';
-import { Compass, ArrowRight, ShieldCheck, AlertCircle } from 'lucide-react';
+import { Compass, ArrowRight, ShieldCheck, AlertCircle, Network, BookOpen, Layers } from 'lucide-react';
+import manuscriptHero from '../assets/manuscript_hero.png';
 
 export const HomePage: React.FC = () => {
   const { navigateTo } = useApp();
@@ -79,23 +80,91 @@ export const HomePage: React.FC = () => {
   ];
 
   return (
-    <div className="max-w-5xl mx-auto px-4 sm:px-6 py-10 sm:py-14 space-y-16">
+    <div className="max-w-5xl mx-auto px-4 sm:px-6 py-10 sm:py-14 space-y-16 fade-in-up">
       {/* Editorial Hero Header */}
-      <section className="space-y-4 text-center sm:text-left hairline-b pb-12">
+      <section className="space-y-6 text-center sm:text-left hairline-b pb-12">
         <div className="inline-flex items-center gap-2 px-2.5 py-1 rounded hairline-border bg-vermilion-subtle text-vermilion text-xs font-mono">
           <ShieldCheck size={14} />
           <span>Lineage-Accurate • Verbatim Sanskrit • Zero AI Hallucination</span>
         </div>
 
-        <h1 className="font-serif text-3xl sm:text-5xl font-bold text-ink tracking-tight leading-tight">
-          TrikaKosh <span className="text-vermilion font-sanskrit text-3xl sm:text-4xl">त्रिककोश</span>
-        </h1>
+        <div className="flex flex-col sm:flex-row sm:items-baseline sm:justify-between gap-2">
+          <h1 className="font-serif text-3xl sm:text-5xl font-bold text-ink tracking-tight leading-tight">
+            TrikaKosh <span className="text-vermilion font-sanskrit text-3xl sm:text-4xl">त्रिककोश</span>
+          </h1>
+          <span className="font-mono text-xs text-ink-subtle">
+            Kashmir Shaivism & Bhairava Sādhana Architecture
+          </span>
+        </div>
+
         <p className="font-serif text-lg sm:text-xl text-ink-muted italic max-w-3xl leading-relaxed">
           The open architectural starter platform for non-dual Kashmir Shaivism (Trika) & Bhairava Sādhana. Bridging rigorous philosophy, verbatim canonical Sanskrit, and practical contemplation.
         </p>
 
+        {/* Archival Bhūrjapatra (Birch-Bark) Heritage Card */}
+        <div className="vintage-frame bg-paper rounded-lg p-4 sm:p-6 overflow-hidden space-y-4">
+          <span className="vintage-corner-tl">⌜</span>
+          <span className="vintage-corner-tr">⌝</span>
+          <span className="vintage-corner-bl">⌞</span>
+          <span className="vintage-corner-br">⌟</span>
+
+          <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
+            <div className="md:col-span-5 relative rounded overflow-hidden hairline-border bg-stone-900 shadow-inner group">
+              <img
+                src={manuscriptHero}
+                alt="Kashmiri Birch-Bark (Bhūrjapatra) Manuscript with Central Triśūla-Yantra"
+                className="w-full h-auto object-cover opacity-95 group-hover:scale-102 transition-transform duration-500"
+              />
+              <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent pointer-events-none" />
+              <div className="absolute bottom-2 left-2 right-2 text-[10px] font-mono text-paper/90 px-1.5 py-0.5 bg-black/50 backdrop-blur-xs rounded">
+                Kashmiri Bhūrjapatra Manuscript Folio • Central Triśūla-Yantra
+              </div>
+            </div>
+
+            <div className="md:col-span-7 space-y-3">
+              <div className="inline-flex items-center gap-1.5 font-mono text-[10px] uppercase tracking-wider text-vermilion font-semibold">
+                <span>Archival Lineage Grounding</span>
+                <span>•</span>
+                <span>Śāradā Script Heritage</span>
+              </div>
+              <h2 className="font-serif text-xl sm:text-2xl font-bold text-ink leading-snug">
+                The Himalayan Birch-Bark Transmission
+              </h2>
+              <p className="text-xs text-ink-muted leading-relaxed font-serif">
+                Preserved across centuries in high Kashmir valleys on sacred birch-bark (<em>bhūrjapatra</em>), the Trika transmission is neither abstract speculative dogma nor passive asceticism. It is the living, self-luminous pulse (<em>spanda</em>) of Supreme Consciousness recognizing its own sovereign majesty.
+              </p>
+              <div className="pt-2 flex flex-wrap gap-2">
+                <button
+                  onClick={() => navigateTo('/graph')}
+                  className="px-3 py-1.5 bg-vermilion text-paper rounded font-mono text-xs font-medium hover:bg-vermilion/90 cursor-pointer flex items-center gap-1.5 shadow-xs"
+                >
+                  <Network size={13} />
+                  <span>Launch 2D Knowledge Graph (794 Threads)</span>
+                  <ArrowRight size={12} />
+                </button>
+                <button
+                  onClick={() => navigateTo('/learn')}
+                  className="px-3 py-1.5 bg-surface hover:bg-surface-hover hairline-border text-ink rounded font-mono text-xs font-medium cursor-pointer flex items-center gap-1.5"
+                >
+                  <Compass size={13} />
+                  <span>Curriculum (7 Modules)</span>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        {/* Faded Ornamental Divider */}
+        <div className="ornamental-dots py-2">
+          <span>✦</span>
+          <span>·</span>
+          <span className="font-sanskrit text-vermilion text-sm font-semibold">त्रिकम्</span>
+          <span>·</span>
+          <span>✦</span>
+        </div>
+
         {/* Orientation Block */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-4 pt-6 text-left">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-left">
           <div className="p-4 bg-surface rounded hairline-border space-y-2">
             <span className="font-mono text-xs uppercase tracking-wider text-vermilion font-semibold">
               1. What is Trika?
@@ -121,6 +190,76 @@ export const HomePage: React.FC = () => {
             <p className="text-xs text-ink-muted leading-relaxed">
               Taught in strict classical succession: Recognition (Pratyabhijñā) → Foundational Revelation (Śiva Sūtras) → Dynamic Vibration (Spanda) → Practical Contemplation (Vijñāna Bhairava).
             </p>
+          </div>
+        </div>
+      </section>
+
+      {/* Feature Exploration Grid: Graph, Tattvas, Sadhana */}
+      <section className="space-y-4">
+        <div className="flex items-baseline justify-between">
+          <div>
+            <span className="font-mono text-xs uppercase tracking-wider text-vermilion font-semibold">
+              Platform Architecture
+            </span>
+            <h2 className="font-serif text-2xl font-bold text-ink mt-0.5">
+              Explore the Connected Trika Universe
+            </h2>
+          </div>
+        </div>
+
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+          <div
+            onClick={() => navigateTo('/graph')}
+            className="p-5 bg-surface hover:bg-surface-hover hairline-border rounded-lg cursor-pointer transition-all hover:border-vermilion/50 space-y-3 group"
+          >
+            <div className="w-8 h-8 rounded bg-vermilion-subtle text-vermilion flex items-center justify-center">
+              <Network size={18} />
+            </div>
+            <h3 className="font-serif text-base font-bold text-ink group-hover:text-vermilion transition-colors">
+              Interactive 2D Knowledge Graph
+            </h3>
+            <p className="text-xs text-ink-muted leading-relaxed">
+              Explore 582 interconnected balls and 794 canonical relationship threads with physics simulation, dynamic search, zoom, and instant node inspection.
+            </p>
+            <span className="text-xs font-mono text-vermilion flex items-center gap-1 pt-1">
+              Open Graph Map <ArrowRight size={12} />
+            </span>
+          </div>
+
+          <div
+            onClick={() => navigateTo('/tattvas')}
+            className="p-5 bg-surface hover:bg-surface-hover hairline-border rounded-lg cursor-pointer transition-all hover:border-ochre/50 space-y-3 group"
+          >
+            <div className="w-8 h-8 rounded bg-ochre-subtle text-ochre flex items-center justify-center">
+              <Layers size={18} />
+            </div>
+            <h3 className="font-serif text-base font-bold text-ink group-hover:text-ochre transition-colors">
+              36-Tattva Cosmic Map
+            </h3>
+            <p className="text-xs text-ink-muted leading-relaxed">
+              Dual descent (sṛṣṭi) and ascent (saṃhāra) architecture. Inspect pure divine orders, the 5 cloaks of limitation (kañcukas), and material elements.
+            </p>
+            <span className="text-xs font-mono text-ochre flex items-center gap-1 pt-1">
+              Inspect 36 Levels <ArrowRight size={12} />
+            </span>
+          </div>
+
+          <div
+            onClick={() => navigateTo('/sadhana')}
+            className="p-5 bg-surface hover:bg-surface-hover hairline-border rounded-lg cursor-pointer transition-all hover:border-slate-trika/50 space-y-3 group"
+          >
+            <div className="w-8 h-8 rounded bg-slate-subtle text-slate-trika flex items-center justify-center">
+              <BookOpen size={18} />
+            </div>
+            <h3 className="font-serif text-base font-bold text-ink group-hover:text-slate-trika transition-colors">
+              112 Bhairava Dhāraṇās
+            </h3>
+            <p className="text-xs text-ink-muted leading-relaxed">
+              Vijñāna Bhairava Tantra contemplation matrix categorized by Upāyas (Śāmbhava, Śākta, Āṇava) and 7 natural doorways with theoretical graph proofs.
+            </p>
+            <span className="text-xs font-mono text-slate-trika flex items-center gap-1 pt-1">
+              Enter Sādhana Laboratory <ArrowRight size={12} />
+            </span>
           </div>
         </div>
       </section>

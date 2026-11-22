@@ -8,6 +8,7 @@ export const Navbar: React.FC = () => {
 
   const navLinks = [
     { path: '/', label: 'Start Here', icon: BookOpen },
+    { path: '/graph', label: 'Interactive Graph', icon: GitBranch },
     { path: '/learn', label: 'Learn (7 Modules)', icon: Compass },
     { path: '/tattvas', label: '36 Tattvas', icon: Layers },
     { path: '/texts', label: 'Corpus Reader', icon: BookMarked },

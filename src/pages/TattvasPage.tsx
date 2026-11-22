@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { useApp } from '../context/AppContext';
 import { graphService } from '../services/graphService';
 import { CitationPill } from '../components/CitationPill';
+import { RelationshipGraphMini } from '../components/RelationshipGraphMini';
 import { ArrowDown, ArrowUp, ChevronRight } from 'lucide-react';
 import type { TattvaNode } from '../types/graph';
 
@@ -206,6 +207,18 @@ export const TattvasPage: React.FC = () => {
                   <p className="text-ink">{selectedTattva.malaOrKancuka}</p>
                 </div>
               )}
+
+              {/* Architectural Relationship Mini Graph */}
+              <div className="pt-2 hairline-t">
+                <span className="font-mono text-[10px] uppercase text-ink-subtle font-semibold block mb-1.5">
+                  Architectural Neighborhood
+                </span>
+                <RelationshipGraphMini
+                  nodeId={selectedTattva.id}
+                  height={140}
+                  onNodeClick={(id) => openInspector(id)}
+                />
+              </div>
 
               {/* Mapped Verses in Corpus */}
               <div className="pt-2 hairline-t">

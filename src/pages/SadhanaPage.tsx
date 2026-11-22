@@ -3,6 +3,7 @@ import { useApp } from '../context/AppContext';
 import { graphService } from '../services/graphService';
 import { CitationPill } from '../components/CitationPill';
 import { LexiconText } from '../components/LexiconText';
+import { RelationshipGraphMini } from '../components/RelationshipGraphMini';
 import { Compass, Search, Maximize2, Minimize2, ArrowRight } from 'lucide-react';
 import type { DharanaDoorway } from '../types/graph';
 
@@ -213,6 +214,21 @@ export const SadhanaPage: React.FC = () => {
                 <span>Demonstrated in:</span>
                 <CitationPill id={activeReadingDharana.whyItWorksGraphProof.targetVerseId} />
               </div>
+            </div>
+
+            {/* Contemplative Graph Context */}
+            <div className="space-y-1.5">
+              <span className="font-mono font-semibold uppercase text-ink-subtle block text-[10px]">
+                Philosophical & Practice Neighborhood
+              </span>
+              <RelationshipGraphMini
+                nodeId={activeReadingDharana.verseId}
+                height={160}
+                onNodeClick={(id) => {
+                  setReadingModeDharanaId(null);
+                  openInspector(id);
+                }}
+              />
             </div>
 
             <div className="text-center pt-2">

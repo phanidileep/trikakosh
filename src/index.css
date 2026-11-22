@@ -13,6 +13,8 @@
   --color-vermilion-subtle: var(--color-vermilion-subtle);
   --color-slate-trika: var(--color-slate-trika);
   --color-slate-subtle: var(--color-slate-subtle);
+  --color-ochre-trika: #D9A05B;
+  --color-saffron-trika: #C94A4A;
 
   --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
   --font-serif: 'Newsreader', 'Source Serif 4', Georgia, serif;
@@ -82,6 +84,131 @@ body {
 
 .hairline-l {
   border-left: 1px solid var(--color-border);
+}
+
+/* Vintage Archival Frame with Double Border and Corner Accents */
+.vintage-frame {
+  position: relative;
+  border: 3px double var(--color-border);
+  box-shadow: 0 4px 20px -2px rgba(26, 24, 22, 0.05);
+}
+
+.dark .vintage-frame {
+  box-shadow: 0 4px 25px -2px rgba(0, 0, 0, 0.4);
+}
+
+.vintage-frame::before,
+.vintage-frame::after {
+  content: '';
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  border-color: var(--color-vermilion);
+  pointer-events: none;
+}
+
+.vintage-frame::before {
+  top: 3px;
+  left: 3px;
+  border-top: 2px solid var(--color-vermilion);
+  border-left: 2px solid var(--color-vermilion);
+}
+
+.vintage-frame::after {
+  bottom: 3px;
+  right: 3px;
+  border-bottom: 2px solid var(--color-vermilion);
+  border-right: 2px solid var(--color-vermilion);
+}
+
+.vintage-frame-corners {
+  position: relative;
+}
+
+.vintage-corner-tl {
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  font-family: var(--font-mono);
+  font-size: 14px;
+  color: var(--color-vermilion);
+  line-height: 1;
+  pointer-events: none;
+  opacity: 0.8;
+}
+
+.vintage-corner-tr {
+  position: absolute;
+  top: 4px;
+  right: 4px;
+  font-family: var(--font-mono);
+  font-size: 14px;
+  color: var(--color-vermilion);
+  line-height: 1;
+  pointer-events: none;
+  opacity: 0.8;
+}
+
+.vintage-corner-bl {
+  position: absolute;
+  bottom: 4px;
+  left: 4px;
+  font-family: var(--font-mono);
+  font-size: 14px;
+  color: var(--color-vermilion);
+  line-height: 1;
+  pointer-events: none;
+  opacity: 0.8;
+}
+
+.vintage-corner-br {
+  position: absolute;
+  bottom: 4px;
+  right: 4px;
+  font-family: var(--font-mono);
+  font-size: 14px;
+  color: var(--color-vermilion);
+  line-height: 1;
+  pointer-events: none;
+  opacity: 0.8;
+}
+
+/* Soft Page Route Entrance */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in-up {
+  animation: fadeInUp 0.25s ease-out forwards;
+}
+
+/* Ornamental Rules and Dots */
+.ornamental-dots {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  color: var(--color-border);
+  font-family: var(--font-serif);
+  font-size: 0.875rem;
+  letter-spacing: 0.2em;
+  margin: 2rem 0;
+  user-select: none;
+}
+
+.ornamental-dots::before,
+.ornamental-dots::after {
+  content: '';
+  height: 1px;
+  width: 40px;
+  background-color: var(--color-border);
 }
 
 /* Clean scrollbars */
